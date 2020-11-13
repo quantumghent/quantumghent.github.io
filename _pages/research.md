@@ -2,6 +2,7 @@
 title: "Quantum Group - Research"
 layout: textlay
 excerpt: "Quantum Group -- Research"
+usemathjax: true
 sitemap: false
 permalink: /research/
 ---

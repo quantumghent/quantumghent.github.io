@@ -1,0 +1,17 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ: # number of fields of the following type that you will use, up to 5
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Bram Vanhecke
+  photo: bb.jpg
+  email: bavhecke.vanhecke@ugent.be
+
+- name: Alexis Schotte
+  photo: bb.jpg
+  email: alexis.schotte@ugent.be

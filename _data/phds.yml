@@ -23,4 +23,25 @@
   
 - name: Bastiaan Aelbrecht
   photo: bb.jpg
+  info: PhD student since 2020
   email: bastiaan.aelbrecht@ugent.be
+  
+- name: Lander Burgelman
+  photo: bb.jpg
+  info: FWO PhD student since 2020
+  email: lander.burgelman@ugent.be
+
+- name: Lukas Devos
+  photo: lukas.jpg
+  info: PhD student since 2020
+  email: lukas.devos@ugent.be
+  
+  - name: Marco Deweirdt
+  photo: bb.jpg
+  info: PhD student since 2020
+  email: marco.deweirdt@ugent.be
+  
+  - name: Daan Maertens
+  photo: bb.jpg
+  info: PhD student since 2020
+  email: daan.maertens@ugent.be

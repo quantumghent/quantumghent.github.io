@@ -1,7 +1,7 @@
 <div class="well">
     <h4>Activities</h4>
     
-    {% for article in site.data.news limit:9 %}
+    {% for article in site.data.activities limit:9 %}
     {{ article.date }}
     <p>{{ article.headline }}</p>
     {% endfor %}

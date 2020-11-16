@@ -1,7 +1,7 @@
 ---
 title: "Activities"
 layout: textlay
-excerpt: "Quantum Activities at Ghent University."
+excerpt: "Quantum Activities at Ghent University. Needs update."
 sitemap: false
 permalink: /activities.html
 ---

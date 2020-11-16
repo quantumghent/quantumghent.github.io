@@ -13,7 +13,7 @@ permalink: /activities.html
 <em>{{ activity.headline }}</em></p>
 {% endfor %}
 
-{% include carousel.html height="50" unit="%" duration="7" %}
+{% include carousel.html height="400" unit="%" duration="7" %}
 
 {% comment %}
 {% info at https://jekyllcodex.org/without-plugin/slider/ %}

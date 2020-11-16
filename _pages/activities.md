@@ -6,7 +6,7 @@ sitemap: false
 permalink: /activities.html
 ---
 
-# News
+# Activities
 
 {% for activity in site.data.activities %}
 <p>{{ activity.date }} <br>

@@ -1,9 +1,9 @@
 <div class="well">
     <h4>Activities</h4>
     
-    {% for article in site.data.activities limit:9 %}
-    {{ article.date }}
-    <p>{{ article.headline }}</p>
+    {% for activity in site.data.activities limit:9 %}
+    {{ activity.date }}
+    <p>{{ activity.headline }}</p>
     {% endfor %}
     
     <h4><a href="{{ site.url }}{{ site.baseurl }}/activities.html">... see all Activities</a></h4>

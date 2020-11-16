@@ -8,7 +8,7 @@ permalink: /activities.html
 
 # News
 
-{% for article in site.data.activities %}
-<p>{{ article.date }} <br>
-<em>{{ article.headline }}</em></p>
+{% for activity in site.data.activities %}
+<p>{{ activity.date }} <br>
+<em>{{ activity.headline }}</em></p>
 {% endfor %}

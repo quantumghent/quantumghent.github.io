@@ -1,0 +1,11 @@
+{% if page.images %}
+<amp-carousel width="400"
+  height="200"
+  layout="responsive"
+  type="slides">
+{% for image in page.images %}
+<amp-img src="{{ site.baseurl }}{{ image }}"layout="fixed-height" height="400">
+</amp-img>
+{% endfor %}
+</amp-carousel>
+{% endif %}

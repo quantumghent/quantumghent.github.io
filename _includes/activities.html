@@ -1,0 +1,12 @@
+<div class="well">
+    <h4>Activities</h4>
+    
+    {% for article in site.data.news limit:9 %}
+    {{ article.date }}
+    <p>{{ article.headline }}</p>
+    {% endfor %}
+    
+    <h4><a href="{{ site.url }}{{ site.baseurl }}/activities.html">... see all Activities</a></h4>
+    
+        </div>
+    

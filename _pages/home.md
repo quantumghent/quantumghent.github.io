@@ -23,21 +23,45 @@ permalink: /
 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/www1.JPG" layout="fixed-height" height="400" alt="Slide 1" />
+            <div class="carousel-caption">
+                <h3>Captions</h3>
+                <p>Even with captions!</p>
+            </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/www2.JPG" layout="fixed-height" height="400" alt="Slide 2" />
+            <div class="carousel-caption">
+                <h3>Captions</h3>
+                <p>Even with captions!</p>
+            </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/www3.JPG" layout="fixed-height" height="400" alt="Slide 3" />
+            <div class="carousel-caption">
+                <h3>Captions</h3>
+                <p>Even with captions!</p>
+            </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/www4.JPG" layout="fixed-height" height="400" alt="Slide 4" />
+            <div class="carousel-caption">
+                <h3>Captions</h3>
+                <p>Even with captions!</p>
+            </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/www5.JPG" layout="fixed-height" height="400" alt="Slide 5" />
+            <div class="carousel-caption">
+                <h3>Captions</h3>
+                <p>Even with captions!</p>
+            </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/www6.JPG" layout="fixed-height" height="400" alt="Slide 6" />
+            <div class="carousel-caption">
+                <h3>Captions</h3>
+                <p>Even with captions!</p>
+            </div>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

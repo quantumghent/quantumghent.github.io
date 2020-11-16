@@ -22,22 +22,22 @@ permalink: /
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/www1.JPG" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/www1.JPG" layout="fixed-height" height="400" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/www2.JPG" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/www2.JPG" layout="fixed-height" height="400" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/www3.JPG" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/www3.JPG" layout="fixed-height" height="400" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/www4.JPG" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/www4.JPG" layout="fixed-height" height="400" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/www5.JPG" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/www5.JPG" layout="fixed-height" height="400" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/www6.JPG" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/www6.JPG" layout="fixed-height" height="400" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

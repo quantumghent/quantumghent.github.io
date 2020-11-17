@@ -1,5 +1,5 @@
 images: 
-  - image: "{{ site.url }}{{ site.baseurl }}/images/www1.JPG"
-  - image: "{{ site.url }}{{ site.baseurl }}/images/www2.JPG"
-  - image: "{{ site.url }}{{ site.baseurl }}/images/www3.JPG"
-  - image: "{{ site.url }}{{ site.baseurl }}/images/www4.JPG"
+  - image: "{{ site.url }}{{ site.baseurl }}/images/carouselpic/lund1.JPG"
+  - image: "{{ site.url }}{{ site.baseurl }}/images/carouselpic/lund2.JPG"
+  - image: "{{ site.url }}{{ site.baseurl }}/images/carouselpic/lund3.JPG"
+  - image: "{{ site.url }}{{ site.baseurl }}/images/carouselpic/lund4.JPG"

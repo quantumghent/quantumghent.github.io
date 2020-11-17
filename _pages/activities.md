@@ -13,5 +13,4 @@ permalink: /activities.html
 <em>{{ activity.headline }}</em></p>
 {% endfor %}
 
-{% include carousel.html height="50" unit="%" duration="7" %}
 

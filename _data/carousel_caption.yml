@@ -1,0 +1,16 @@
+#- image:
+#  caption: rock.jpg
+#  subcaption:
+#  link:
+
+- image: "/images/carouselpic/lund1.JPG"
+  caption: captions, so nice
+
+- image: "/images/carouselpic/lund2.JPG"
+  caption: captions, so nice
+  
+- image: "/images/carouselpic/lund3.JPG"
+  caption: captions, so nice
+
+- image: "/images/carouselpic/lund4.JPG"
+  caption: captions, so nice

@@ -1,5 +1,9 @@
 images: 
-  - image: "/images/carouselpic/lund1.JPG"
-  - image: "/images/carouselpic/lund2.JPG"
-  - image: "/images/carouselpic/lund3.JPG"
-  - image: "/images/carouselpic/lund4.JPG"
+  - image: "lund1.JPG"
+  - image: "lund2.JPG"
+  - image: "lund3.JPG"
+  - image: "lund4.JPG"
+
+{% comment %}
+{% info at https://jekyllcodex.org/without-plugin/slider/ %}
+{% endcomment %}

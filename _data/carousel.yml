@@ -1,5 +1,5 @@
 images: 
-  - image: "/images/carouselpic/lund1.JPG"
-  - image: "/images/carouselpic/lund2.JPG"
-  - image: "/images/carouselpic/lund3.JPG"
-  - image: "/images/carouselpic/lund4.JPG"
+  - image: /images/carouselpic/lund1.JPG
+  - image: /images/carouselpic/lund2.JPG
+  - image: /images/carouselpic/lund3.JPG
+  - image: /images/carouselpic/lund4.JPG

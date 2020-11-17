@@ -5,9 +5,9 @@ excerpt: "Quantum Group at Ghent University."
 sitemap: false
 permalink: /
 ---
-
+<!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
+    <!- - Menu - ->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -18,7 +18,7 @@ permalink: /
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
-    <!-- Items -->
+    <!- - Items - ->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
@@ -73,3 +73,4 @@ permalink: /
     <span class="sr-only">Next</span>
   </a>
 </div>
+-->

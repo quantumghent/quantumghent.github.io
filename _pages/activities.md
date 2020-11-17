@@ -6,7 +6,7 @@ sitemap: false
 permalink: /activities.html
 ---
 
-# Activities. Needs update88
+# Activities. Needs update99
 
 {% for activity in site.data.activities %}
 <p>{{ activity.date }} <br>

@@ -1,5 +1,5 @@
 images: 
-  - image: www1.JPG
-  - image: www2.JPG
-  - image: www3.JPG
-  - image: www4.JPG
+  - image: {{ site.url }}{{ site.baseurl }}/images/www1.JPG
+  - image: {{ site.url }}{{ site.baseurl }}/images/www2.JPG
+  - image: {{ site.url }}{{ site.baseurl }}/images/www3.JPG
+  - image: {{ site.url }}{{ site.baseurl }}/images/www4.JPG

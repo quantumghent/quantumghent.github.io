@@ -29,8 +29,8 @@
             {% for item in site.data.carousel.topics %}
             <li class="carousel__slide" style="background-image: url('/images/carouselpic/{{ item.image }}');">
               <div class="carousel-caption">
-                <h3>{{item.caption}}</h3>
-                <p>LA is always so much fun!</p>
+                <h3>{{ item.caption }}</h3>
+                <p>{{ item.subcaption }}</p>
               </div>
             </li>
             {% endfor %}

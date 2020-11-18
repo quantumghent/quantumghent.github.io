@@ -6,7 +6,7 @@ sitemap: false
 permalink: /activities.html
 ---
 
-# Activities. Needs update?!
+# Activities. Needs update!!
 ## Some calendar system would be handy.s
 
 {% for activity in site.data.activities %}

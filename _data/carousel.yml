@@ -1,21 +1,21 @@
 #- image:
 #  caption: rock.jpg
 #  subcaption:
-#  link:
+#  link: does not work yet!
 
 topics: 
   - image: www1.JPG
-    caption: 'test1'
-    subcaption: 'and a subcaption'
+    caption: test1
+    subcaption: and a subcaption
   - image: www2.JPG
-    caption: 'test2'
-    subcaption: 'and another subcaption'
+    caption: test2
+    subcaption: and another subcaption
   - image: www3.JPG
-    caption: 'test3'
-    subcaption: 'and another subcaption'
+    caption: test3
+    subcaption: and another subcaption
   - image: www4.JPG
-    caption: 'test4'
-    subcaption: 'and yet another subcaption'
+    caption: test4
+    subcaption: and yet another subcaption
   - image: rsz_www1.JPG
-    caption: 'test5'
-    subcaption: "all these subcaptions, can't handle it"
+    caption: test5
+    subcaption: all these subcaptions, can't handle it

@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-## Permanent staff
+## Senior staff
 {% assign number_printed = 0 %}
 {% for member in site.data.zap %}
 

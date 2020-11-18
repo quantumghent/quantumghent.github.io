@@ -1,7 +1,7 @@
 #- image:
-#  caption: rock.jpg
+#  caption: 
 #  subcaption:
-#  link: does not work yet!
+#  link: 
 
 
 - image: www1.JPG
@@ -12,7 +12,7 @@
 - image: www2.JPG
   caption: And what you do?
   subcaption: and another subcaption
-  link: https://arxiv.org/pdf/1802.01590.pdf
+  link: https://google.be
 
 - image: www3.JPG
   caption: A little

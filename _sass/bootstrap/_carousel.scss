@@ -216,7 +216,7 @@
 // -----------------------------
 // Hidden by default for smaller viewports
 .carousel-caption {
-  position: relative;
+  position: absolute;
   left: 0;
   right: 0;
   bottom: 20px;
@@ -257,12 +257,7 @@
     }
   }
 
-  // Show and left align the captions
-  .carousel-caption {
-    left: 20%;
-    right: 20%;
-    padding-bottom: 30px;
-  }
+
 
   // Move up the indicators
   .carousel-indicators {

@@ -8,10 +8,19 @@ permalink: /research/
 
 # Research
 
-Test some math: $$x^3$$
+## Many body systems and tensor networks
 
-$$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
+### Classical and quantum spin systems
 
+### Topological phases of matter
+
+### Conformal field theories
+
+### Quantum field theories and gauge theories
+
+## Quantum information and computation
+
+## Cold atoms and Bose-Einstein condensates
 
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>

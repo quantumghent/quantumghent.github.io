@@ -6,7 +6,11 @@ Forked from the [Allan Lab](http://www.allanlab.org) site. Code released under t
 
 ## Team
 
-To adjust your profile on the *Team* page, go to the **_data_** directory, and choose the corresponding .yml file (phds, zap, ...). In there you can write your **name**, some **info** and an **image**. The images are taken from the **_images\teampic** directory.
+To adjust your profile on the *Team* page, go to the **_data** directory, and choose the corresponding .yml file (phds, zap, ...). In there you can write your **name**, some **info** and an **image** (make sure to add the correct extension). The images are taken from the **_images\teampic** directory. Preferred aspect ratio is 1:1.
+
+## News
+
+
 
 ## Homepage slideshow
 

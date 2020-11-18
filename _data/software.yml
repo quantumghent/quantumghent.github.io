@@ -64,6 +64,15 @@
     url: https://github.com/Jutho/TensorOperations.jl
     display: Jutho/TensorOperations.jl
 
+- title: "SparseArrayKit.jl"
+  image: julia.svg
+  language: julia
+  topic: general
+  description: A package for sparse arrays, stored using a "dictionary of keys" format. SparseArrayKit.jl supports basic array operations and provides compatibility with TensorOperations.jl.
+  link:
+    url: https://github.com/Jutho/SparseArrayKit.jl
+    display: Jutho/SparseArrayKit.jl
+
 - title: "Strided.jl"
   image: julia.svg
   language: julia
@@ -72,6 +81,15 @@
   link:
     url: https://github.com/Jutho/Strided.jl
     display: Jutho/Strided.jl
+
+- title: "LinearMaps.jl"
+  image: julia.svg
+  language: julia
+  topic: general
+  description: A package for matrix free computations with linear maps. LinearMaps.jl provides a type to wrap an arbitrary function (which represents the action of a linear map on a vector) in a structure that behaves similar to a matrix, in that it has a two-dimensional shape. Linear maps can be multiplied and added and combined with other matrices or linear maps, without ever doing the explicit computation, but such that an efficient implementation of the resulting matrix vector product is provided.
+  link:
+    url: https://github.com/Jutho/LinearMaps.jl
+    display: Jutho/LinearMaps.jl
 
 - title: "KrylovKit.jl"
   image: julia.svg

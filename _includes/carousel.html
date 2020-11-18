@@ -29,7 +29,7 @@
             {% for item in site.data.carousel %}
             <li class="carousel__slide" style="background-image: url('/images/carouselpic/{{ item.image }}');">
               <div class="carousel-caption d-md-block">
-                <h3>{{ item.caption }}</h3>
+                <h3 style="border:3px; border-style:solid; border-color:#FF0000; padding: 1em;">{{ item.caption }}</h3>
                 <p>{{ item.subcaption }}</p>
                 <a href="https://google.com" class="btn btn-primary">Go to Google</a>
               </div>

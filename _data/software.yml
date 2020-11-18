@@ -1,0 +1,92 @@
+# topic: physics
+# topic: general
+
+- title: "TensorKit.jl"
+  image: julia.svg
+  language: julia
+  topic: physics
+  description: A package for efficient and large-scale tensor computations, where tensors take a very general definition (inspired from the theory of monoidal categories). Provides support for tensors with arbitrary symmetries (abelian, non-abelian, anyonic and categorical symmetries, a.k.a. fusion categories).
+  link:
+    url: https://github.com/Jutho/TensorKit.jl
+    display: Jutho/TensorKit.jl
+
+- title: "MPSKit.jl"
+  image: julia.svg
+  language: julia
+  topic: physics
+  description: A package with tensor network algorithms based on matrix product states and matrix product operators, useful for one-dimensional quantum systems and two-dimensional partition functions. Contains algorithms for ground states and fixed points, excitations, time evolution and thermal states, for finite as well as infinite systems.
+  link:
+    url: https://github.com/maartenvd/MPSKit.jl
+    display: maartenvd/MPSKit.jl
+
+- title: "MERA.jl"
+  image: julia.svg
+  language: julia
+  topic: physics
+  description: A package for calculations with the multiscale entanglement renormalization ansatz.  It has implementations of ternary, binary, and modified binary MERA (assuming translation and scale invariance) with functions for doing energy minimization, evaluating local expectation values, and computing scaling dimensions.
+  link:
+    url: https://github.com/mhauru/MERA.jl
+    display: mhauru/MERA.jl
+
+- title: "PEPSKit.jl"
+  image: julia.svg
+  language: julia
+  topic: physics
+  description: A package with tensor network algorithms based on projected entangled-pair states for both finite and infinite systems. Work in progress...
+  link:
+    url: https://github.com/maartenvd/PEPSKit.jl
+    display: maartenvd/PEPSKit.jl
+
+- title: "WignerSymbols.jl"
+  image: julia.svg
+  language: julia
+  topic: physics
+  description: A package to compute Wigner's 3j and 6j symbols (and related quantities such as Clebsch-Gordan coefficients and Racah coefficients) to arbitrary precision. The result is computed as the square root of a rational of arbitrary-precision integers.
+  link:
+    url: https://github.com/Jutho/WignerSymbols.jl
+    display: Jutho/WignerSymbols.jl
+
+- title: "SUNRepresentations.jl"
+  image: julia.svg
+  language: julia
+  topic: physics
+  description: A package to compute Clebsch-Gordan coefficients for the special unitary group SU(N) of arbitrary dimension N. Recoupling coefficients (known as F-symbols, related to Wigner's 6j symbols) can also be computed, and an interface to TensorKit.jl is provided.
+  link:
+    url: https://github.com/maartenvd/SUNRepresentations.jl
+    display: maartenvd/SUNRepresentations.jl
+
+- title: "TensorOperations.jl"
+  image: julia.svg
+  language: julia
+  topic: general
+  description: A package to efficiently contract and permute multidimensional arrays using a convenient syntax based on Einstein's summation convention. Provides an extensible API (used by e.g. TensorKit.jl) and tools to optimize contraction order and to cache storage buffers for temporaries.
+  link:
+    url: https://github.com/Jutho/TensorOperations.jl
+    display: Jutho/TensorOperations.jl
+
+- title: "Strided.jl"
+  image: julia.svg
+  language: julia
+  topic: general
+  description: An accelorator package to work with strided arrays, i.e. dense arrays whose memory layout has a fixed stride along every dimension. Strided.jl does not make any assumptions about the strides (such as stride 1 along first dimension, or monotonously increasing strides) and provides multithreaded and cache friendly implementations for mapping, reducing, broadcasting such arrays, as well as taking views, reshaping and permuting dimensions.
+  link:
+    url: https://github.com/Jutho/Strided.jl
+    display: Jutho/Strided.jl
+
+- title: "KrylovKit.jl"
+  image: julia.svg
+  language: julia
+  topic: general
+  description: Iterative Krylov-based routines for linear systems, eigenvalue problems and singular values, and matrix functions (such as the exponential function). KrylvoKit.jl accepts a very general class of user types to act as "vector" and arbitrary functions to act as linear operators on those vectors.
+  link:
+    url: https://github.com/Jutho/KrylovKit.jl
+    display: Jutho/KrylovKit.jl
+
+- title: "OptimKit.jl"
+  image: julia.svg
+  language: julia
+  topic: general
+  description: A package for gradient based optimization with extreme flexibility towards parameterization of the problem. OptimKit.jl supports optimization on manifolds (i.e. Riemannian optimization) using gradient descent, conjugate gradient and limited-memory quasi newton methods, where custom retractions and vector transports can be specified.
+  link:
+    url: https://github.com/Jutho/OptimKit.jl
+    display: Jutho/OptimKit.jl

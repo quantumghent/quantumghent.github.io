@@ -3,10 +3,10 @@
 
 <div class="carousel__holder">
     <div class="carousel">
-        {% for item in site.data.carousel.images %}
+        {% for item in site.data.carousel.topics %}
           <input class="carousel__activator" type="radio" name="carousel" id="{{ letters[forloop.index0] }}" {% if forloop.first %}checked="checked"{% endif %} />
         {% endfor %}
-        {% for item in site.data.carousel.images %}
+        {% for item in site.data.carousel.topics %}
           {% if forloop.index == forloop.length %}
             {% assign nextindex = 0 %}
           {% else %}
@@ -26,10 +26,10 @@
         {% endfor %}
         <div class="carousel__track">
           <ul>
-            {% for item in site.data.carousel.images %}
+            {% for item in site.data.carousel.topics %}
             <li class="carousel__slide" style="background-image: url('/images/carouselpic/{{ item.image }}');">
               <div class="carousel-caption">
-                <h3>Los Angeles</h3>
+                <h3>{{item.caption}}</h3>
                 <p>LA is always so much fun!</p>
               </div>
             </li>
@@ -37,7 +37,7 @@
           </ul>
         </div>
         <div class="carousel__indicators">
-            {% for item in site.data.carousel.images %}
+            {% for item in site.data.carousel.topics %}
               <label class="carousel__indicator" for="{{ letters[forloop.index0] }}"></label>
             {% endfor %}
         </div>
@@ -61,7 +61,7 @@
 .carousel__activator {
   display: none;
 }
-{% for item in site.data.carousel.images %}
+{% for item in site.data.carousel.topics %}
 .carousel__activator:nth-of-type({{ forloop.index }}):checked ~ .carousel__track {
   -webkit-transform: translateX(-{{ forloop.index0 }}00%);
           transform: translateX(-{{ forloop.index0 }}00%);
@@ -153,7 +153,7 @@
   right: 0;
   opacity: 1;
 }
-{% for item in site.data.carousel.images %}
+{% for item in site.data.carousel.topics %}
 .carousel__track .carousel__slide:nth-of-type({{ forloop.index }}) {
   -webkit-transform: translateX({{ forloop.index0 }}00%);
           transform: translateX({{ forloop.index0 }}00%);
@@ -178,7 +178,7 @@
 .carousel__indicator {
   background-color: #fafafa;
 }
-{% for item in site.data.carousel.images %}
+{% for item in site.data.carousel.topics %}
 .carousel__slide:nth-of-type({{ forloop.index }}),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type({{ forloop.index }}) {
   background-size: cover;

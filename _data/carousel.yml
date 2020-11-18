@@ -1,6 +1,16 @@
-images: 
+#- image:
+#  caption: rock.jpg
+#  subcaption:
+#  link:
+
+topics: 
   - image: www1.JPG
+    caption: 'test1'
   - image: www2.JPG
+    caption: 'test2'
   - image: www3.JPG
+    caption: 'test3'
   - image: www4.JPG
+    caption: 'test4'
   - image: rsz_www1.JPG
+    caption: 'test5'

@@ -11,11 +11,11 @@
 
 - name: Jutho Haegeman
   photo: bb.jpg
-  info: Associate Professor
+  info: Associate Professor since 2017
   email: jutho.haegeman@ugent.be
-  number_educ: 5
-  education1: Postdoc of the <a href="http://www.fwo.be">Research Foundation Flanders</a>
-  education2: Postdoc with Frank Verstraete, Vienna & Ghent University
-  education3: Ph.D. with Henri Verschelde, Ghent University
-  education4: Master of Science in Physics and Astronomy, Ghent University (2007)
-  education5: Master of Science in Engineering Physics, Ghent University (2007)
+#   number_educ: 5
+#   education1: Postdoc of the <a href="http://www.fwo.be">Research Foundation Flanders</a>
+#   education2: Postdoc with Frank Verstraete, Vienna & Ghent University
+#   education3: Ph.D. with Henri Verschelde, Ghent University
+#   education4: Master of Science in Physics and Astronomy, Ghent University (2007)
+#   education5: Master of Science in Engineering Physics, Ghent University (2007)

@@ -1,4 +1,4 @@
-# Quantum Group Website
+# [Quantum Group Website](https://quantumghent.github.io)
 
 This website is powered by Jekyll and some Bootstrap, Bootwatch.
 

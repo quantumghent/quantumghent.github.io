@@ -28,9 +28,10 @@
           <ul>
             {% for item in site.data.carousel %}
             <li class="carousel__slide" style="background-image: url('/images/carouselpic/{{ item.image }}');">
-              <div class="carousel-caption">
+              <div class="carousel-caption d-md-block">
                 <h3>{{ item.caption }}</h3>
                 <p>{{ item.subcaption }}</p>
+                <button class="btn btn-primary btn-lg" data-animation="animated zoomInUp" href = "https://arxiv.org/pdf/1802.01590.pdf">Learn more!</button>
               </div>
             </li>
             {% endfor %}

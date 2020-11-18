@@ -12,7 +12,8 @@ permalink: /publications/
 <iframe
     allowtransparency="true"
     frameborder="0"
-    style="width:100%;height:100%;overflow:hidden;"
+    style="width:100%;min-height:1000px;overflow:hidden;"
     scrolling="no"
+    onload="this.style.height=(this.contentDocument.body.scrollHeight+45) +'px';"
     src="https://biblio.ugent.be/publication?limit=250&amp;q=author+exact+3BD5ED34-F0EE-11E1-A9DE-61C894A0A6B4+or+author+exact+F9521A46-F0ED-11E1-A9DE-61C894A0A6B4&amp;sort=year.desc&amp;sort=datecreated.desc&amp;style=vancouver&amp;embed=1">
 </iframe>

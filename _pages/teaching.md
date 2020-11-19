@@ -19,3 +19,9 @@ Our senior staff is responsible for several courses in the [bachelor](https://st
 * [Strongly Correlated Quantum Systems](https://studiegids.ugent.be/2020/NL/studiefiches/C004071.pdf)
 
 # Master thesis
+
+Students that are interested in doing a master thesis in our group can always contact [any member of our group]({{ site.url }}{{ site.baseurl }}/team/). A file with a suggestion of possible topics can be found [here]({{ site.url }}{{ site.baseurl }}/downloads/thesistopics.pdf"), but these can be adjusted at will.
+
+# PhD thesis
+
+Last-year master students that are interested in pursuing a PhD within the research topics of our group are always welcome to contact any member of [the senior staff]({{ site.url }}{{ site.baseurl }}/team/).

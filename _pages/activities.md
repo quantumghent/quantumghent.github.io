@@ -1,5 +1,5 @@
 ---
-title: "Seminars"
+title: "Activities"
 layout: activitieslay
 excerpt: "Quantum Activities at Ghent University. Needs update."
 sitemap: false

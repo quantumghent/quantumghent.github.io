@@ -20,7 +20,7 @@ Our senior staff is responsible for several courses in the [bachelor](https://st
 
 # Master thesis
 
-Students that are interested in doing a master thesis in our group can always contact [any member of our group]({{ site.url }}{{ site.baseurl }}/team/). A file with a suggestion of possible topics can be found [here]({{ site.url }}{{ site.baseurl }}/downloads/thesistopics.pdf"), but these can be adjusted at will.
+Students that are interested in doing a master thesis in our group can always contact [any member of our group]({{ site.url }}{{ site.baseurl }}/team/). A file with a suggestion of possible topics can be found [here]({{ site.url }}{{ site.baseurl }}/downloads/thesistopics.pdf), but these can be adjusted at will.
 
 # PhD thesis
 

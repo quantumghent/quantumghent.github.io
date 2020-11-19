@@ -10,7 +10,7 @@ permalink: /team/
 
 ## Senior staff
 {% assign number_printed = 0 %}
-{% for member in site.data.zap %}
+{% for member in site.data.staff %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 

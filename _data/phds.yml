@@ -21,12 +21,17 @@
   photo: bb.jpg
   info: FWO PhD student since 2017
   email: robijn.vanhove@ugent.be
-  
+
+- name: Benoît Tuybens
+  photo: FOTOBenoitTuybens.jpg
+  info: FWO PhD student since 2017
+  email: benoit.tuybens@ugent.be
+
 - name: Bastiaan Aelbrecht
   photo: FOTObastiaanaelbrecht.jpg
   info: PhD student since 2020
   email: bastiaan.aelbrecht@ugent.be
-  
+
 - name: Lander Burgelman
   photo: bb.jpg
   info: FWO PhD student since 2020
@@ -36,18 +41,13 @@
   photo: FOTOlukasdevos.jpg
   info: PhD student since 2020
   email: lukas.devos@ugent.be
-  
+
 - name: Marco Deweirdt
   photo: FOTOmarcodeweirdt.jpg
   info: PhD student since 2020
   email: marco.deweirdt@ugent.be
-  
+
 - name: Daan Maertens
   photo: FOTOdaanmaertens.jpeg
   info: PhD student since 2020
   email: daan.maertens@ugent.be
-  
-- name: Benoît Tuybens
-  photo: FOTOBenoitTuybens.jpg
-  info: PhD student since 2017
-  email: benoit.tuybens@ugent.be

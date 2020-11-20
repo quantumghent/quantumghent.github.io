@@ -11,7 +11,7 @@
     display: Jutho/TensorKit.jl
 
 - title: "MPSKit.jl"
-  image: julia.svg
+  image: mpskit.svg
   language: julia
   topic: physics
   description: A package with tensor network algorithms based on matrix product states and matrix product operators, useful for one-dimensional quantum systems and two-dimensional partition functions. Contains algorithms for ground states and fixed points, excitations, time evolution and thermal states, for finite as well as infinite systems.
@@ -20,7 +20,7 @@
     display: maartenvd/MPSKit.jl
 
 - title: "MERA.jl"
-  image: julia.svg
+  image: merakit.svg
   language: julia
   topic: physics
   description: A package for calculations with the multiscale entanglement renormalization ansatz.  It has implementations of ternary, binary, and modified binary MERA (assuming translation and scale invariance) with functions for doing energy minimization, evaluating local expectation values, and computing scaling dimensions.
@@ -29,7 +29,7 @@
     display: mhauru/MERA.jl
 
 - title: "PEPSKit.jl"
-  image: julia.svg
+  image: pepskit.svg
   language: julia
   topic: physics
   description: A package with tensor network algorithms based on projected entangled-pair states for both finite and infinite systems. Work in progress...

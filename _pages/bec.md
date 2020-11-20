@@ -1,9 +1,9 @@
 ---
-title: "Quantum Group - Bose-Einstein Condensate"
+title: "Quantum Group - BEC Lab"
 layout: textlay
-excerpt: "Quantum Group -- Bose-Einstein Condensate"
+excerpt: "Quantum Group -- Bose-Einstein Condensate Laboratory"
 sitemap: false
 permalink: /bec/
 ---
 
-# Bose-Einstein Condensate
+# Bose-Einstein Condensate Laboratory

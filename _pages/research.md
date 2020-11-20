@@ -35,35 +35,35 @@ Our research in many-body physics focuses on <br>
 <i> When two systems, of which we know the states by their respective representation, enter into a temporary physical interaction due to known forces between them and when after a time of mutual influence the systems separate again, then they can no longer be described as before, viz., by endowing each of them with a representative of its own. I would not call that one but rather the characteristic trait of quantum mechanics. </i> (Erwin Schrodinger) <br>
 
 	
-Quantum Entanglement taught us that the whole is much more than the sum of its parts, and is responsible for all magic and wonder in quantum mechanics. We are only recently starting to understand how to describe and exploit entanglement, and research in the Quantum Group @ Ugent focuses on studying entanglement in the many-body context.  Recent papers on the topic include:<br>
+Quantum Entanglement taught us that the whole is much more than the sum of its parts, and is responsible for all magic and wonder in quantum mechanics. We are only recently starting to understand how to describe and exploit entanglement, and research in the Quantum Group @ Ugent focuses on studying entanglement in the many-body context.  Recent papers on the topic include:<br> <br>
 	
-	Entanglement compression in scale space: From the multiscale entanglement renormalization ansatz to matrix product operators <br>
+	<it> Entanglement compression in scale space: From the multiscale entanglement renormalization ansatz to matrix product operators </it><br>
 	K Van Acoleyen, A Hallam, M Bal, M Hauru, J Haegeman, F Verstraete <br>
-	Physical Review B 102 (16), 165131 <br>
+	Physical Review B 102 (16), 165131 <br> <br>
 	
-	Scaling hypothesis for matrix product states <br>
+	<it> Scaling hypothesis for matrix product states </it><br>
 	B Vanhecke, J Haegeman, K Van Acoleyen, L Vanderstraeten, F. Verstraete <br>
-	Physical Review Letters 123 (25), 250604 <br>
+	Physical Review Letters 123 (25), 250604 <br> <br>
 	
-	Symmetry breaking and the geometry of reduced density matrices <br>
+	<it> Symmetry breaking and the geometry of reduced density matrices </it><br>
 	V Zauner, D Draxler, L Vanderstraeten, J Haegeman, F Verstraete <br>
-	New Journal of Physics 18 (11), 113033 <br>
+	New Journal of Physics 18 (11), 113033 <br> <br>
 	
-	Entanglement of distillation for lattice gauge theories <br>
+	<it> Entanglement of distillation for lattice gauge theories </it><br>
 	K Van Acoleyen, N Bultinck, J Haegeman, M Marien, VB Scholz, F. Verstraete <br>
-	Physical Review Letters 117 (13), 131602 <br>
+	Physical Review Letters 117 (13), 131602 <br> <br>
 	
-	Entanglement rates and the stability of the area law for the entanglement entropy <br>
+	<it> Entanglement rates and the stability of the area law for the entanglement entropy </it><br>
 	M Mariën, KMR Audenaert, K Van Acoleyen, F Verstraete <br>
-	Communications in Mathematical Physics 346 (1), 35-73 <br>
+	Communications in Mathematical Physics 346 (1), 35-73 <br> <br>
 	
-	Shadows of anyons and the entanglement structure of topological phases <br>
+	<it> Shadows of anyons and the entanglement structure of topological phases </it><br>
 	J Haegeman, V Zauner, N Schuch, F Verstraete <br>
-	Nature communications 6 (1), 1-8 <br>
+	Nature communications 6 (1), 1-8 <br> <br>
 	
-	Entanglement rates and area laws <br>
+	<it> Entanglement rates and area laws </it><br>
 	K Van Acoleyen, M Mariën, F Verstraete <br>
-	Physical review letters 111 (17), 170501 <br>
+	Physical review letters 111 (17), 170501 <br> <br>
 	 
 	
 </p>

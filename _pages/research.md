@@ -29,7 +29,7 @@ Our research in many-body physics focuses on <br>
 
 ### Quantum Entanglement
 
-<i> When two systems, of which we know the states by their respective representation, enter into a temporary physical interaction due to known forces between them and when after a time of mutual influence the systems separate again, then they can no longer be described as before, viz., by endowing each of them with a representative of its own. I would not call that one but rather the characteristic trait of quantum mechanics. <\i> (Erwin Schrodinger) <br>
+<i> When two systems, of which we know the states by their respective representation, enter into a temporary physical interaction due to known forces between them and when after a time of mutual influence the systems separate again, then they can no longer be described as before, viz., by endowing each of them with a representative of its own. I would not call that one but rather the characteristic trait of quantum mechanics. </i> (Erwin Schrodinger) <br>
 
 	
 Quantum Entanglement taught us that the whole is much more than the sum of its parts, and is responsible for all magic and wonder in quantum mechanics. We are only recently starting to understand how to describe and exploit entanglement, and research in the Quantum Group @ Ugent focuses on studying entanglement in the many-body context.  

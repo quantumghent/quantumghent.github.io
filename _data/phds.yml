@@ -1,12 +1,11 @@
+# TEMPLATE: spaces are important, order is not
 #- name:
-#  photo: rock.jpg
+#  photo: bb.jpg
 #  info:
 #  email:
-#  number_educ: # number of fields of the following type that you will use, up to 5
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+#  scholar:
+#  github:
+#  twitter:
 
 - name: Bram Vanhecke
   photo: FOTObram.jpg
@@ -15,6 +14,7 @@
 
 - name: Alexis Schotte
   photo: bb.jpg
+  info: PhD student since 2016
   email: alexis.schotte@ugent.be
 
 - name: Robijn Vanhove
@@ -26,7 +26,18 @@
   photo: FOTOBenoitTuybens.jpg
   info: FWO PhD student since 2017
   email: benoit.tuybens@ugent.be
-  
+
+- name: Gertian Roose
+  photo: bb.jpg
+  info: PhD student since 2017
+  email: gertian.roose@ugent.be
+
+- name: Maarten Van Damme
+  photo: bb.jpg
+  info: PhD student since 2017
+  email: maarten.vandamme@ugent.be
+  github: maartenvd
+
 - name: Laurens Lootens
   photo: FOTOLaurensLootens.jpg
   info: FWO PhD student since 2018

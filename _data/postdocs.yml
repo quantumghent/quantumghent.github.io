@@ -1,27 +1,35 @@
+# TEMPLATE: spaces are important
 #- name:
 #  photo: rock.jpg
 #  info:
 #  email:
-#  number_educ: # number of fields of the following type that you will use, up to 5
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
-
+#  scholar:
+#  github:
+#  twitter:
 
 - name: Laurens Vanderstraeten
   photo: FOTOLaurens.jpg
   email: laurens.vanderstraeten@ugent.be
+  info: FWO PostDoc since 2016
+  scholar: m8wiLSsAAAAJ
 
 - name: Markus Hauru
   photo: bb.jpg
   email: markus@mhauru.org
+  info: PostDoc since 2019
+  github: mhauru
 
 - name: Xiaoyu Dong
   photo: FOTOXiaoyu.jpeg
   email: xiaoyu.dong@ugent.be
+  info: PostDoc since 2019
 
 - name: Romain Couvreur
   photo: FOTOromaincouvreur.jpg
   email: romain.couvreur@ugent.be
+  info: PostDoc since 2019
+
+- name: Klaas Gunst
+  photo: bb.jpg
+  email: klaas.gunst@ugent.be
+  info: PostDoc since 2020

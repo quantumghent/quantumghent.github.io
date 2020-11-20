@@ -21,40 +21,32 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
+  <h5><i>{{ member.info }}</i></h5>
+  <div class="col-sm-1">
+  <a href="mailto:{{ member.email }}"><i class="fas fa-envelope-square fa-2x"></i></a>
+  </div>
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+  {% unless member.scholar == nil %}
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
+  <div class="col-sm-1">
+  <a href="http://scholar.google.com/citations?user={{ member.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+  </div>
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
+  {% endunless %}
+  {% unless member.github == nil %}
 
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
+  <div class="col-sm-1">
+  <a href="http://github.com/{{ member.github }}"><i class="fab fa-github-square fa-2x"></i></a>
+  </div>
 
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
+  {% endunless %}
+  {% unless member.twitter == nil %}
 
-  </ul>
+  <div class="col-sm-1">
+  <a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>
+  </div>
+
+  {% endunless %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -83,40 +75,32 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
+  <h5><i>{{ member.info }}</i></h5>
+  <div class="col-sm-1">
+  <a href="mailto:{{ member.email }}"><i class="fas fa-envelope-square fa-2x"></i></a>
+  </div>
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+  {% unless member.scholar == nil %}
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
+  <div class="col-sm-1">
+  <a href="http://scholar.google.com/citations?user={{ member.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+  </div>
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
+  {% endunless %}
+  {% unless member.github == nil %}
 
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
+  <div class="col-sm-1">
+  <a href="http://github.com/{{ member.github }}"><i class="fab fa-github-square fa-2x"></i></a>
+  </div>
 
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
+  {% endunless %}
+  {% unless member.twitter == nil %}
 
-  </ul>
+  <div class="col-sm-1">
+  <a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>
+  </div>
+
+  {% endunless %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -145,40 +129,32 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
+  <h5><i>{{ member.info }}</i></h5>
+  <div class="col-sm-1">
+  <a href="mailto:{{ member.email }}"><i class="fas fa-envelope-square fa-2x"></i></a>
+  </div>
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
+  {% unless member.scholar == nil %}
 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
+  <div class="col-sm-1">
+  <a href="http://scholar.google.com/citations?user={{ member.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+  </div>
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
+  {% endunless %}
+  {% unless member.github == nil %}
 
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
+  <div class="col-sm-1">
+  <a href="http://github.com/{{ member.github }}"><i class="fab fa-github-square fa-2x"></i></a>
+  </div>
 
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
+  {% endunless %}
+  {% unless member.twitter == nil %}
 
-  </ul>
+  <div class="col-sm-1">
+  <a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>
+  </div>
+
+  {% endunless %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

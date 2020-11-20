@@ -27,7 +27,7 @@ Our group has developed several publicly available (and thus open source) softwa
   <pubtit>{{ package.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/software/{{ package.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ package.description }}</p>
-  <p><strong><a href="{{ package.link.url }}">{{ package.link.display }}</a></strong></p>
+  <p><i class="fab fa-github"></i>/<strong><a href="{{ package.link.url }}">{{ package.link.display }}</a></strong></p>
  </div>
 </div>
 
@@ -65,7 +65,7 @@ Our group has developed several publicly available (and thus open source) softwa
   <pubtit>{{ package.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/software/{{ package.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ package.description }}</p>
-  <p><strong><a href="{{ package.link.url }}">{{ package.link.display }}</a></strong></p>
+  <p><i class="fab fa-github"></i>/<strong><a href="{{ package.link.url }}">{{ package.link.display }}</a></strong></p>
  </div>
 </div>
 

@@ -1,0 +1,12 @@
+<div class="well">
+    <h4>Seminars</h4>
+
+    {% for seminar in site.data.seminars limit:9 %}
+    <p>{{ seminar.date }}
+    <br><b>{{ seminar.speaker }}</b>, {{ seminar.affiliation }}
+    <br><em>{{ seminar.title }}</em></p>
+    {% endfor %}
+
+    <h4><a href="{{ site.url }}{{ site.baseurl }}/seminars.html">... see all seminars</a></h4>
+
+</div>

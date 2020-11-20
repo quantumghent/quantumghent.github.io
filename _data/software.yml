@@ -56,7 +56,7 @@
     display: maartenvd/SUNRepresentations.jl
 
 - title: "TensorOperations.jl"
-  image: julia.svg
+  image: tensoroperations.svg
   language: julia
   topic: general
   description: A package to efficiently contract and permute multidimensional arrays using a convenient syntax based on Einstein's summation convention. Provides an extensible API (used by e.g. TensorKit.jl) and tools to optimize contraction order and to cache storage buffers for temporaries.

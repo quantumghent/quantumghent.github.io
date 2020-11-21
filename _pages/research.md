@@ -36,7 +36,8 @@ Our research in many-body physics focuses on <br>
 
 	
 Quantum Entanglement taught us that the whole is much more than the sum of its parts, and is responsible for all magic and wonder in quantum mechanics. On the one hand, it is responsible for the exponential scaling of and difficulty in simualting quantum many-body systems. On the other hand, it is precisely the key ingredient which enables the exponential speed-ups in future quantum computers, a topic of extreme current interest. We are  currently very much in the process of starting to understand how to describe and exploit entanglement, and research in the Quantum Group @ Ugent focuses on studying entanglement in the many-body context.  Recent papers on the topic include:<br> <br>
-	
+</p>
+<p style="margin-left: 200px">
   <i> Entanglement compression in scale space: From the multiscale entanglement renormalization ansatz to matrix product operators </i><br>
   K Van Acoleyen, A Hallam, M Bal, M Hauru, J Haegeman, F Verstraete <br>
   Physical Review B 102 (16), 165131 <br> <br>
@@ -65,8 +66,48 @@ Quantum Entanglement taught us that the whole is much more than the sum of its p
   K Van Acoleyen, M Mariën, F Verstraete <br>
   Physical review letters 111 (17), 170501 <br> <br>
 	 
-	
 </p>
+
+
+
+
+### Quantum Field Theory
+<p style="text-align:justify">
+
+Quantum Field Theory (QFT) provides a unified framework for describing both effective and fundamental theories of quantum many-body systems in the continuum. It is the de-facto language in which we can understand critical phenomena and the renormalization group, and QFT has been enormously successful in describing a wealth of phenomena seen in high energy physics and in condensed matter physics. Although QFT has been around for almost a century, there are still fantastic difficulties to overcome in the regime of strong correlations and/or coupling, it is in situations where the usual perturbative expansions in terms of Feynman diagrams fail. <br> <br>
+
+One of the long-term goals of the Quantum Group @ Ugent is to construct a comprehensive real-space based framework  to tackle QFT in this strong coupling regime. Our methods of choice are tensor networks, and we are both developing the mathematical framework as well as powerful new algorithms for simulating such systems. <br>
+
+</p>
+A collection of recent papers on that topic include: <br><br>
+
+<i> Lattice regularisation and entanglement structure of the Gross-Neveu model </i> <br>
+G Roose, N Bultinck, L Vanderstraeten, F Verstraete, K Van Acoleyen, J Haegeman <br>
+arXiv preprint arXiv:2010.03441 <br> <br>
+
+<i> Simulating lattice gauge theories within quantum technologies </i> <br>
+MC Bañuls et al. <br>
+The European Physical Journal D 74 (8), 1-42 <br> <br>
+
+<i> Mapping topological to conformal field theories through strange correlators </i><br>
+R Vanhove, M Bal, DJ Williamson, N Bultinck, J Haegeman, F Verstraete <br>
+Physical review letters 121 (17), 177203 <br> <br>
+
+<i> Real-time simulation of the Schwinger effect with matrix product states </i> <br>
+B Buyens, J Haegeman, F Hebenstreit, F Verstraete, K Van Acoleyen <br>
+Physical Review D 96 (11), 114501 <br> <br>
+
+<i> Finite-representation approximation of lattice gauge theories at the continuum limit with tensor networks </i> <br>
+B Buyens, S Montangero, J Haegeman, F Verstraete, K Van Acoleyen <br>
+Physical Review D 95 (9), 094509 <br> <br> <br>
+
+<i> Confinement and String Breaking for QED_2 in the Hamiltonian Picture </i> <br>
+B Buyens, J Haegeman, H Verschelde, F Verstraete, K Van Acoleyen <br>
+Physical Review X 6 (4), 041040 <br> <br>
+
+
+
+
 
 ### Topological phases of matter
 

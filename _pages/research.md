@@ -123,7 +123,7 @@ Our research focuses on using tensor networks to devise universal non-Abelian qu
 
 </p>
 
-Relevant papers on this topic are 
+Relevant papers on this topic are <br><br>
 
 <p style="margin-left: 40px">
 

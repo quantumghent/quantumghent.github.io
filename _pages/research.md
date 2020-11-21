@@ -138,6 +138,64 @@ Annals of physics 378, 183-233 <br>
 </p>
 
 ### Quantum Computing
+<p style="text-align:justify">
+
+Quantum Computers promise to be the next quantum leap in the development of supercomputers. Their power stems from the fact that quantum systems can evolve in a superposition of an exponential amount of different paths, and thereby allow to solve a select number of relevant problems exponentially faster than possible with a classical computer. As originally observed by Feynman, quantum mechanics has provided us with a fully untapped source of computational power, and only since recently is the technology being developed using superconducting systems and/or quantum optical setups to make this dream a reality.  <br> <br>
+
+Research in the Quantum Group @ Ugent on quantum computation is focused on  different aspects. <br>
+
+First, we are devising quantum algorithms for simulating strongly correlated quantum many-body systems in and out of equilibrium; we strongly believe that this will be the killer application of quantum computers, with applications ranging from simualating the Langrangian of the standard model to the simulation of chemical reactions of medicinal drugs. The Ugent group was the first one to discover two of the central algorithms to make this possible: an algorithm for the efficient preparation of Slater determinatns on a quantum computer (which can then be projected on the exact  ground state of an interesting system by doing a non-demolition energy measurement), and the so-called "quantum Metropolis sampling" algorithm which allows a quantum computer to sample directly from the eigenstates of a quantum Hamiltonian, thereby demonstrating that quantum computer can overcome the ubiquitous sign problem. Current research is focused on how to adopt such quantum simulators to specific experimental settings, and to devise efficient regularization schemes for simulating quantum field theories on a quantum computer. Furthermore, we explore how fermionic many body systems can be simulated efficiently using a system of qubits. <br>
+Second, we study notions in complexity theory to quantify the complexity of relevant computational tasks to be run on a quantum computer. For example, we proved that the universal density functional in density functional theory is intractable, as it would allow to solve quantum NP-hard problems. We are also characterizing relations between the quantum marginal problem and the problem of finding ground states of interacting systems. <br>
+Third, we are using the formalism of tensor networks to devise novel quantum error correcting codes. Constructing non-Abelian codes which allow for universal quantum computation in its codespace is the central theoretical challenge that has to be solved to build scalable quantum computers, and it turns out that tensor netorks and more specifically PEPS are the exacy tool that is needed for the the analysis of such codes. <br>
+Fourth, a new type of statisitics is needed to analyse quantum experiments. We have introduced several quantum statistical tests for achieving this, such as the quantum chi-squared test, and have solved central problems in the field of quantum hypothesis testing, wherre we derived the quantum Chernoff and Hoefdding bounds. <br>
+Fifth, the Quantum Group @ Ugent was the first to prove the equivalence of the measurment based quantum computation formalism to the standard quantum circuit model using a nontrivial mapping to tensor networks. Furthermore, our theoretical research on dissipative quantum computation led to a paradigm shift into the way we look at decoherence and invigorated a large worldwide experimental effort to implement dissipative protocols.<br><br>
+
+</p>
+<p style="margin-left: 40px">
+
+<i> Quantum metropolis sampling </i> <br>
+K Temme, TJ Osborne, KG Vollbrecht, D Poulin, F Verstraete <br>
+Nature 471 (7336), 87-90 <br>
+
+
+<i> Quantum circuits for strongly correlated quantum systems </i> <br>
+F Verstraete, JI Cirac, JI Latorre <br>
+Physical Review A 79 (3), 032316 <br>
+
+<i> Mapping local Hamiltonians of fermions to local Hamiltonians of spins </i> <br>
+F Verstraete, JI Cirac <br>
+Journal of Statistical Mechanics: Theory and Experiment 2005, P09012 <br>
+
+
+<i> Computational complexity of interacting electrons and fundamental limitations of density functional theory  </i> <br>
+N Schuch, F Verstraete <br>
+Nature Physics 5 (10), 732-735 <br>
+
+
+<i> Discriminating states: the quantum Chernoff bound </i> <br>
+KMR Audenaert, J Calsamiglia, R Munoz-Tapia, E Bagan, Ll Masanes, A Acin, F Verstraete <br>
+Physical review letters 98 (16), 160501 <br>
+
+<i> Asymptotic error rates in quantum hypothesis testing </i> <br>
+KMR Audenaert, M Nussbaum, A Szkoła, F Verstraete <br>
+Communications in Mathematical Physics 279 (1), 251-283 <br>
+
+<i> Quantum chi-squared and goodness of fit testing </i> <br>
+K Temme, F Verstraete <br>
+Journal of Mathematical Physics 56 (1), 012202 <br>
+
+<i> Uncertainty and trade-offs in quantum multiparameter estimation </i> <br>
+I Kull, PA Guérin, F Verstraete <br>
+Journal of Physics A: Mathematical and Theoretical <br>
+
+<i> Quantum computation and quantum-state engineering driven by dissipation </i> <br>
+F Verstraete, MM Wolf, JI Cirac <br>
+Nature Physics 5 (9), 633-636 <br>
+
+
+
+</p>
+
 
 ### Matrix Product States
 

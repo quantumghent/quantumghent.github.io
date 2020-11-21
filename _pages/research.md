@@ -222,8 +222,76 @@ We large focus of our research effort is also the building of comprehensive stat
 
 Projected Entangled Pair States (PEPS) form the perfect incarnation of tensor networks, and embody their full complexity and elegance. PEPS provide a unified description of quantum many body wavefunctions on arbitrary lattices and in arbitrary dimensions that satisfy an area law for their entanglement entropy. PEPS were introduced in 2004 through a collaboration of the Quantum Group @ Ugent and Ignacio Cirac from the Max Planck Institute for Quantum Optics, and form a very active field of research as they bear the promise to crack open the quantum many-body problem for strongly correlated fermions in 2-D.<br>
 On the one hand, PEPS form a rich class of variational wavefunctions which provide state of the art results for the simulation of strongly correlated systems on finite and infinite  2-D lattices; very active and worldwide research is currently been done to come up with efficient and robust methods to optimize this class of wavefunctions. On the other hand, PEPS wavefunctions are representative for extremely interesting and exotic topological phases of matter, and as such reveal the entanglement structure of such phases. The mathematical framework for dealing with PEPS has a lot of overlap with so-called fusion categories, an abstract set of ideas which underlie advanced topics in theoretical physics such as topological field theory and conformal field theory.<br>
+PEPS forms the core of the central mission of the Quantum Group @ Ugent, which is to advance the theory of tensor networks and use this to construct novel variational algorithms and software to simulate strongly correlated systems.<br><br>
+
+A collection of recent results involving PEPS: <br><br>
+</p>
+
+<p style="margin-left: 40px">
+
+
+<i> Matrix product operator symmetries and intertwiners in string-nets with domain walls </i> <br>
+L Lootens, J Fuchs, J Haegeman, C Schweigert, F Verstraete<br>
+arXiv preprint arXiv:2008.11187<br><br>
+
+<i> Resolving Fermi surfaces with tensor networks</i> <br>
+Q Mortier, N Schuch, F Verstraete, J Haegeman  <br>
+arXiv preprint arXiv:2008.11176 <br> <br>
+
+<i> Galois Conjugated Tensor Fusion Categories and Nonunitary Conformal Field Theory</i> <br>
+L Lootens, R Vanhove, J Haegeman, F Verstraete <br>
+Physical Review Letters 124 (12), 120601 <br> <br>
+
+<i> Efficient variational contraction of two-dimensional tensor networks with a non-trivial unit cell</i> <br>
+A Nietner, B Vanhecke, F Verstraete, J Eisert, L Vanderstraeten <br>
+arXiv preprint arXiv:2003.01142 <br> <br>
+
+<i> Symmetric cluster expansions with tensor networks</i> <br>
+B Vanhecke, M Van Damme, L Vanderstraeten, F Verstraete <br>
+arXiv preprint arXiv:1912.10512 <br> <br>
+
+<i> A tensor version of the quantum Wielandt theorem</i> <br>
+M Michałek, T Seynnaeve, F Verstraete <br>
+SIAM Journal on Matrix Analysis and Applications 40 (3), 1125-1130 <br> <br>
+
+<i> Residual entropies for three-dimensional frustrated spin systems with tensor networks</i> <br>
+L Vanderstraeten, B Vanhecke, F Verstraete <br>
+Physical Review E 98 (4), 042145 <br> <br>
+
+<i> Fermionic projected entangled-pair states and topological phases</i> <br>
+N Bultinck, DJ Williamson, J Haegeman, F Verstraete <br>
+Journal of Physics A: Mathematical and Theoretical 51 (2), 025202 <br> <br>
+
+<i> Symmetry-enriched topological order in tensor networks: Defects, gauging and anyon condensation</i> <br>
+DJ Williamson, N Bultinck, F Verstraete  <br>
+arXiv preprint arXiv:1711.07982 <br> <br>
+
+<i> Condensation-driven phase transitions in perturbed string nets</i> <br>
+M Mariën, J Haegeman, P Fendley, F Verstraete <br>
+Physical Review B 96 (15), 155127 <br> <br>
+
+<i> Matrix product unitaries: structure, symmetries, and topological invariants</i> <br>
+JI Cirac, D Perez-Garcia, N Schuch, F Verstraete <br>
+Journal of Statistical Mechanics: Theory and Experiment 2017 (8), 083105 <br> <br>
+
+<i> Bridging perturbative expansions with tensor networks</i> <br>
+L Vanderstraeten, M Mariën, J Haegeman, N Schuch, J Vidal, F Verstraete  <br>
+Physical Review Letters 119 (7), 070401 <br> <br>
+
+<i> Matrix product density operators: Renormalization fixed points and boundary theories</i> <br>
+JI Cirac, D Perez-Garcia, N Schuch, F Verstraete  <br>
+Annals of Physics 378, 100-149 <br> <br>
+
+<i> Simulating excitation spectra with projected entangled-pair states</i> <br>
+L Vanderstraeten, J Haegeman, F Verstraete <br>
+Physical Review B 99 (16), 165121 <br> <br>
+
+<i> Gradient methods for variational optimization of projected entangled-pair states</i> <br>
+L Vanderstraeten, J Haegeman, P Corboz, F Verstraete <br> 
+Physical Review B 94 (15), 155123  <br> <br>
 
 </p>
+
 
 
 ### Cold Atoms

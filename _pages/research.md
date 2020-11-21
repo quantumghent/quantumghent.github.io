@@ -35,35 +35,35 @@ Our research in many-body physics focuses on <br>
 <i> When two systems, of which we know the states by their respective representation, enter into a temporary physical interaction due to known forces between them and when after a time of mutual influence the systems separate again, then they can no longer be described as before, viz., by endowing each of them with a representative of its own. I would not call that one but rather the characteristic trait of quantum mechanics. </i> (Erwin Schrodinger) <br>
 
 	
-Quantum Entanglement taught us that the whole is much more than the sum of its parts, and is responsible for all magic and wonder in quantum mechanics. We are only recently starting to understand how to describe and exploit entanglement, and research in the Quantum Group @ Ugent focuses on studying entanglement in the many-body context.  Recent papers on the topic include:<br> <br>
+Quantum Entanglement taught us that the whole is much more than the sum of its parts, and is responsible for all magic and wonder in quantum mechanics. On the one hand, it is responsible for the exponential scaling of and difficulty in simualting quantum many-body systems. On the other hand, it is precisely the key ingredient which enables the exponential speed-ups in future quantum computers, a topic of extreme current interest. We are  currently very much in the process of starting to understand how to describe and exploit entanglement, and research in the Quantum Group @ Ugent focuses on studying entanglement in the many-body context.  Recent papers on the topic include:<br> <br>
 	
-	<i> Entanglement compression in scale space: From the multiscale entanglement renormalization ansatz to matrix product operators </i><br>
-	K Van Acoleyen, A Hallam, M Bal, M Hauru, J Haegeman, F Verstraete <br>
-	Physical Review B 102 (16), 165131 <br> <br>
+  <i> Entanglement compression in scale space: From the multiscale entanglement renormalization ansatz to matrix product operators </i><br>
+  K Van Acoleyen, A Hallam, M Bal, M Hauru, J Haegeman, F Verstraete <br>
+  Physical Review B 102 (16), 165131 <br> <br>
 	
-	<i> Scaling hypothesis for matrix product states </i><br>
-	B Vanhecke, J Haegeman, K Van Acoleyen, L Vanderstraeten, F. Verstraete <br>
-	Physical Review Letters 123 (25), 250604 <br> <br>
+  <i> Scaling hypothesis for matrix product states </i><br>
+  B Vanhecke, J Haegeman, K Van Acoleyen, L Vanderstraeten, F. Verstraete <br>
+  Physical Review Letters 123 (25), 250604 <br> <br>
 	
-	<i> Symmetry breaking and the geometry of reduced density matrices </i><br>
-	V Zauner, D Draxler, L Vanderstraeten, J Haegeman, F Verstraete <br>
-	New Journal of Physics 18 (11), 113033 <br> <br>
+  <i> Symmetry breaking and the geometry of reduced density matrices </i><br>
+  V Zauner, D Draxler, L Vanderstraeten, J Haegeman, F Verstraete <br>
+  New Journal of Physics 18 (11), 113033 <br> <br>
 	
-	<i> Entanglement of distillation for lattice gauge theories </i><br>
-	K Van Acoleyen, N Bultinck, J Haegeman, M Marien, VB Scholz, F. Verstraete <br>
-	Physical Review Letters 117 (13), 131602 <br> <br>
+  <i> Entanglement of distillation for lattice gauge theories </i><br>
+  K Van Acoleyen, N Bultinck, J Haegeman, M Marien, VB Scholz, F. Verstraete <br>
+  Physical Review Letters 117 (13), 131602 <br> <br>
 	
-	<i> Entanglement rates and the stability of the area law for the entanglement entropy </i><br>
-	M Mariën, KMR Audenaert, K Van Acoleyen, F Verstraete <br>
-	Communications in Mathematical Physics 346 (1), 35-73 <br> <br>
+  <i> Entanglement rates and the stability of the area law for the entanglement entropy </i><br>
+  M Mariën, KMR Audenaert, K Van Acoleyen, F Verstraete <br>
+  Communications in Mathematical Physics 346 (1), 35-73 <br> <br>
 	
-	<i> Shadows of anyons and the entanglement structure of topological phases </i><br>
-	J Haegeman, V Zauner, N Schuch, F Verstraete <br>
-	Nature communications 6 (1), 1-8 <br> <br>
+  <i> Shadows of anyons and the entanglement structure of topological phases </i><br>
+  J Haegeman, V Zauner, N Schuch, F Verstraete <br>
+  Nature communications 6 (1), 1-8 <br> <br>
 	
-	<i> Entanglement rates and area laws </i><br>
-	K Van Acoleyen, M Mariën, F Verstraete <br>
-	Physical review letters 111 (17), 170501 <br> <br>
+  <i> Entanglement rates and area laws </i><br>
+  K Van Acoleyen, M Mariën, F Verstraete <br>
+  Physical review letters 111 (17), 170501 <br> <br>
 	 
 	
 </p>

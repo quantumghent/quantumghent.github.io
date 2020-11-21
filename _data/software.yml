@@ -38,7 +38,7 @@
     display: maartenvd/PEPSKit.jl
 
 - title: "WignerSymbols.jl"
-  image: julia.svg
+  image: wignersymbols.svg
   language: julia
   topic: physics
   description: A package to compute Wigner's 3j and 6j symbols (and related quantities such as Clebsch-Gordan coefficients and Racah coefficients) to arbitrary precision. The result is computed as the square root of a rational of arbitrary-precision integers.
@@ -83,7 +83,7 @@
     display: Jutho/KrylovKit.jl
 
 - title: "OptimKit.jl"
-  image: julia.svg
+  image: optimkit.svg
   language: julia
   topic: general
   description: A package for gradient based optimization with extreme flexibility towards parameterization of the problem. OptimKit.jl supports optimization on manifolds (i.e. Riemannian optimization) using gradient descent, conjugate gradient and limited-memory quasi newton methods, where custom retractions and vector transports can be specified.

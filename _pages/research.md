@@ -155,42 +155,42 @@ Fifth, the Quantum Group @ Ugent was the first to prove the equivalence of the m
 
 <i> Quantum metropolis sampling </i> <br>
 K Temme, TJ Osborne, KG Vollbrecht, D Poulin, F Verstraete <br>
-Nature 471 (7336), 87-90 <br>
+Nature 471 (7336), 87-90 <br> <br>
 
 
 <i> Quantum circuits for strongly correlated quantum systems </i> <br>
 F Verstraete, JI Cirac, JI Latorre <br>
-Physical Review A 79 (3), 032316 <br>
+Physical Review A 79 (3), 032316 <br> <br>
 
 <i> Mapping local Hamiltonians of fermions to local Hamiltonians of spins </i> <br>
 F Verstraete, JI Cirac <br>
-Journal of Statistical Mechanics: Theory and Experiment 2005, P09012 <br>
+Journal of Statistical Mechanics: Theory and Experiment 2005, P09012 <br> <br>
 
 
 <i> Computational complexity of interacting electrons and fundamental limitations of density functional theory  </i> <br>
 N Schuch, F Verstraete <br>
-Nature Physics 5 (10), 732-735 <br>
+Nature Physics 5 (10), 732-735 <br> <br>
 
 
 <i> Discriminating states: the quantum Chernoff bound </i> <br>
 KMR Audenaert, J Calsamiglia, R Munoz-Tapia, E Bagan, Ll Masanes, A Acin, F Verstraete <br>
-Physical review letters 98 (16), 160501 <br>
+Physical review letters 98 (16), 160501 <br> <br>
 
 <i> Asymptotic error rates in quantum hypothesis testing </i> <br>
 KMR Audenaert, M Nussbaum, A Szkoła, F Verstraete <br>
-Communications in Mathematical Physics 279 (1), 251-283 <br>
+Communications in Mathematical Physics 279 (1), 251-283 <br> <br>
 
 <i> Quantum chi-squared and goodness of fit testing </i> <br>
 K Temme, F Verstraete <br>
-Journal of Mathematical Physics 56 (1), 012202 <br>
+Journal of Mathematical Physics 56 (1), 012202 <br> <br>
 
 <i> Uncertainty and trade-offs in quantum multiparameter estimation </i> <br>
 I Kull, PA Guérin, F Verstraete <br>
-Journal of Physics A: Mathematical and Theoretical <br>
+Journal of Physics A: Mathematical and Theoretical <br> <br>
 
 <i> Quantum computation and quantum-state engineering driven by dissipation </i> <br>
 F Verstraete, MM Wolf, JI Cirac <br>
-Nature Physics 5 (9), 633-636 <br>
+Nature Physics 5 (9), 633-636 <br> <br>
 
 
 

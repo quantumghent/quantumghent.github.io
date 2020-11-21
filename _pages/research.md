@@ -215,7 +215,16 @@ From the computational point of view, we are actively developing MPS algorithms 
 We large focus of our research effort is also the building of comprehensive state of the art open-source tensor network libraries in Julia and Matlab that can deal with all possible symmetries and particle statistics. (Link to Software)
 </p>
 
+
 ### Projected Entangled Pair States
+
+<p style="text-align:justify">
+
+Projected Entangled Pair States (PEPS) form the perfect incarnation of tensor networks, and embody their full complexity and elegance. PEPS provide a unified description of quantum many body wavefunctions on arbitrary lattices and in arbitrary dimensions that satisfy an area law for their entanglement entropy. PEPS were introduced in 2004 through a collaboration of the Quantum Group @ Ugent and Ignacio Cirac from the Max Planck Institute for Quantum Optics, and form a very active field of research as they bear the promise to crack open the quantum many-body problem for strongly correlated fermions in 2-D.<br>
+On the one hand, PEPS form a rich class of variational wavefunctions which provide state of the art results for the simulation of strongly correlated systems on finite and infinite  2-D lattices; very active and worldwide research is currently been done to come up with efficient and robust methods to optimize this class of wavefunctions. On the other hand, PEPS wavefunctions are representative for extremely interesting and exotic topological phases of matter, and as such reveal the entanglement structure of such phases. The mathematical framework for dealing with PEPS has a lot of overlap with so-called fusion categories, an abstract set of ideas which underlie advanced topics in theoretical physics such as topological field theory and conformal field theory.<br>
+
+</p>
+
 
 ### Cold Atoms
 

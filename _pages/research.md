@@ -296,6 +296,18 @@ Physical Review B 94 (15), 155123  <br> <br>
 
 ### Cold Atoms
 
+<p style="text-align:justify">
+
+The current state of the art experiments probing the quantum many-body features of strongly correlated systems happen in the realm of cold atoms. Using advanced cooling and trapping techniques, it has become possible  to manipulate and observe individual quantum particles, and to let them exhibit fascinating collective behaviour. Keywords are Bose-Einstein Condensates (BEC), ion traps, optical lattices and atom chips. <br><br>
+
+We are currently building the first BEC-laboratory in Belgium, which will consist of a Rubidium 87 BEC supplanted with an acousto-optical projection system (AOD). From our point of view, this BEC system is an effective quantum simulator by which we will be able to simulate a wide variety of interesting quantum many-body systems, including non-equilibrium phenomena and many-body analogues of quantum gravity. <br><br>
+
+Form the point of view of tensor networks, cold atom experiments provide a wealth of interesting applications; in many ways, tensor network algorithms provide the only benchmark for evaluating the correctness of the experiments. Cold atoms also pose unique new problems and suggest a wide variety of new directions in which tensor network algorithms should be generalized and improved. <br><br>
+</p>
+
+
+
+
 ### Strongly Correlated Systems
 
 ### Tensor networks: Algorithms & Simulations

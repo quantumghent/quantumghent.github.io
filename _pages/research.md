@@ -17,7 +17,7 @@ The central goal of our research is to reveal the semantics of those entanglemen
 </p>
 
 
-### Many-Body Physics
+## Many-Body Physics
 
 
 Our research in many-body physics focuses on <br>
@@ -29,7 +29,7 @@ Our research in many-body physics focuses on <br>
 6. Categorical symmetries, Integrable systems, and Conformal Field Theories <br>
 
 
-### Quantum Entanglement
+## Quantum Entanglement
 <p style="text-align:justify">
 
 <i> When two systems, of which we know the states by their respective representation, enter into a temporary physical interaction due to known forces between them and when after a time of mutual influence the systems separate again, then they can no longer be described as before, viz., by endowing each of them with a representative of its own. I would not call that one but rather the characteristic trait of quantum mechanics. </i> (Erwin Schrodinger) <br>
@@ -73,7 +73,7 @@ Recent papers on the topic include:<br> <br>
 
 
 
-### Quantum Field Theory
+## Quantum Field Theory
 <p style="text-align:justify">
 
 Quantum Field Theory (QFT) provides a unified framework for describing both effective and fundamental theories of quantum many-body systems in the continuum. It is the de-facto language in which we can understand critical phenomena and the renormalization group, and QFT has been enormously successful in describing a wealth of phenomena seen in high energy physics and in condensed matter physics. Although QFT has been around for almost a century, there are still fantastic difficulties to overcome in the regime of strong correlations and/or coupling, it is in situations where the usual perturbative expansions in terms of Feynman diagrams fail. <br> <br>
@@ -113,15 +113,54 @@ Physical Review X 6 (4), 041040 <br> <br>
 
 
 
-### Topological phases of matter
+### Quantum Error Correction
 
-### Conformal field theories
+<p style="text-align:justify">
 
-### Quantum field theories and gauge theories
+As quantum computers are much more susceptible to noise than classical ones, the biggest theoretical challenge in building a scalable quantum computer is the construction of efficient fault tolerant quantum error correction schemes. The theory of quantum error correction provides fascinating connections between a wide variety of different fields in theoretical physics, including topological field theory, lattice gauge theories, anyons, spin glasses, quantum entanglement and the renormalization group. The most widely studied quantum error correcting codes are based on the so-called stabilitzer formalism, which has the big drawback that quantum operations have to be performed outside of the code space to make the scheme useful for univeral quantum computation. Other universal codes have been proposed, but those are much harder to analyze and implement. <br>
 
-## Quantum information and computation
+Our research focuses on using tensor networks to devise universal non-Abelian quantum error correcting codes and decoding strategies. To achieve this, we have developed the formalism of tube algebras and matrix product operator symmetries, and implement Monte-Carlo based tensor network routines to study their efficiency. <br> <br>
 
-## Cold atoms and Bose-Einstein condensates
+</p>
+
+Relevant papers on this topic are 
+
+<p style="margin-left: 40px">
+
+<i>  Matrix product operator symmetries and intertwiners in string-nets with domain walls </i> <br>
+L Lootens, J Fuchs, J Haegeman, C Schweigert, F Verstraete <br>
+arXiv preprint arXiv:2008.11187 <br> <br>
+
+<i> Anyons and matrix product operator algebras </i> <br>
+N Bultinck, M Mariën, DJ Williamson, MB Şahinoğlu, J Haegeman, F Verstraete <br>
+Annals of physics 378, 183-233 <br>
+
+</p>
+
+### Quantum Computing
+
+### Matrix Product States
+
+### Projected Entangled Pair States
+
+### Cold Atoms
+
+### Strongly Correlated Systems
+
+### Algorithms & Simulations
+
+### Real-Space Renormalization
+
+### Non-Equilibrium Quantum Physics
+
+### Tensor Categories & MPO symmetries
+
+### Gauge Theories
+
+### Holographic Principle
+
+## Entanglement Scaling
+
 
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>

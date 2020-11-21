@@ -19,7 +19,7 @@ Wilson’s renormalization-group program revolutionized the way we understand an
 </p> 
 <p style="margin-left: 40px; text-align:justify"> 
 <i>  Now, in field theory, what’s going on over here and what’s going on over there and all over space is more or less the same. Why do we have to keep track in our functional of all things going on over there while we are looking at the things that are going on over here?... It’s really quite insane, actually: we are trying to find the energy by taking the expectation value of an operator which is located here and we present ourselves with a functional which is dependent on everything all over the map. That’s something wrong. Maybe there is some way to surround the object, or the region where we want to calculate things, by a surface and describe what things are coming in across the surface. It tells us everything that’s going on outside.</i>
-<p> <br>
+</p> <br>
 
 
 ## Many-Body Physics

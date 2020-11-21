@@ -22,31 +22,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <h5><i>{{ member.info }}</i></h5>
-  <div class="col-sm-1">
   <a href="mailto:{{ member.email }}"><i class="fas fa-envelope-square fa-2x"></i></a>
-  </div>
-
-  {% unless member.scholar == nil %}
-
-  <div class="col-sm-1">
-  <a href="http://scholar.google.com/citations?user={{ member.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-  </div>
-
-  {% endunless %}
-  {% unless member.github == nil %}
-
-  <div class="col-sm-1">
-  <a href="http://github.com/{{ member.github }}"><i class="fab fa-github-square fa-2x"></i></a>
-  </div>
-
-  {% endunless %}
-  {% unless member.twitter == nil %}
-
-  <div class="col-sm-1">
-  <a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>
-  </div>
-
-  {% endunless %}
+  {% unless member.scholar == nil %}<a href="http://scholar.google.com/citations?user={{ member.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a>{% endunless %} {% unless member.github == nil %}<a href="http://github.com/{{ member.github }}"><i class="fab fa-github-square fa-2x"></i></a>{% endunless %} {% unless member.twitter == nil %}<a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>{% endunless %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -76,31 +53,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <h5><i>{{ member.info }}</i></h5>
-  <div class="col-sm-1">
   <a href="mailto:{{ member.email }}"><i class="fas fa-envelope-square fa-2x"></i></a>
-  </div>
-
-  {% unless member.scholar == nil %}
-
-  <div class="col-sm-1">
-  <a href="http://scholar.google.com/citations?user={{ member.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-  </div>
-
-  {% endunless %}
-  {% unless member.github == nil %}
-
-  <div class="col-sm-1">
-  <a href="http://github.com/{{ member.github }}"><i class="fab fa-github-square fa-2x"></i></a>
-  </div>
-
-  {% endunless %}
-  {% unless member.twitter == nil %}
-
-  <div class="col-sm-1">
-  <a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>
-  </div>
-
-  {% endunless %}
+  {% unless member.scholar == nil %}<a href="http://scholar.google.com/citations?user={{ member.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a>{% endunless %} {% unless member.github == nil %}<a href="http://github.com/{{ member.github }}"><i class="fab fa-github-square fa-2x"></i></a>{% endunless %} {% unless member.twitter == nil %}<a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>{% endunless %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -130,31 +84,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <h5><i>{{ member.info }}</i></h5>
-  <div class="col-sm-1">
   <a href="mailto:{{ member.email }}"><i class="fas fa-envelope-square fa-2x"></i></a>
-  </div>
-
-  {% unless member.scholar == nil %}
-
-  <div class="col-sm-1">
-  <a href="http://scholar.google.com/citations?user={{ member.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a>
-  </div>
-
-  {% endunless %}
-  {% unless member.github == nil %}
-
-  <div class="col-sm-1">
-  <a href="http://github.com/{{ member.github }}"><i class="fab fa-github-square fa-2x"></i></a>
-  </div>
-
-  {% endunless %}
-  {% unless member.twitter == nil %}
-
-  <div class="col-sm-1">
-  <a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>
-  </div>
-
-  {% endunless %}
+  {% unless member.scholar == nil %}<a href="http://scholar.google.com/citations?user={{ member.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a>{% endunless %} {% unless member.github == nil %}<a href="http://github.com/{{ member.github }}"><i class="fab fa-github-square fa-2x"></i></a>{% endunless %} {% unless member.twitter == nil %}<a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>{% endunless %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

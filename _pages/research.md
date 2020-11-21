@@ -14,7 +14,10 @@ permalink: /research/
 Tensor networks provide a new mathematical and computational framework for tackling the central theoretical problem in physics, namely the quantum many-body problem, and more specifically the problem of strongly interacting systems.  The quantum many-body problem deals with the description of a large collection of particles, and forms the foundation upon which all our understanding of condensed matter physics, quantum field theory, quantum chemistry and statistical physics is build. The central concepts of tensor networks originate from the field of quantum information and computation, in which quantum entanglement is exploited to perform information tasks exponentially faster than possible using classical means.<br>
 Around 2003, a collaboration of members of the Ghent Quantum Group and Ignacio Cirac from the Max Planck Institute for Quantum Optics discovered that the theory of entanglement provides a fundamentally new language for describing interactions and correlations in generic quantum many-body systems. Its vocabulary consists of qubits and entangled pairs, while the syntax is provided by quantum tensor networks. In essence, we discovered how to describe many-body wavefunctions in terms of local tensors expressing how entanglement is routed. These local tensors act as a novel type of non-local order parameters, and we study their symmetries as reflections of the global entanglement patterns in the full system, uncovering a precise characterization of algebraic structures previously discovered in statistical physics, condensed matter physics and conformal field theory.<br>
 The central goal of our research is to reveal the semantics of those entanglement patterns in interacting many-body systems, and to use this knowledge to construct algorithms for simulating strongly correlated systems. To achieve this, we develop novel theoretical and computational approaches to tensor networks, and apply those to problems in the context of ultracold gases, condensed matter physics, quantum field theory and quantum computing. We  formulate variational and real-space renormalization-group methods for generic many-body problems and quantum field theories, construct scaling methods based on entanglement renormalization, devise new algorithms for simulating time dependent phenomena in state of the art experiments with cold atoms, and use tensor networks to construct novel quantum error correcting codes. A unique feature of our research is the fact that the theoretical and computational aspects are not parallel lines of development, but one and the same: we fuse the intricate mathematical structures of tensor networks and tensor fusion categories with very tangible numerical simulations of quantum many body systems.<br>
-</p>
+Wilson’s renormalization-group program revolutionized the way we understand and think about physics, and tensor network based techniques provide the next step. Modelling the entanglement degrees of freedom through tensor networks seems to grant precisely the means to realize the visionary program set forward by Feynman:<br><br>
+
+</p> <p style="margin-left: 40px"> <i> 
+Now, in field theory, what’s going on over here and what’s going on over there and all over space is more or less the same. Why do we have to keep track in our functional of all things going on over there while we are looking at the things that are going on over here?... It’s really quite insane, actually: we are trying to find the energy by taking the expectation value of an operator which is located here and we present ourselves with a functional which is dependent on everything all over the map. That’s something wrong. Maybe there is some way to surround the object, or the region where we want to calculate things, by a surface and describe what things are coming in across the surface. It tells us everything that’s going on outside.</i><p><br>
 
 
 ## Many-Body Physics
@@ -199,6 +202,8 @@ Nature Physics 5 (9), 633-636 <br> <br>
 
 ### Matrix Product States
 
+Matrix Prroduct States (MPS) lie at the core of the tensor network formalism, and embody the entanglement structure of quantum many body systems arranged in a 1-Dimensional spin chain geometry. They provide an exponential compression of the Hilbert space relevant for describing the low-energy features of the corresponding quantum Hamiltonians, and therby demonstrate that the exponential many-body wall can be breached by describing quantum systems through their quantum correlations and entanglement features as opposed to the physical spins. As such,   
+
 ### Projected Entangled Pair States
 
 ### Cold Atoms
@@ -217,7 +222,7 @@ Nature Physics 5 (9), 633-636 <br> <br>
 
 ### Holographic Principle
 
-## Entanglement Scaling
+### Entanglement Scaling
 
 
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">

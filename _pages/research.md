@@ -834,6 +834,44 @@ Physical review letters 113 (9), 091601<br><br>
 
 ### Non-Equilibrium Quantum Physics
 
+<p style="text-align:justify">
+
+
+Non-equilibrium quantum physics is currently one of the most active areas of research both in theoretical and experimental physics. For one, a quantum computer is the ultimate non-equilibrium system. Second, it in only recently that a comprehensive picture has emerged of the mechanism of thermalization in closed many-body systems, where the complex acts both as system and its own bath. Third, concepts like many-body localization and topological indices for many-body Floquet-type evolution operators are still only partly understood.<br>
+Research at the Quantum Group @ Ugent on the topic of non-equilibrium physics aims at using the tensor network formalism to shed light on those fundamental questions. First, we developed the so-called TDVP equations for Matrix Product States, which allows to evolve quantum many-body systems in real time and with the conservation of all local constants of motion (such as energy and U(1) symmetries). We are working towards a similar framework for PEPS. Second, we have proven structure theorems relating cellular automata to matrix product unitaries, and are doing research on topological indices for time evolution. Third, we are devising novel path-integral methods in which the stationary points are given by tensor networks as opposed to product states such as in the usual coherent state picture.<br><br>
+
+</p>
+<p style="margin-left: 40px">
+
+<i> Real-time scattering of interacting quasiparticles in quantum spin chains</i><br>
+M Van Damme, L Vanderstraeten, J De Nardis, J Haegeman, F Verstraete<br>
+arXiv preprint arXiv:1907.02474<br><br>
+
+<i> Thermal states as convex combinations of matrix product states</i><br>
+M Berta, FGSL Brandao, J Haegeman, VB Scholz, F Verstraete<br>
+Physical Review B 98 (23), 235154<br><br>
+
+
+<i> Matrix product unitaries: structure, symmetries, and topological invariants</i><br>
+JI Cirac, D Perez-Garcia, N Schuch, F Verstraete<br>
+Journal of Statistical Mechanics: Theory and Experiment 2017 (8), 083105<br><br>
+
+<i> Real-time simulation of the Schwinger effect with matrix product states</i><br>
+B Buyens, J Haegeman, F Hebenstreit, F Verstraete, K Van Acoleyen<br>
+Physical Review D 96 (11), 114501<br><br>
+
+<i> Quantum Gross-Pitaevskii Equation</i><br>
+J Haegeman, D Draxler, V Stojevic, JI Cirac, TJ Osborne, F Verstraete<br>
+Scipost Physics 3 (2017), Nr. 1 3 (1), 6<br><br>
+
+<i> Unifying time evolution and optimization with matrix product states </i><br>
+J Haegeman, C Lubich, I Oseledets, B Vandereycken, F Verstraete<br>
+Physical Review B 94 (16), 165116<br><br>
+
+</p>
+
+
+
 ### Symmetries, Algebras & Categories
 
 ### Gauge Theories

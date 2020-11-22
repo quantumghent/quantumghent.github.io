@@ -999,7 +999,6 @@ Tensor networks yield explicit and constructive representations of such dualitie
 L Lootens, J Fuchs, J Haegeman, C Schweigert, F Verstraete<br>
 arXiv preprint arXiv:2008.11187<br><br>
 
-
 <i> Tensor-network approach to phase transitions in string-net models</i><br>
 A Schotte, J Carrasco, B Vanhecke, L Vanderstraeten, J Haegeman, F Verstraete, J. Vidal<br>
 Physical Review B 100 (24), 245125<br><br>
@@ -1016,10 +1015,6 @@ Physical review letters 121 (17), 177203<br><br>
 N Bultinck, R Vanhove, J Haegeman, F Verstraete<br>
 Physical review letters 120 (15), 156601<br><br>
 
-<i> Fermionic projected entangled-pair states and topological phases</i><br>
-N Bultinck, DJ Williamson, J Haegeman, F Verstraete<br>
-Journal of Physics A: Mathematical and Theoretical 51 (2), 025202<br><br>
-
 <i> Condensation-driven phase transitions in perturbed string nets</i><br>
 M Mariën, J Haegeman, P Fendley, F Verstraete<br>
 Physical Review B 96 (15), 155127<br><br>
@@ -1028,10 +1023,13 @@ Physical Review B 96 (15), 155127<br><br>
 K Duivenvoorden, M Iqbal, J Haegeman, F Verstraete, N Schuch<br>
 Physical Review B 95 (23), 235119<br><br>
 
-<i> Anyons and matrix product operator algebras</i><br>
-N Bultinck, M Mariën, DJ Williamson, MB Şahinoğlu, J Haegeman, F Verstraete<br>
-Annals of physics 378, 183-233<br><br>
+<i> Edge theories in projected entangled pair state models</i><br>
+S Yang, L Lehman, D Poilblanc, K Van Acoleyen, F Verstraete, JI Cirac, N Schuch<br>
+Physical Review Letters 112 (3), 036402<br><br>
 
+<i> Entanglement spectrum and boundary theories with projected entangled-pair states</i><br>
+JI Cirac, D Poilblanc, N Schuch, F Verstraete<br>
+Physical Review B 83 (24), 245134<br><br>
 
 </p>
 

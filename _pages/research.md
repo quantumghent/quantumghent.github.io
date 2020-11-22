@@ -742,6 +742,45 @@ A main characteristic of strongly correlated systems is the fact that they are m
 </p>
 
 ### Tensor networks: Algorithms & Simulations
+<p style="text-align:justify">
+
+Arguably the most important problem in quantum many-body physics is to develop robust and efficient algorithms for simulating strongly correlated quantum systems. The Density Matrix Renormalization Group (DMRG), introduced by Steven White in '92, revolutionized the way in which 1-D strongly correlated systems can be simulated, and allowed to settle a whole range of relevant open problems in that setting. It took however until around 2003 before a satisfactory theoretical understanding of its workings was obtained through a collaboration between the Quantum Group & Ugent and the Max Planck Insitute for Quantum Optics: by looking at strongly correlated quantum systems from the point of view of quantum information and entanglement theory, we were able to demonstrate that the success of DMRG follows from the fact that ground states of quantum spin chains satisfy an area law for the entanglement theory, thereby allowing for an exponential speed-up. Furthermore, we exposed the fact that DMRG can be seen as an alternating least squares optimization strategy to optimize variational wavefunctions in the class of matrix product states (MPS) - thereby putting this class of wavefunctions center stage - and we clearly unmasked the fatal flaw in DMRG for being a scalable method for simulating higher dimensional quantum many-body systems.<br>
+These insights immediately led to important generalizations of DMRG - to the setting of systems with periodic boundary conditions, to the case of the thermodynamic limit through uniform MPS, to the setting of density operators through the introduction of matrix product operators, to the simulation of real-time evolution as a variational problem on the manifold of MPS, and, crucially, to the introduction of the class of projected entangled pair states (PEPS), a variational class of states that overcomes the limitation of DMRG for simulating higher dimensional systems.<br>
+Since these early works,  the field of computational tensor networks has become a very active field of research, and great progress is being made in constructing better and more robust methods to optimize the corresponding MPS and PEPS. The development of such better methods forms one of the core activities of the Quantum Group. Recent successes are e.g. the introduction of the time dependent variational principle (TDVP) in MPS, providing state of the art methods for simulating time evolution and for finding ground states of infinitely long systems through the variational uniform MPS (VUMPS) method, and of tangent plane methods to target low-lying topological excitations in the form of plane waves. We are also very actively pursuing robust gradient-based methods for optimizing PEPS - without a doubt the most important open problem in the field. <br><br>
+
+A collection of recent papers on algorithms for tensor networks:
+</p>
+<p style="margin-left: 40px">
+
+<i> Riemannian optimization of isometric tensor networks </i> <br>
+M Hauru, M Van Damme, J Haegeman<br>
+arXiv preprint arXiv:2007.03638<br><br>
+
+<i> Variational optimization of continuous matrix product states </i> <br>
+B Tuybens, J De Nardis, J Haegeman, F Verstraete<br>
+arXiv preprint arXiv:2006.01801<br><br>
+
+<i> Tangent-space methods for truncating uniform MPS </i> <br>
+B Vanhecke, M Van Damme, J Haegeman, L Vanderstraeten,  F Verstraete<br>
+arXiv preprint arXiv:2001.11882<br><br>
+
+<i> Symmetric cluster expansions with tensor networks </i> <br>
+B Vanhecke, M Van Damme, L Vanderstraeten, F Verstraete<br>
+arXiv preprint arXiv:1912.10512<br><br>
+
+<i> Simulating excitation spectra with projected entangled-pair states </i> <br>
+L Vanderstraeten, J Haegeman, F Verstraete<br>
+Physical Review B 99 (16), 165121<br><br>
+
+<i> Tangent-space methods for uniform matrix product states </i> <br>
+L Vanderstraeten, J Haegeman, F Verstraete<br>
+SciPost Physics Lecture Notes<br><br>
+
+<i> Variational optimization algorithms for uniform matrix product states </i> <br>
+V Zauner-Stauber, L Vanderstraeten, MT Fishman, F Verstraete, J Haegeman<br>
+Physical Review B 97 (4), 045145<br><br>
+
+</p>
 
 ### Real-Space Renormalization
 

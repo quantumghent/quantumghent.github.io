@@ -874,6 +874,63 @@ Physical Review B 94 (16), 165116<br><br>
 
 ### Symmetries, Algebras & Categories
 
+
+<p style="text-align:justify">
+
+Symmetries are the main guiding principle in quantum many-body physics, and the situation is no different for tensor networks, and hence form a central part of our research at Ugent. In fact, one of the main reasons for the success of tensor networks is precisely the fact that they make the role of symmetries in many-body systems so explicit: a quantum state described by an MPS or PEPS will be invariant under a global symmetry if and only if all local tensors transform trivially under that symmetry. As a consequence, any global symmetry, including symmetries associated to topological order, is reflected in the local symmetries of the tensors describing the many-body states. Phrased differently, the entanglement spectrum acts like a signature for those symmetries. This yields a unifying principle for describing distinct gapped phases of matter, including topological ones for which there is no distinct local order parameter in the sense of Landau: distinct phases of matter can be distinguished by the different ways in which the local tensors transform under the global symmetries. The local tensors hence provide a non-trivial generalization of the notion of a local order parameter, and reduce the problem of classifying different gapped phases of matter to a problem in the representation theory of groups and algebras. It is a well known fact that there are certain topological obstructions to convert tensors, which transform according to different representations of the same group, into each other continuously. Those obstructions are precisely the ones responsible for the existence of topological quantum order.<br> <br>
+
+One of the big success stories of many body physics has certainly been the realization that global symmetries can be lifted to local ones by introducing new gauge" degrees of freedom. Such a procedure can also be carried out in the language of tensor networks, and gives rise to tensors with an increased intrinsic symmetry action on the entanglement degrees of freedom. The ensuing gauge theories exhibit fascinating properties such as excitations with anyonic statistics and non-trivial edge modes, and the fact that such features directly follow from the symmetry properties of the local tensors makes tensor networks a natural framework for describing and exploring quantum topological order. In fact, it can be argued that tensor networks implement the representation theory of braided fusion categories, which form the foundation of both topological and conformal field theories.<br>
+
+The core concept that we introduced to carry out this research program is the one of matrix product operator algebras. It turns out that such algebras form a natural  representation theory for bimodule fusion categories with a spherical structure. A second central concept is the one of so-called strange correlators, by which tensor networks allow to provide explicit mappings between systems exhibiting topological order (topological field theories) and critical systems (conformal field theories) in one dimension lower. Such connections were known to exist since the seminal works of Vaughan Jones and Edward Witten, but tensor networks make it now possible to carry this out in a real-space setting.<br>
+
+We are currently vigorously  pursuing this research direction, and are as such discovering the entanglement structure of topological and critical phases of matter.<br><br>
+</p>
+<p style="margin-left: 40px">
+
+<i> Matrix product operator symmetries and intertwiners in string-nets with domain walls</i><br>
+L Lootens, J Fuchs, J Haegeman, C Schweigert, F Verstraete<br>
+arXiv preprint arXiv:2008.11187<br><br>
+
+
+<i> Galois Conjugated Tensor Fusion Categories and Nonunitary Conformal Field Theory</i><br>
+L Lootens, R Vanhove, J Haegeman, F Verstraete<br>
+Physical Review Letters 124 (12), 120601<br><br>
+
+<i> Tensor-network approach to phase transitions in string-net models</i><br>
+A Schotte, J Carrasco, B Vanhecke, L Vanderstraeten, J Haegeman, F Verstraete, J. Vidal<br>
+Physical Review B 100 (24), 245125<br><br>
+
+<i> Cardy states, defect lines and chiral operators of coset CFTs on the lattice</i><br>
+L Lootens, R Vanhove, F Verstraete<br>
+arXiv preprint arXiv:1907.02520<br><br>
+
+<i> Mapping topological to conformal field theories through strange correlators</i><br>
+R Vanhove, M Bal, DJ Williamson, N Bultinck, J Haegeman, F Verstraete<br>
+Physical review letters 121 (17), 177203<br><br>
+
+<i> Global anomaly detection in two-dimensional symmetry-protected topological phases</i><br>
+N Bultinck, R Vanhove, J Haegeman, F Verstraete<br>
+Physical review letters 120 (15), 156601<br><br>
+
+<i> Fermionic projected entangled-pair states and topological phases</i><br>
+N Bultinck, DJ Williamson, J Haegeman, F Verstraete<br>
+Journal of Physics A: Mathematical and Theoretical 51 (2), 025202<br><br>
+
+<i> Condensation-driven phase transitions in perturbed string nets</i><br>
+M Mariën, J Haegeman, P Fendley, F Verstraete<br>
+Physical Review B 96 (15), 155127<br><br>
+
+<i> Entanglement phases as holographic duals of anyon condensates</i><br>
+K Duivenvoorden, M Iqbal, J Haegeman, F Verstraete, N Schuch<br>
+Physical Review B 95 (23), 235119<br><br>
+
+<i> Anyons and matrix product operator algebras</i><br>
+N Bultinck, M Mariën, DJ Williamson, MB Şahinoğlu, J Haegeman, F Verstraete<br>
+Annals of physics 378, 183-233<br><br>
+
+</p>
+
+
 ### Gauge Theories
 
 ### Holographic Principle

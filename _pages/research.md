@@ -933,6 +933,50 @@ Annals of physics 378, 183-233<br><br>
 
 ### Gauge Theories
 
+
+<p style="text-align:justify">
+
+Gauge theories form the basis for the description of the electromagnetic, weak and strong forces, and hence forms the core of our understanding of the standard model. The framework of gauge theories provides a beautiful and constructive way of describing interaction between matter and fields, and therefore pop up in a wide variety of physical situations. For example, gauge theories  emerge naturally in the description of strongly interacting many-body systems, such as in the description of systems which exhibit topological quantum order.<br>
+In the quantum group & Ugent, we have formulated a wavefunction / tensor network analogue of the minimal coupling procedure for gauging global symmetries into local ones. This has opened up the possibility of simulating gauge theories with tensor networks, and we are currently actively pursuing this research direction. We are also pursuing more fundamental problems such as the quantification of entanglement in gauge theories, where the gauge constraints lead to nontrivial superselection rules in the local operations which can be implemented. <br><br>
+
+</p>
+<p style="margin-left: 40px">
+
+
+<i> Simulating lattice gauge theories within quantum technologies</i> <br>
+MC Bañuls et al.<br>
+The European physical journal D 74 (8), 1-42<br><br>
+
+<i>Real-time simulation of the Schwinger effect with matrix product states</i> <br>
+B Buyens, J Haegeman, F Hebenstreit, F Verstraete, K Van Acoleyen<br>
+Physical Review D 96 (11), 114501<br><br>
+
+<i>Finite-representation approximation of lattice gauge theories at the continuum limit with tensor networks</i> <br>
+B Buyens, S Montangero, J Haegeman, F Verstraete, K Van Acoleyen<br>
+Physical Review D 95 (9), 094509<br><br>
+
+<i>Hamiltonian simulation of the Schwinger model at finite temperature</i> <br>
+B Buyens, F Verstraete, K Van Acoleyen<br>
+Physical Review D 94 (8), 085018<br><br>
+
+<i>Entanglement of distillation for lattice gauge theories</i> <br>
+K Van Acoleyen, N Bultinck, J Haegeman, M Marien, VB Scholz, F Verstraete<br>
+Physical Review Letters 117 (13), 131602<br><br>
+
+<i> Confinement and String Breaking for QED in the Hamiltonian Picture</i> <br>
+B Buyens, J Haegeman, H Verschelde, F Verstraete, K Van Acoleyen<br>
+Physical Review X 6 (4), 041040<br><br>
+
+<i> Matrix product states for gauge field theories </i> <br>
+B Buyens, J Haegeman, K Van Acoleyen, H Verschelde, F Verstraete<br>
+Physical review letters 113 (9), 091601<br><br>
+
+
+
+</p>
+
+
+
 ### Holographic Principle
 
 ### Entanglement Scaling

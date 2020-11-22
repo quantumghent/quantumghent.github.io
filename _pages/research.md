@@ -987,7 +987,7 @@ Physical review letters 113 (9), 091601<br><br>
 <p style="text-align:justify">
 
 The holographic principle forms one of the central unifying concepts in modern theoretical physics, and reveals itself in the form of different incarnations. The most famous one is the AdS/CFT correspondence introduced by Maldacena, in which a dictionary has been compiled describing a duality between strongly coupled field theories and a weakly interacting gravitational theory in a higher dimension. Equally relevant is the holographic duality in condensed matter systems between bulk topological order and edge modes described by conformal field theories, and the emergence of a conformal spectrum in the entanglement Hamiltonian of such systems. More generally, the holographic principle connect a wide variety of different systems via a web of dualities.<br>
-Tensor networks yield explicit and constructive representations of such dualities. For instance, the famous Ryu-Takayanagi conjecture relates entanglement in conformal field theories to distances in an anti de Sitter metric; such a metric also dictates the entanglement structure of the multiscale entanglement renormalization ansatz, and we are part of a fascinating research program has emerged to connect holography to a wide variety of tensor networks. A more tangible research program that we pursue is the characterization of emerging edge theories on the boundaries of PEPS exhibiting topological quantum order and of  the corresponding entanglement Hamiltonians. We are also constructing a comprehensive formalism based on matrix product operator algebras to characterize all possible twisted boundary conditions in critical theories, and to describe notions of anyon condensation and excitations in terms of Ocneany tube algebras.
+Tensor networks yield explicit and constructive representations of such dualities. For instance, the famous Ryu-Takayanagi conjecture relates entanglement in conformal field theories to distances in an anti de Sitter metric; such a metric also dictates the entanglement structure of the multiscale entanglement renormalization ansatz, and we are part of a fascinating research program has emerged to connect holography to a wide variety of tensor networks. A more tangible research program that we pursue is the characterization of emerging edge theories on the boundaries of PEPS exhibiting topological quantum order and of  the corresponding entanglement Hamiltonians. We are also constructing a comprehensive formalism based on matrix product operator algebras to characterize all possible twisted boundary conditions in critical theories, and to describe notions of anyon condensation and excitations in terms of Ocneanu tube algebras.
 
 </p>
 
@@ -1036,6 +1036,44 @@ Physical Review B 83 (24), 245134<br><br>
 
 
 ### Entanglement Scaling
+
+<p style="text-align:justify">
+
+The success of tensor networks for simulating critical systems and systems in the continuum limit hinges on the scaling of the entanglement in those theories. As first demonstrated by Tomotoshi Nishino, Luca Tagliacozzo and later by members of the Quantum Group @ Ugent, the finite entanglement bias in tensor networks can be interpreted as subjecting the system of interest to a relevant perturbation. By identifying different scales in the tensor network description of those systems, we are constructing a comprehensive framework for establishing a scaling theory for MPS, continuous MPS, PEPS and MERA. <br>
+Problems of particular interest to us are the one of simulating systems exhibiting Fermi surfaces using PEPS, as such systems violate the area law for the entanglement entropy, and the problem of establishing a scaling theory for systems exhibiting chiral edge modes, for which there exist topological obstructions. <br><br>
+
+
+</p>
+<p style="margin-left: 40px">
+
+<i> Resolving Fermi surfaces with tensor networks</i> <br>
+Q Mortier, N Schuch, F Verstraete, J Haegeman  <br>
+arXiv preprint arXiv:2008.11176 <br> <br>
+
+
+<i> Entanglement compression in scale space: From the multiscale entanglement renormalization ansatz to matrix product operators </i><br>
+K Van Acoleyen, A Hallam, M Bal, M Hauru, J Haegeman, F Verstraete <br>
+Physical Review B 102 (16), 165131 <br> <br>
+
+<i> Scaling hypothesis for matrix product states </i><br>
+B Vanhecke, J Haegeman, K Van Acoleyen, L Vanderstraeten, F. Verstraete <br>
+Physical Review Letters 123 (25), 250604 <br> <br>
+
+<i> Conformal data from finite entanglement scaling</i><br>
+V Stojevic, J Haegeman, IP McCulloch, L Tagliacozzo, F Verstraete<br>
+Physical Review B 91 (3), 035120<br><br>
+
+<i> Matrix product states for critical spin chains: Finite-size versus finite-entanglement scaling</i><br>
+B Pirvu, G Vidal, F Verstraete, L Tagliacozzo<br>
+Physical review b 86 (7), 075117<br><br>
+
+
+
+</p>
+
+
+
+
 
 
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">

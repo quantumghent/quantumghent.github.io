@@ -734,6 +734,12 @@ Form the point of view of tensor networks, cold atom experiments provide a wealt
 
 
 ### Strongly Correlated Systems
+<p style="text-align:justify">
+
+Research in theoretical quantum physics is to a large extent a quest to understand strongly correlated quantum many-body systems. Be it particle physics, condensed matter physics, atomic physics or quantum chemistry, the central problem is the one of treating strongly correlated systems, and almost all breakthroughs since the last 70 years involved the construction of approximation methods by which such systems can be described. Such physics problems of great interest that still lack a satisfactory theoretical or computational description are e.g. the ubiquitous Hubbard model (modeling interacting electrons on a lattice) and Quantum Chromodynamics (describing the strong force between quarks). Devising better methods for simulating or describing such systems in all relevant regimes would have an enormous impact, and might lead to breakthroughs in e.g. unraveling the mechanism of high Tc-superconductivity.<br>
+
+A main characteristic of strongly correlated systems is the fact that they are much more naturally described in real-space coordinates than in momentum space ones, the last ones being the natural coordinates for describing weakly interacting systems through perturbation theory on top of a Slater determinant or Gaussian state. Tensor networks can precisely be seen as a program to implement the real-space option -  treating the kinetic energy terms as a perturbation to the (local) interaction terms. This allows to describe many-body systems in phases that cannot be reached adiabatically from free theories - and such systems are precisely the ones with the most interesting entanglement structure and exotic quantum features. Furthermore, tensor networks do this in a way such that there is a systematic way of improving the approximations - thereby providing a very versatile variational framework to tackle strongly correlated system - the hardest problem in physics.<br><br>
+</p>
 
 ### Tensor networks: Algorithms & Simulations
 
@@ -741,7 +747,7 @@ Form the point of view of tensor networks, cold atom experiments provide a wealt
 
 ### Non-Equilibrium Quantum Physics
 
-### Tensor Categories & MPO symmetries
+### Symmetries, Algebras & Categories
 
 ### Gauge Theories
 

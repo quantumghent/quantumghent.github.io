@@ -792,7 +792,7 @@ Second, the renormalization group provided a constructive path towards simulatin
 
 The advent of the theory of entanglement and of tensor networks has allowed to revisit the foundations on which the renormalization group is build, and has allowed to reinvigorate the quest for constructing renormalization group flows in real-space coordinates as opposed to momentum-space coordinates. Working in real-space is indeed the natural framework for dealing with strongly correlated systems, and the key in unraveling such real-space flows has been the mapping of the entanglement structure of the related quantum states. <br>
 For the case of classical statistical mechanical models, this has led to a wealth of new computationally efficient RG schemes, most notably the tensor renormalization group (TRG) of Levin and Nave, and its more powerful but also conceptually more satisfying variants such as HOTRG and TNR (Tensor Network Renormalization) of Evenbly and Vidal. An active research program in the Quantum Group @ Ugent involves the theoretical analysis of those methods and the construction of alternative RG schemes such as TNR+ which allows to link the tensor network flows to the Wilson flows of Hamiltonians.<br>
-For the quantum case, Guifre Vidal has introduced the Multiscale Entanglement Renormalization Ansatz (MERA), which provides an entanglement skeleton for describing critical theories in the Schrodinger picture. We have been studying how the underlying entanglement structure of MERA can be intimately linked to that one of matrix product operators describing thermal states, and have been devising novel numerical variational methods based on Grassmann manifolds to optimize MERA.<br>
+For the quantum case, Guifre Vidal has introduced the Multiscale Entanglement Renormalization Ansatz (MERA), which provides an entanglement skeleton for describing critical theories in the Schrodinger picture. We have been studying how the underlying entanglement structure of MERA can be intimately linked to that one of matrix product operators describing thermal states, and have been devising novel numerical variational methods based on Grassmann manifolds to optimize MERA. We have also introduced a version of MERA that works directly in the continuum, the continuous MERA, and a big challenge is to turn this version into a robust and efficient variational method.<br>
 
 
 
@@ -827,6 +827,10 @@ Physical Review X 6 (4), 041040<br><br>
 <i> Matrix product states for gauge field theories </i> <br>
 B Buyens, J Haegeman, K Van Acoleyen, H Verschelde, F Verstraete<br>
 Physical review letters 113 (9), 091601<br><br>
+
+<i> Entanglement renormalization for quantum fields in real space</i><br>
+J Haegeman, TJ Osborne, H Verschelde, F Verstraete<br>
+Physical review letters 110 (10), 100402<br><br>
 
 </p>
 
@@ -978,6 +982,60 @@ Physical review letters 113 (9), 091601<br><br>
 
 
 ### Holographic Principle
+
+
+<p style="text-align:justify">
+
+The holographic principle forms one of the central unifying concepts in modern theoretical physics, and reveals itself in the form of different incarnations. The most famous one is the AdS/CFT correspondence introduced by Maldacena, in which a dictionary has been compiled describing a duality between strongly coupled field theories and a weakly interacting gravitational theory in a higher dimension. Equally relevant is the holographic duality in condensed matter systems between bulk topological order and edge modes described by conformal field theories, and the emergence of a conformal spectrum in the entanglement Hamiltonian of such systems. More generally, the holographic principle connect a wide variety of different systems via a web of dualities.<br>
+Tensor networks yield explicit and constructive representations of such dualities. For instance, the famous Ryu-Takayanagi conjecture relates entanglement in conformal field theories to distances in an anti de Sitter metric; such a metric also dictates the entanglement structure of the multiscale entanglement renormalization ansatz, and we are part of a fascinating research program has emerged to connect holography to a wide variety of tensor networks. A more tangible research program that we pursue is the characterization of emerging edge theories on the boundaries of PEPS exhibiting topological quantum order and of  the corresponding entanglement Hamiltonians. We are also constructing a comprehensive formalism based on matrix product operator algebras to characterize all possible twisted boundary conditions in critical theories, and to describe notions of anyon condensation and excitations in terms of Ocneany tube algebras.
+
+</p>
+
+
+<p style="margin-left: 40px">
+
+
+<i> Matrix product operator symmetries and intertwiners in string-nets with domain walls</i><br>
+L Lootens, J Fuchs, J Haegeman, C Schweigert, F Verstraete<br>
+arXiv preprint arXiv:2008.11187<br><br>
+
+
+<i> Tensor-network approach to phase transitions in string-net models</i><br>
+A Schotte, J Carrasco, B Vanhecke, L Vanderstraeten, J Haegeman, F Verstraete, J. Vidal<br>
+Physical Review B 100 (24), 245125<br><br>
+
+<i> Cardy states, defect lines and chiral operators of coset CFTs on the lattice</i><br>
+L Lootens, R Vanhove, F Verstraete<br>
+arXiv preprint arXiv:1907.02520<br><br>
+
+<i> Mapping topological to conformal field theories through strange correlators</i><br>
+R Vanhove, M Bal, DJ Williamson, N Bultinck, J Haegeman, F Verstraete<br>
+Physical review letters 121 (17), 177203<br><br>
+
+<i> Global anomaly detection in two-dimensional symmetry-protected topological phases</i><br>
+N Bultinck, R Vanhove, J Haegeman, F Verstraete<br>
+Physical review letters 120 (15), 156601<br><br>
+
+<i> Fermionic projected entangled-pair states and topological phases</i><br>
+N Bultinck, DJ Williamson, J Haegeman, F Verstraete<br>
+Journal of Physics A: Mathematical and Theoretical 51 (2), 025202<br><br>
+
+<i> Condensation-driven phase transitions in perturbed string nets</i><br>
+M Mariën, J Haegeman, P Fendley, F Verstraete<br>
+Physical Review B 96 (15), 155127<br><br>
+
+<i> Entanglement phases as holographic duals of anyon condensates</i><br>
+K Duivenvoorden, M Iqbal, J Haegeman, F Verstraete, N Schuch<br>
+Physical Review B 95 (23), 235119<br><br>
+
+<i> Anyons and matrix product operator algebras</i><br>
+N Bultinck, M Mariën, DJ Williamson, MB Şahinoğlu, J Haegeman, F Verstraete<br>
+Annals of physics 378, 183-233<br><br>
+
+
+</p>
+
+
 
 ### Entanglement Scaling
 

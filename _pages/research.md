@@ -748,7 +748,7 @@ Arguably the most important problem in quantum many-body physics is to develop r
 These insights immediately led to important generalizations of DMRG - to the setting of systems with periodic boundary conditions, to the case of the thermodynamic limit through uniform MPS, to the setting of density operators through the introduction of matrix product operators, to the simulation of real-time evolution as a variational problem on the manifold of MPS, and, crucially, to the introduction of the class of projected entangled pair states (PEPS), a variational class of states that overcomes the limitation of DMRG for simulating higher dimensional systems.<br>
 Since these early works,  the field of computational tensor networks has become a very active field of research, and great progress is being made in constructing better and more robust methods to optimize the corresponding MPS and PEPS. The development of such better methods forms one of the core activities of the Quantum Group. Recent successes are e.g. the introduction of the time dependent variational principle (TDVP) in MPS, providing state of the art methods for simulating time evolution and for finding ground states of infinitely long systems through the variational uniform MPS (VUMPS) method, and of tangent plane methods to target low-lying topological excitations in the form of plane waves. We are also very actively pursuing robust gradient-based methods for optimizing PEPS - without a doubt the most important open problem in the field. <br><br>
 
-A collection of recent papers on algorithms for tensor networks:
+A collection of recent papers on devising algorithms for tensor networks:
 </p>
 <p style="margin-left: 40px">
 
@@ -783,6 +783,54 @@ Physical Review B 97 (4), 045145<br><br>
 </p>
 
 ### Real-Space Renormalization
+
+<p style="text-align:justify">
+
+The biggest breakthrough in theoretical physics of the last 50 years is without a doubt the introduction of the framework of the renormalization group (RG) by Kenneth Wilson. From the foundational point of view, the renormalization group has led to two quantum leaps:<br>
+First, the fact that physics on different length scales is described by different effective field theories, and that the microscopic structure of those Hamiltonians is not relevant as they will all flow towards the same effective theory. This insight is surprisingly deep as it effectively shows us why physics is possible at all. It also justifies the use of simple toy models as they contain the same universal physics as real-life Hamiltonians that are much more complicated. It is indeed astonishing that the Ising model can be used to predict the critical exponents of boiling water.<br>
+Second, the renormalization group provided a constructive path towards simulating quantum field theories on a computer through concepts like lattice regularization and finite-size scaling. This was indeed the precise motivation for Wilson to introduce the renormalization group. There is a very active lattice-QCD community using those tools to simulate quantum chromodynamics, describing the strong interaction between quarks using Monte Carlo methods. However, those methods suffer from a sign problem in several regimes of interest, and these regimes should be precisely the ones that are amenable to quantum tensor networks methods. A long-term goal of the Quantum Group @ Ugent is to make this is reality. Important steps in this direction have recently been set with e.g. the introduction of a comprehensive entanglement-scaling formalism, and by simulating toy models such as the Schwinger model and the Gross-Neveu model.  <br><br>
+
+The advent of the theory of entanglement and of tensor networks has allowed to revisit the foundations on which the renormalization group is build, and has allowed to reinvigorate the quest for constructing renormalization group flows in real-space coordinates as opposed to momentum-space coordinates. Working in real-space is indeed the natural framework for dealing with strongly correlated systems, and the key in unraveling such real-space flows has been the mapping of the entanglement structure of the related quantum states. <br>
+For the case of classical statistical mechanical models, this has led to a wealth of new computationally efficient RG schemes, most notably the tensor renormalization group (TRG) of Levin and Nave, and its more powerful but also conceptually more satisfying variants such as HOTRG and TNR (Tensor Network Renormalization) of Evenbly and Vidal. An active research program in the Quantum Group @ Ugent involves the theoretical analysis of those methods and the construction of alternative RG schemes such as TNR+ which allows to link the tensor network flows to the Wilson flows of Hamiltonians.<br>
+For the quantum case, Guifre Vidal has introduced the Multiscale Entanglement Renormalization Ansatz (MERA), which provides an entanglement skeleton for describing critical theories in the Schrodinger picture. We have been studying how the underlying entanglement structure of MERA can be intimately linked to that one of matrix product operators describing thermal states, and have been devising novel numerical variational methods based on Grassmann manifolds to optimize MERA.<br>
+
+
+
+</p>
+<p style="margin-left: 40px">
+
+<i> Riemannian optimization of isometric tensor networks </i> <br>
+M Hauru, M Van Damme, J Haegeman<br>
+arXiv preprint arXiv:2007.03638<br><br>
+
+
+<i> Entanglement compression in scale space: From the multiscale entanglement renormalization ansatz to matrix product operators</i> <br>
+K Van Acoleyen, A Hallam, M Bal, M Hauru, J Haegeman, F Verstraete<br>
+Physical Review B 102 (16), 165131<br><br>
+
+<i> Lattice regularisation and entanglement structure of the Gross-Neveu model</i> <br>
+G Roose, N Bultinck, L Vanderstraeten, F Verstraete, K Van Acoleyen, J Haegmena <br>
+arXiv preprint arXiv:2010.03441<br><br>
+
+<i> Simulating lattice gauge theories within quantum technologies</i> <br>
+MC Bañuls et al.<br>
+The European physical journal D 74 (8), 1-42<br><br>
+
+<i> Renormalization group flows of Hamiltonians using tensor networks</i> <br>
+M Bal, M Mariën, J Haegeman, F Verstraete<br>
+Physical Review Letters 118 (25), 250602<br><br>
+
+<i> Confinement and String Breaking for QED in the Hamiltonian Picture</i> <br>
+B Buyens, J Haegeman, H Verschelde, F Verstraete, K Van Acoleyen<br>
+Physical Review X 6 (4), 041040<br><br>
+
+<i> Matrix product states for gauge field theories </i> <br>
+B Buyens, J Haegeman, K Van Acoleyen, H Verschelde, F Verstraete<br>
+Physical review letters 113 (9), 091601<br><br>
+
+</p>
+
+
 
 ### Non-Equilibrium Quantum Physics
 

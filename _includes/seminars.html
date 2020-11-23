@@ -1,4 +1,3 @@
-
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 
 <!------ Include the above in your HEAD tag ---------->
@@ -20,16 +19,16 @@
             <li class="media">
             <div class="media-left">
             	<div class="panel panel-primary text-center date">
-            		<div class="panel-heading month">
+            		<div class="panel-heading month"; style="padding:1px">
 							<p id="datesplit"></p>
 							<script>var str = '{{seminar.date}}'
 									var array = str.split(" ");	
 							</script>
-            			<span class="panel-title strong">
+            			<span class="panel-title strong"; style="padding:1px">
             			<script> document.write(array[1].slice(0,3))</script>
                         </span>
                 </div>
-                <div class="panel-body day text-default">
+                <div class="panel-body day text-default"; style="padding:1px">
 						<font size="+1"> <script> document.write(array[0])</script> </font>
 				</div>
 				<div class="panel-footer day text-default"; background-color:black;>
@@ -38,10 +37,10 @@
             </div>
          </div>
         <div class="media-body">
-            <h4 class="media-heading">
+            <b class="media-heading">
 			{{ seminar.title }}
-            </h4>
-            <p>
+			</b>
+            <p style: "margin-bottom:10px";>
 			{{ seminar.speaker }}
         	</p>
 			<i>

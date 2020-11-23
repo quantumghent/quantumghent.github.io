@@ -17,3 +17,5 @@ We have a weekly seminar on Fridays, 1pm (Central European Time). If you are int
 <br><b>{{ seminar.speaker }}</b>, {{ seminar.affiliation }}
 <br><em>{{ seminar.title }}</em></p>
 {% endfor %}
+
+

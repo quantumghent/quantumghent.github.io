@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 <p style="text-align:justify">
-Research in the Quantum Group @ Ugent is focused on solving the quantum many-body problem by means of quantum tensor networks. We develop the theory of and novel computational methods for tensor networks, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing:
+Research in the Quantum Group @ Ugent is focused on unravelling entanglement patterns in interacting quantum many-body systems.  We are developing the theory of quantum tensor networks, devise novel computational methods for optimizing them, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing. In the very near future, we will also run the first Belgian lab probing a Bose-Einstein Concdensate. 
 </p>
 
 <div class="svg-container">

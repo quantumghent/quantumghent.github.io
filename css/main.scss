@@ -94,6 +94,35 @@ firstp {
     margin-right: 30px;
 }
 
+$carousel-title-shadow:                        1px 2px 3px rgba(0,0,0,.6) !default;
+
+.carousel-overlay-title {
+  position: absolute;
+  left: 15%;
+  right: 15%;
+  bottom: 82%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: $carousel-caption-color;
+  font-size: $font-size-h1;
+  text-align: center;
+  text-shadow: $carousel-title-shadow;
+}
+.carousel-overlay-subtitle {
+  position: absolute;
+  left: 15%;
+  right: 15%;
+  bottom: 5%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: $carousel-caption-color;
+  font-size: $font-size-h3;
+  text-align: center;
+  text-shadow: $carousel-title-shadow;
+}
+
 /* Icon colors */
 .fas {
   color : grey;

@@ -1,6 +1,6 @@
 ---
 title: "Quantum Group - Research"
-layout: textlay
+layout: textwithmath
 excerpt: "Quantum Group -- Research"
 sitemap: false
 permalink: /research/
@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 <p style="text-align:justify">
-Research in the Quantum Group @ Ugent is focused on unravelling entanglement patterns in interacting quantum many-body systems.  We are developing the theory of quantum tensor networks, devise novel computational methods for optimizing them, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing. In the very near future, we will also run the first Belgian lab probing a Bose-Einstein Concdensate. 
+Research in the Quantum Group @ Ugent is focused on unravelling entanglement patterns in interacting quantum many-body systems.  We are developing the theory of quantum tensor networks, devise novel computational methods for optimizing them, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing. In the very near future, we will also run the first Belgian lab probing a Bose-Einstein Concdensate.
 </p>
 
 <div class="svg-container">
@@ -1048,11 +1048,3 @@ Physical review b 86 (7), 075117<br><br>
 
 
 </p>
-
-
-
-
-
-
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>

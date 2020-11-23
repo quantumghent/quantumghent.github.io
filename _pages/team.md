@@ -19,7 +19,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <h5><i>{{ member.info }}</i></h5>
   <a href="mailto:{{ member.email }}"><i class="fas fa-envelope-square fa-2x"></i></a>
@@ -50,7 +50,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <h5><i>{{ member.info }}</i></h5>
   <a href="mailto:{{ member.email }}"><i class="fas fa-envelope-square fa-2x"></i></a>
@@ -81,7 +81,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <h5><i>{{ member.info }}</i></h5>
   <a href="mailto:{{ member.email }}"><i class="fas fa-envelope-square fa-2x"></i></a>
@@ -105,3 +105,44 @@ permalink: /team/
 
 ## Administrative Support
 <a href="mailto:inge.vandervennet@ugent.be">Inge Van der Vennet</a> is helping us (and other groups) with administration.
+
+## More pictures of the team:
+
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        {% assign slide_number = 0 %}
+        {% for image in site.data.group-carousel %}
+        {% if slide_number == 0 %}
+            <li data-target="#carousel" data-slide-to="{{ slide_number }}" class="active"></li>
+        {% else %}
+        <li data-target="#carousel" data-slide-to="{{ slide_number }}"></li>
+        {% endif %}
+        {% assign slide_number = slide_number | plus: 1 %}
+        {% endfor %}
+    </ol>
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+    {% assign slide_number = 0 %}
+    {% for image in site.data.group-carousel %}
+
+        {% if slide_number == 0 %}
+            <div class="item active">
+        {% else %}
+            <div class="item">
+        {% endif %}
+            <img src="{{ site.url }}{{ site.baseurl }}/images/{{ image.image }}" alt="Slide {{ slide_number }}" />
+        </div>
+
+    {% assign slide_number = slide_number | plus: 1 %}
+    {% endfor %}
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>

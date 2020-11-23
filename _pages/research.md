@@ -7,7 +7,9 @@ permalink: /research/
 ---
 
 # Research
-
+<p style="text-align:justify">
+Research in the Quantum Group @ Ugent, led by  J. Haegeman, K. Van Acoleyen & F. Verstraete,  is focused on solving the quantum many body problem using quantum tensor networks, and on applications to condensed matter physics, quantum field theory, atomic physics and quantum computing:
+</p>
 
 <div class="svg-container">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0, 0, 927, 714" preserveAspectRatio="xMinYMin meet" class="svg-content">

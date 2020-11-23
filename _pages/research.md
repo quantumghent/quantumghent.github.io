@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 <p style="text-align:justify">
-Research in the Quantum Group @ Ugent is focused on solving the quantum many body problem using quantum tensor networks, and on applications to condensed matter physics, quantum field theory, atomic physics and quantum computing:
+Research in the Quantum Group @ Ugent is focused on solving the quantum many-body problem using quantum tensor networks, and on applications to condensed matter physics, quantum field theory, atomic physics and quantum computing:
 </p>
 
 <div class="svg-container">
@@ -615,7 +615,7 @@ Research in the Quantum Group @ Ugent focuses on both the theoretical and comput
 
 From the computational point of view, we are actively developing MPS algorithms for finding ground states of quantum spin Hamiltonians and for finding fixed points of matrix product operators as encountered in the partition functions of 2-D statistical mechanical models and in the contraction of PEPS algorithms.  Recent advances include the introduction of the state of the art MPS method for simulaitng uniform systems in the thermodynamic limit, called the variational uniform matrix product state algorithm (VUMPS), and the advancement of the so-called tangent plane formalism for describing non-equilibrium phenomena in spin chains (also called TDVP algorithms) and for describing low-energy excitations of generic strongly correlated quantum spin chains. We are studying scattering theory of those excitations, and do research on MPO-based ways of simulating thermalization in closed quantum many body systems. We investigate the problem of simulating frustrated statistical mechanics models in 2-D, and construct entanglement scaling methods for simulating critical spin systems. We establish connections between neural networks and  the MPS formalism, devise algorithms to extend the MPS formalism to tree tensor networks, and construct methods to simulate quantum field theories in the continuum limit. We are also actively pursuing robust variational algorithms for dealing with continuous MPS, introduce novel optimization algorithms based on Grassmann manifolds, and incorporate powerful ideas originating from the field of machine learning such as backwards and automatic differentiation.  <br> <br>
 
-We large focus of our research effort is also the building of comprehensive state of the art open-source tensor network libraries in Julia and Matlab that can deal with all possible symmetries and particle statistics. (Link to Software)
+A large research effort is also the building of comprehensive state of the art open-source tensor network libraries in Julia and Matlab that can deal with all possible symmetries and particle statistics (see Software).
 </p>
 
 

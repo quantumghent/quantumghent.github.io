@@ -6,15 +6,15 @@
   affiliation: "Princeton University"
   title: "tba"
 
-- day: 4 
+- day: 4
   month: "December"
   year: 2020
   time: "1pm"
   speaker: "Freek Witteveen"
-  affiliation: "Univ. Amsterdam."
+  affiliation: "University of Amsterdam"
   title: "Bosonic entanglement renormalization circuits from wavelet theory"
 
-- day: 27 
+- day: 27
   month: "November"
   year: 2020
   time: "1pm"
@@ -22,13 +22,10 @@
   affiliation: "Universidad Complutense de Madrid"
   title: "Matrix product operators and weak Hopf algebras"
 
-- day: 20 
+- day: 20
   month: "November"
   year: 2020
   time: "1pm"
   speaker: "Rui-Zhen Huang"
   affiliation: "Kavli Institute for Theoretical Sciences, University of Chinese Academy of Sciences"
   title: "Emergent symmetry and non-equilibrium driven dynamics for a 1+1d deconfined quantum critical point"
-
-
-

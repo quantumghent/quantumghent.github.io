@@ -1,11 +1,10 @@
-<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
 
 <!------ Include the above in your HEAD tag ---------->
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!-- 
 
-<!-- Container, Row, and Column used for illustration purposes -->
-
-	<div class="well">
-            <!-- Fluid width widget -->        
+	<div class="well">      
     	    
         <div class="panel-heading">
             <h4 class="panel-title">
@@ -50,24 +49,28 @@
 		{% endfor %}  
 				<h4><a href="{{ site.url }}{{ site.baseurl }}/seminars.html">... see all seminars</a></h4>
             </div>
-            <!-- End fluid width widget --> 
+            
 			
 		</div>
 		
 	</div>
+--> 
 
-	
-<!--
 <div class="well">
-    <h4>Seminars</h4>
+    <div class="panel-heading">
+            <h4 class="panel-title">
+            <span class="glyphicon glyphicon-calendar"></span> 
+            Seminars
+            </h4>
+	</div>
 
     {% for seminar in site.data.seminars limit:9 %}
-    <p>{{ seminar.day }} {{ seminar.month }} {{ seminar.year }} {{ seminar.time }}
-    <br><b>{{ seminar.speaker }}</b>, {{ seminar.affiliation }}
-    <br><em>{{ seminar.title }}</em></p>
+    <p>{{ seminar.day }} {{ seminar.month }}, {{ seminar.time }}
+    <br><b>{{ seminar.title }}</b>
+    <br>{{ seminar.speaker }}, <em>{{ seminar.affiliation }}</em></p>
+    
     {% endfor %}
 
     <h4><a href="{{ site.url }}{{ site.baseurl }}/seminars.html">... see all seminars</a></h4>
 
 </div>
--->

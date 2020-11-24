@@ -2,7 +2,7 @@
 # topic: general
 
 - title: "TensorKit.jl"
-  image: julia.svg
+  image: tensorkit.svg
   language: julia
   topic: physics
   description: A package for efficient and large-scale tensor computations, where tensors take a very general definition (inspired from the theory of monoidal categories). Provides support for tensors with arbitrary symmetries (abelian, non-abelian, anyonic and categorical symmetries, a.k.a. fusion categories).
@@ -47,7 +47,7 @@
     display: Jutho/WignerSymbols.jl
 
 - title: "SUNRepresentations.jl"
-  image: julia.svg
+  image: sunrepresentations.svg
   language: julia
   topic: physics
   description: A package to compute Clebsch-Gordan coefficients for the special unitary group SU(N) of arbitrary dimension N. Recoupling coefficients (known as F-symbols, related to Wigner's 6j symbols) can also be computed, and an interface to TensorKit.jl is provided.

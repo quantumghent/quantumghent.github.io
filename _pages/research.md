@@ -6,12 +6,14 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
-<p style="text-align:justify">
-Research in the Quantum Group @ Ugent is focused on unravelling entanglement patterns in interacting quantum many-body systems.  We are developing the theory of quantum tensor networks, devise novel computational methods for optimizing them, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing. In the very near future, we will also run the first Belgian lab probing a Bose-Einstein Concdensate.
-</p>
 
-<div class="svg-container">
+<div markdown="0" class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+<div class="panel panel-default">
+<div class="panel-heading" role="tab" id="heading">
+<h1> Research </h1>
+<p>Research in the QuantumGroup@Ugent is focused on unravelling entanglement patterns in interacting quantum many-body systems.  We are developing the theory of quantum tensor networks, devise novel computational methods for optimizing them, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing. In the very near future, we will also run the first Belgian lab probing a Bose-Einstein Condensate.</p>
+</div>
+<div id="research-diagram" class="svg-container">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0, 0, 927, 714" preserveAspectRatio="xMinYMin meet" class="svg-content">
 <defs>
   <clipPath id="Clip_1">
@@ -220,10 +222,12 @@ Research in the Quantum Group @ Ugent is focused on unravelling entanglement pat
 	  <path d="M390,127.25 L582,127.25 L580.75,126 L580.75,221 L582,219.75 L390,219.75 L391.25,221 L391.25,126 L390,127.25 z M390,124.75 C389.309,124.75 388.75,125.31 388.75,126 L388.75,221 C388.75,221.69 389.309,222.25 390,222.25 L582,222.25 C582.69,222.25 583.25,221.69 583.25,221 L583.25,126 C583.25,125.31 582.69,124.75 582,124.75 L390,124.75 z M565.481,130.75 L406.518,130.75 C399.988,130.75 394.75,136.572 394.75,143.691 L394.75,203.309 C394.75,210.428 399.988,216.25 406.518,216.25 L565.481,216.25 C572.012,216.25 577.25,210.428 577.25,203.309 L577.25,143.691 C577.25,136.572 572.012,130.75 565.481,130.75 z M565.481,133.25 C570.569,133.25 574.75,137.897 574.75,143.691 L574.75,203.309 C574.75,209.103 570.569,213.75 565.481,213.75 L406.518,213.75 C401.431,213.75 397.25,209.103 397.25,203.309 L397.25,143.691 C397.25,137.897 401.431,133.25 406.518,133.25 L565.481,133.25 z" fill="rgba(0,0,0,1)" clip-path="url(#Clip_1)" filter="url(#Shadow_2)"/>
 	</g>
   </g>
+  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_tensornetwork" aria-expanded="false" aria-controls="text_tensornetwork">
   <text transform="matrix(1, 0, 0, 1, 485.609, 173.5)">
 	<tspan x="-30.192" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">tensor</tspan>
 	<tspan x="-44.64" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">networks</tspan>
   </text>
+  </a>
   <g>
 	<path d="M98.772,335.75 L248.447,335.75 C256.605,335.75 263.219,339.183 263.219,343.418 L263.219,412.582 C263.219,416.817 256.605,420.25 248.447,420.25 L98.772,420.25 C90.614,420.25 84,416.817 84,412.582 L84,343.418 C84,339.183 90.614,335.75 98.772,335.75 z" fill="#BEBADA"/>
 	<g>
@@ -231,10 +235,12 @@ Research in the Quantum Group @ Ugent is focused on unravelling entanglement pat
 	  <path d="M78,331 L269.219,331 L267.969,329.75 L267.969,426.25 L269.219,425 L78,425 L79.25,426.25 L79.25,329.75 L78,331 z M78,328.5 C77.31,328.5 76.75,329.06 76.75,329.75 L76.75,426.25 C76.75,426.94 77.31,427.5 78,427.5 L269.219,427.5 C269.909,427.5 270.469,426.94 270.469,426.25 L270.469,329.75 C270.469,329.06 269.909,328.5 269.219,328.5 L78,328.5 z M248.447,334.5 L98.772,334.5 C90.014,334.5 82.75,338.271 82.75,343.418 L82.75,412.582 C82.75,417.729 90.014,421.5 98.772,421.5 L248.447,421.5 C257.205,421.5 264.469,417.729 264.469,412.582 L264.469,343.418 C264.469,338.271 257.205,334.5 248.447,334.5 z M248.447,337 C256.006,337 261.969,340.096 261.969,343.418 L261.969,412.582 C261.969,415.904 256.006,419 248.447,419 L98.772,419 C91.213,419 85.25,415.904 85.25,412.582 L85.25,343.418 C85.25,340.096 91.213,337 98.772,337 L248.447,337 z" fill="rgba(0,0,0,1)" clip-path="url(#Clip_3)" filter="url(#Shadow_4)"/>
 	</g>
   </g>
+  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_quantumentanglement" aria-expanded="false" aria-controls="text_quantumentanglement">
   <text transform="matrix(1, 0, 0, 1, 173.609, 378)">
 	<tspan x="-42.42" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">quantum</tspan>
 	<tspan x="-65.52" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">entanglement</tspan>
   </text>
+  </a>
   <g>
 	<path d="M760.111,300 L907.108,300 C916.437,300 924,303.716 924,308.301 L924,375.699 C924,380.284 916.437,384 907.108,384 L760.111,384 C750.782,384 743.219,380.284 743.219,375.699 L743.219,308.301 C743.219,303.716 750.782,300 760.111,300 z" fill="#80B1D3"/>
 	<g>
@@ -242,10 +248,12 @@ Research in the Quantum Group @ Ugent is focused on unravelling entanglement pat
 	  <path d="M737.219,295.25 L930,295.25 L928.75,294 L928.75,390 L930,388.75 L737.219,388.75 L738.469,390 L738.469,294 L737.219,295.25 z M737.219,292.75 C736.529,292.75 735.969,293.31 735.969,294 L735.969,390 C735.969,390.69 736.529,391.25 737.219,391.25 L930,391.25 C930.69,391.25 931.25,390.69 931.25,390 L931.25,294 C931.25,293.31 930.69,292.75 930,292.75 L737.219,292.75 z M907.108,298.75 L760.111,298.75 C750.179,298.75 741.969,302.784 741.969,308.301 L741.969,375.699 C741.969,381.216 750.179,385.25 760.111,385.25 L907.108,385.25 C917.04,385.25 925.25,381.216 925.25,375.699 L925.25,308.301 C925.25,302.784 917.04,298.75 907.108,298.75 z M907.108,301.25 C915.834,301.25 922.75,304.649 922.75,308.301 L922.75,375.699 C922.75,379.351 915.834,382.75 907.108,382.75 L760.111,382.75 C751.385,382.75 744.469,379.351 744.469,375.699 L744.469,308.301 C744.469,304.648 751.385,301.25 760.111,301.25 L907.108,301.25 z" fill="rgba(0,0,0,1)" clip-path="url(#Clip_5)" filter="url(#Shadow_6)"/>
 	</g>
   </g>
+  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_manybodyphysics" aria-expanded="false" aria-controls="text_manybodyphysics">
   <text transform="matrix(1, 0, 0, 1, 833.609, 342)">
 	<tspan x="-53.964" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">many-body</tspan>
 	<tspan x="-36.42" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">physics</tspan>
   </text>
+  </a>
   <g>
 	<path d="M444.985,540 L598.234,540 C605.621,540 611.609,543.988 611.609,548.907 L611.609,615.093 C611.609,620.012 605.621,624 598.234,624 L444.985,624 C437.598,624 431.609,620.012 431.609,615.093 L431.609,548.907 C431.609,543.988 437.598,540 444.985,540 z" fill="#FB8072"/>
 	<g>
@@ -253,10 +261,12 @@ Research in the Quantum Group @ Ugent is focused on unravelling entanglement pat
 	  <path d="M425.609,535.25 L617.609,535.25 L616.359,534 L616.359,630 L617.609,628.75 L425.609,628.75 L426.859,630 L426.859,534 L425.609,535.25 z M425.609,532.75 C424.919,532.75 424.359,533.31 424.359,534 L424.359,630 C424.359,630.69 424.919,631.25 425.609,631.25 L617.609,631.25 C618.3,631.25 618.859,630.69 618.859,630 L618.859,534 C618.859,533.31 618.3,532.75 617.609,532.75 L425.609,532.75 z M598.234,538.75 L444.985,538.75 C436.989,538.75 430.36,543.165 430.359,548.907 L430.359,615.093 C430.359,620.835 436.989,625.25 444.985,625.25 L598.234,625.25 C606.23,625.25 612.859,620.835 612.859,615.093 L612.859,548.907 C612.859,543.165 606.23,538.75 598.234,538.75 z M598.234,541.25 C605.012,541.25 610.359,544.811 610.359,548.907 L610.359,615.093 C610.359,619.189 605.012,622.75 598.234,622.75 L444.985,622.75 C438.207,622.75 432.859,619.189 432.859,615.093 L432.859,548.907 C432.859,544.811 438.207,541.25 444.985,541.25 L598.234,541.25 z" fill="rgba(0,0,0,1)" clip-path="url(#Clip_7)" filter="url(#Shadow_8)"/>
 	</g>
   </g>
+  <a role="button" data-toggle="collapse" data-parent="#accordion" href="#text_quantumfieldtheory" aria-expanded="true" aria-controls="text_quantumfieldtheory">
   <text transform="matrix(1, 0, 0, 1, 521.609, 582)">
 	<tspan x="-66.18" y="-7" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">quantum field</tspan>
 	<tspan x="-30.408" y="22" font-family="HelveticaNeue-CondensedBold" font-size="24" fill="#606060">theory</tspan>
   </text>
+  </a>
   <g>
 	<path d="M378,348 C348.177,348 324,323.823 324,294 C324,264.177 348.177,240 378,240 C407.823,240 432,264.177 432,294 C432,323.823 407.823,348 378,348 z" fill="#FFFFB4"/>
 	<g>
@@ -410,128 +420,126 @@ Research in the Quantum Group @ Ugent is focused on unravelling entanglement pat
 </g>
 </svg>
 </div>
+      <div id="text_tensornetwork" class="panel-collapse collapse" role="tabpanel">
+        <div class="panel-body">
+          <h2>Tensor Networks</h2>
+          <p>Tensor networks provide a new mathematical and computational framework for tackling the central theoretical problem in physics, namely the quantum many-body problem, and more specifically the problem of strongly interacting systems.  The quantum many-body problem deals with the description of a large collection of particles, and forms the foundation upon which all our understanding of condensed matter physics, quantum field theory, quantum chemistry and statistical physics is build. The central concepts of tensor networks originate from the field of quantum information and computation, in which quantum entanglement is exploited to perform information tasks exponentially faster than possible using classical means.</p>
 
-## Tensor networks
+          <p>Around 2003, a collaboration of members of the Ghent Quantum Group and Ignacio Cirac from the Max Planck Institute for Quantum Optics discovered that the theory of entanglement provides a fundamentally new language for describing interactions and correlations in generic quantum many-body systems. Its vocabulary consists of qubits and entangled pairs, while the syntax is provided by quantum tensor networks. In essence, we discovered how to describe many-body wavefunctions in terms of local tensors expressing how entanglement is routed. These local tensors act as a novel type of non-local order parameters, and we study their symmetries as reflections of the global entanglement patterns in the full system, uncovering a precise characterization of algebraic structures previously discovered in statistical physics, condensed matter physics and conformal field theory.</p>
 
-<p style="text-align:justify">
-Tensor networks provide a new mathematical and computational framework for tackling the central theoretical problem in physics, namely the quantum many-body problem, and more specifically the problem of strongly interacting systems.  The quantum many-body problem deals with the description of a large collection of particles, and forms the foundation upon which all our understanding of condensed matter physics, quantum field theory, quantum chemistry and statistical physics is build. The central concepts of tensor networks originate from the field of quantum information and computation, in which quantum entanglement is exploited to perform information tasks exponentially faster than possible using classical means.<br>
-Around 2003, a collaboration of members of the Ghent Quantum Group and Ignacio Cirac from the Max Planck Institute for Quantum Optics discovered that the theory of entanglement provides a fundamentally new language for describing interactions and correlations in generic quantum many-body systems. Its vocabulary consists of qubits and entangled pairs, while the syntax is provided by quantum tensor networks. In essence, we discovered how to describe many-body wavefunctions in terms of local tensors expressing how entanglement is routed. These local tensors act as a novel type of non-local order parameters, and we study their symmetries as reflections of the global entanglement patterns in the full system, uncovering a precise characterization of algebraic structures previously discovered in statistical physics, condensed matter physics and conformal field theory.<br>
-The central goal of our research is to reveal the semantics of those entanglement patterns in interacting many-body systems, and to use this knowledge to construct algorithms for simulating strongly correlated systems. To achieve this, we develop novel theoretical and computational approaches to tensor networks, and apply those to problems in the context of ultracold gases, condensed matter physics, quantum field theory and quantum computing. We  formulate variational and real-space renormalization-group methods for generic many-body problems and quantum field theories, construct scaling methods based on entanglement renormalization, devise new algorithms for simulating time dependent phenomena in state of the art experiments with cold atoms, and use tensor networks to construct novel quantum error correcting codes. A unique feature of our research is the fact that the theoretical and computational aspects are not parallel lines of development, but one and the same: we fuse the intricate mathematical structures of tensor networks and tensor fusion categories with very tangible numerical simulations of quantum many-body systems.<br>
-Wilson’s renormalization-group program revolutionized the way we understand and think about physics, and tensor network based techniques provide the next step. Modelling the entanglement degrees of freedom through tensor networks seems to grant precisely the means to realize the visionary program set forward by Feynman in '88:<br><br>
+          <p>The central goal of our research is to reveal the semantics of those entanglement patterns in interacting many-body systems, and to use this knowledge to construct algorithms for simulating strongly correlated systems. To achieve this, we develop novel theoretical and computational approaches to tensor networks, and apply those to problems in the context of ultracold gases, condensed matter physics, quantum field theory and quantum computing. We  formulate variational and real-space renormalization-group methods for generic many-body problems and quantum field theories, construct scaling methods based on entanglement renormalization, devise new algorithms for simulating time dependent phenomena in state of the art experiments with cold atoms, and use tensor networks to construct novel quantum error correcting codes. A unique feature of our research is the fact that the theoretical and computational aspects are not parallel lines of development, but one and the same: we fuse the intricate mathematical structures of tensor networks and tensor fusion categories with very tangible numerical simulations of quantum many-body systems.</p>
 
-</p>
-<p style="margin-left: 40px; text-align:justify">
-<i>  Now, in field theory, what’s going on over here and what’s going on over there and all over space is more or less the same. Why do we have to keep track in our functional of all things going on over there while we are looking at the things that are going on over here?... It’s really quite insane, actually: we are trying to find the energy by taking the expectation value of an operator which is located here and we present ourselves with a functional which is dependent on everything all over the map. That’s something wrong. Maybe there is some way to surround the object, or the region where we want to calculate things, by a surface and describe what things are coming in across the surface. It tells us everything that’s going on outside.</i>
-</p> <br>
+          <p>Wilson’s renormalization-group program revolutionized the way we understand and think about physics, and tensor network based techniques provide the next step. Modelling the entanglement degrees of freedom through tensor networks seems to grant precisely the means to realize the visionary program set forward by Feynman in '88:</p>
 
+          <blockquote>
+            Now, in field theory, what’s going on over here and what’s going on over there and all over space is more or less the same. Why do we have to keep track in our functional of all things going on over there while we are looking at the things that are going on over here?... It’s really quite insane, actually: we are trying to find the energy by taking the expectation value of an operator which is located here and we present ourselves with a functional which is dependent on everything all over the map. That’s something wrong. Maybe there is some way to surround the object, or the region where we want to calculate things, by a surface and describe what things are coming in across the surface. It tells us everything that’s going on outside.
+          </blockquote>
+        </div>
+      </div>
+      <div id="text_quantumentanglement" class="panel-collapse collapse" role="tabpanel">
+        <div class="panel-body">
+          <h2>Quantum Entanglement</h2>
+          <blockquote>
+            When two systems, of which we know the states by their respective representation, enter into a temporary physical interaction due to known forces between them and when after a time of mutual influence the systems separate again, then they can no longer be described as before, viz., by endowing each of them with a representative of its own. I would not call that one but rather the characteristic trait of quantum mechanics. (Erwin Schrodinger)
+          </blockquote>
 
-## Many-Body Physics
+          <p>Quantum Entanglement taught us that the whole is much more than the sum of its parts, and gives rise to all magic and wonder in quantum mechanics. On the one hand, it is responsible for the exponential scaling of and difficulty in simualting quantum many-body systems. On the other hand, it is precisely the key ingredient which enables the exponential speed-ups in future quantum computers. We are currently very much in the process of starting to understand how to describe and exploit entanglement, and research in the Quantum Group @ Ugent focuses on studying entanglement in the many-body context.</p>
 
+          <p>Recent papers on the topic include:</p>
+          <p style="margin-left: 40px">
 
-Our research in many-body physics focuses on <br>
-1. The development of tensor network algorithms for the simulation of strongly correlated quantum spin and/or fermionic systems <br>
-2. Cold atoms in optical traps, optical lattices and atom chips <br>
-3. Topological phases of matter <br>
-4. Lattice gauge theories <br>
-5. The mathematical theory of tensor networks <br>
-6. Categorical symmetries, Integrable systems, and Conformal Field Theories <br>
+            <i> Entanglement compression in scale space: From the multiscale entanglement renormalization ansatz to matrix product operators </i><br>
+            K Van Acoleyen, A Hallam, M Bal, M Hauru, J Haegeman, F Verstraete <br>
+            Physical Review B 102 (16), 165131 <br> <br>
 
+            <i> Scaling hypothesis for matrix product states </i><br>
+            B Vanhecke, J Haegeman, K Van Acoleyen, L Vanderstraeten, F. Verstraete <br>
+            Physical Review Letters 123 (25), 250604 <br> <br>
 
-## Quantum Entanglement
-<p style="text-align:justify">
+            <i> Symmetry breaking and the geometry of reduced density matrices </i><br>
+            V Zauner, D Draxler, L Vanderstraeten, J Haegeman, F Verstraete <br>
+            New Journal of Physics 18 (11), 113033 <br> <br>
 
-<i> When two systems, of which we know the states by their respective representation, enter into a temporary physical interaction due to known forces between them and when after a time of mutual influence the systems separate again, then they can no longer be described as before, viz., by endowing each of them with a representative of its own. I would not call that one but rather the characteristic trait of quantum mechanics. </i> (Erwin Schrodinger) <br>
+            <i> Entanglement of distillation for lattice gauge theories </i><br>
+            K Van Acoleyen, N Bultinck, J Haegeman, M Marien, VB Scholz, F. Verstraete <br>
+            Physical Review Letters 117 (13), 131602 <br> <br>
 
+            <i> Entanglement rates and the stability of the area law for the entanglement entropy </i><br>
+            M Mariën, KMR Audenaert, K Van Acoleyen, F Verstraete <br>
+            Communications in Mathematical Physics 346 (1), 35-73 <br> <br>
 
-Quantum Entanglement taught us that the whole is much more than the sum of its parts, and gives rise to all magic and wonder in quantum mechanics. On the one hand, it is responsible for the exponential scaling of and difficulty in simualting quantum many-body systems. On the other hand, it is precisely the key ingredient which enables the exponential speed-ups in future quantum computers. We are currently very much in the process of starting to understand how to describe and exploit entanglement, and research in the Quantum Group @ Ugent focuses on studying entanglement in the many-body context. <br><br>
+            <i> Shadows of anyons and the entanglement structure of topological phases </i><br>
+            J Haegeman, V Zauner, N Schuch, F Verstraete <br>
+            Nature communications 6 (1), 1-8 <br> <br>
 
-Recent papers on the topic include:<br> <br>
-</p>
-<p style="margin-left: 40px">
-  <i> Entanglement compression in scale space: From the multiscale entanglement renormalization ansatz to matrix product operators </i><br>
-  K Van Acoleyen, A Hallam, M Bal, M Hauru, J Haegeman, F Verstraete <br>
-  Physical Review B 102 (16), 165131 <br> <br>
+            <i> Entanglement rates and area laws </i><br>
+            K Van Acoleyen, M Mariën, F Verstraete <br>
+            Physical review letters 111 (17), 170501 <br> <br>
 
-  <i> Scaling hypothesis for matrix product states </i><br>
-  B Vanhecke, J Haegeman, K Van Acoleyen, L Vanderstraeten, F. Verstraete <br>
-  Physical Review Letters 123 (25), 250604 <br> <br>
+          </p>
+        </div>
+      </div>
+      <div id="text_manybodyphysics" class="panel-collapse collapse" role="tabpanel">
+        <div class="panel-body">
+          <h2>Many-Body Physics</h2>
 
-  <i> Symmetry breaking and the geometry of reduced density matrices </i><br>
-  V Zauner, D Draxler, L Vanderstraeten, J Haegeman, F Verstraete <br>
-  New Journal of Physics 18 (11), 113033 <br> <br>
+          Our research in many-body physics focuses on <br>
+          1. The development of tensor network algorithms for the simulation of strongly correlated quantum spin and/or fermionic systems <br>
+          2. Cold atoms in optical traps, optical lattices and atom chips <br>
+          3. Topological phases of matter <br>
+          4. Lattice gauge theories <br>
+          5. The mathematical theory of tensor networks <br>
+          6. Categorical symmetries, Integrable systems, and Conformal Field Theories <br>
+        </div>
+      </div>
+      <div id="text_quantumfieldtheory" class="panel-collapse collapse" role="tabpanel">
+        <div class="panel-body">
+          <h2>Quantum Field Theory</h2>
+          
+          <p>Quantum Field Theory (QFT) provides a unified framework for describing both effective and fundamental theories of quantum many-body systems in the continuum. It is the de-facto language in which we can understand critical phenomena and the renormalization group, and QFT has been enormously successful in describing a wealth of phenomena seen in high energy physics and in condensed matter physics. Although QFT has been around for almost a century, there are still fantastic difficulties to overcome in the regime of strong correlations and/or coupling, it is in these situations where the usual perturbative expansions in terms of Feynman diagrams fail.</p>
 
-  <i> Entanglement of distillation for lattice gauge theories </i><br>
-  K Van Acoleyen, N Bultinck, J Haegeman, M Marien, VB Scholz, F. Verstraete <br>
-  Physical Review Letters 117 (13), 131602 <br> <br>
+          <p>One of the long-term goals of the Quantum Group @ Ugent is to construct a comprehensive real-space based framework  to tackle QFT in this strong coupling regime. Our methods of choice are tensor networks, and we are both developing the mathematical framework as well as powerful new algorithms for simulating such systems.</p>
 
-  <i> Entanglement rates and the stability of the area law for the entanglement entropy </i><br>
-  M Mariën, KMR Audenaert, K Van Acoleyen, F Verstraete <br>
-  Communications in Mathematical Physics 346 (1), 35-73 <br> <br>
+          <p>A collection of recent papers on that topic include:</p>
+          <p style="margin-left: 40px">
 
-  <i> Shadows of anyons and the entanglement structure of topological phases </i><br>
-  J Haegeman, V Zauner, N Schuch, F Verstraete <br>
-  Nature communications 6 (1), 1-8 <br> <br>
+            <i> Lattice regularisation and entanglement structure of the Gross-Neveu model </i> <br>
+            G Roose, N Bultinck, L Vanderstraeten, F Verstraete, K Van Acoleyen, J Haegeman <br>
+            arXiv preprint arXiv:2010.03441 <br> <br>
 
-  <i> Entanglement rates and area laws </i><br>
-  K Van Acoleyen, M Mariën, F Verstraete <br>
-  Physical review letters 111 (17), 170501 <br> <br>
+            <i> Simulating lattice gauge theories within quantum technologies </i> <br>
+            MC Bañuls et al. <br>
+            The European Physical Journal D 74 (8), 1-42 <br> <br>
 
-</p>
+            <i> Mapping topological to conformal field theories through strange correlators </i><br>
+            R Vanhove, M Bal, DJ Williamson, N Bultinck, J Haegeman, F Verstraete <br>
+            Physical review letters 121 (17), 177203 <br> <br>
 
+            <i> Real-time simulation of the Schwinger effect with matrix product states </i> <br>
+            B Buyens, J Haegeman, F Hebenstreit, F Verstraete, K Van Acoleyen <br>
+            Physical Review D 96 (11), 114501 <br> <br>
 
+            <i> Finite-representation approximation of lattice gauge theories at the continuum limit with tensor networks </i> <br>
+            B Buyens, S Montangero, J Haegeman, F Verstraete, K Van Acoleyen <br>
+            Physical Review D 95 (9), 094509 <br> <br> <br>
 
+            <i> Confinement and String Breaking for QED_2 in the Hamiltonian Picture </i> <br>
+            B Buyens, J Haegeman, H Verschelde, F Verstraete, K Van Acoleyen <br>
+            Physical Review X 6 (4), 041040 <br> <br>
 
-## Quantum Field Theory
-<p style="text-align:justify">
-
-Quantum Field Theory (QFT) provides a unified framework for describing both effective and fundamental theories of quantum many-body systems in the continuum. It is the de-facto language in which we can understand critical phenomena and the renormalization group, and QFT has been enormously successful in describing a wealth of phenomena seen in high energy physics and in condensed matter physics. Although QFT has been around for almost a century, there are still fantastic difficulties to overcome in the regime of strong correlations and/or coupling, it is in these situations where the usual perturbative expansions in terms of Feynman diagrams fail. <br> <br>
-
-One of the long-term goals of the Quantum Group @ Ugent is to construct a comprehensive real-space based framework  to tackle QFT in this strong coupling regime. Our methods of choice are tensor networks, and we are both developing the mathematical framework as well as powerful new algorithms for simulating such systems. <br> <br>
-
-</p>
-A collection of recent papers on that topic include: <br><br>
-
-<p style="margin-left: 40px">
-
-<i> Lattice regularisation and entanglement structure of the Gross-Neveu model </i> <br>
-G Roose, N Bultinck, L Vanderstraeten, F Verstraete, K Van Acoleyen, J Haegeman <br>
-arXiv preprint arXiv:2010.03441 <br> <br>
-
-<i> Simulating lattice gauge theories within quantum technologies </i> <br>
-MC Bañuls et al. <br>
-The European Physical Journal D 74 (8), 1-42 <br> <br>
-
-<i> Mapping topological to conformal field theories through strange correlators </i><br>
-R Vanhove, M Bal, DJ Williamson, N Bultinck, J Haegeman, F Verstraete <br>
-Physical review letters 121 (17), 177203 <br> <br>
-
-<i> Real-time simulation of the Schwinger effect with matrix product states </i> <br>
-B Buyens, J Haegeman, F Hebenstreit, F Verstraete, K Van Acoleyen <br>
-Physical Review D 96 (11), 114501 <br> <br>
-
-<i> Finite-representation approximation of lattice gauge theories at the continuum limit with tensor networks </i> <br>
-B Buyens, S Montangero, J Haegeman, F Verstraete, K Van Acoleyen <br>
-Physical Review D 95 (9), 094509 <br> <br> <br>
-
-<i> Confinement and String Breaking for QED_2 in the Hamiltonian Picture </i> <br>
-B Buyens, J Haegeman, H Verschelde, F Verstraete, K Van Acoleyen <br>
-Physical Review X 6 (4), 041040 <br> <br>
-
-</p>
-
-
+          </p>
+        </div>
+      </div>
+</div>
+</div>
 
 ### Quantum Error Correction
 
-<p style="text-align:justify">
+As quantum systems are much more susceptible to noise than classical ones, the biggest theoretical challenge in building a scalable quantum computer is the construction of efficient fault tolerant quantum error correction schemes. The theory of quantum error correction provides fascinating connections between a wide variety of different fields in theoretical physics, including topological field theory, lattice gauge theories, anyons, spin glasses, quantum entanglement and the renormalization group. The most widely studied quantum error correcting codes are based on the so-called stabilizer formalism, which has the big drawback that quantum operations have to be performed outside of the code space to make the scheme useful for univeral quantum computation. Other universal codes have been proposed, but those are much harder to analyze and implement.
 
-As quantum systems are much more susceptible to noise than classical ones, the biggest theoretical challenge in building a scalable quantum computer is the construction of efficient fault tolerant quantum error correction schemes. The theory of quantum error correction provides fascinating connections between a wide variety of different fields in theoretical physics, including topological field theory, lattice gauge theories, anyons, spin glasses, quantum entanglement and the renormalization group. The most widely studied quantum error correcting codes are based on the so-called stabilizer formalism, which has the big drawback that quantum operations have to be performed outside of the code space to make the scheme useful for univeral quantum computation. Other universal codes have been proposed, but those are much harder to analyze and implement. <br>
+Our research focuses on using tensor networks to devise universal non-Abelian quantum error correcting codes and decoding strategies. To achieve this, we have developed the formalism of tube algebras and matrix product operator symmetries, and implement Monte-Carlo based tensor network routines to study their efficiency.
 
-Our research focuses on using tensor networks to devise universal non-Abelian quantum error correcting codes and decoding strategies. To achieve this, we have developed the formalism of tube algebras and matrix product operator symmetries, and implement Monte-Carlo based tensor network routines to study their efficiency. <br> <br>
-
-</p>
-
-Relevant papers on this topic are <br><br>
+Relevant papers on this topic are:
 
 <p style="margin-left: 40px">
 
@@ -546,19 +554,21 @@ Annals of physics 378, 183-233 <br>
 </p>
 
 ### Quantum Computing
-<p style="text-align:justify">
 
-Quantum Computers promise to be the next quantum leap in the development of supercomputers. Their power stems from the fact that quantum systems can evolve in a superposition of an exponential amount of different paths, and thereby allow to solve a select number of relevant problems exponentially faster than possible with a classical computer. As originally observed by Feynman, quantum mechanics has provided us with a fully untapped source of computational power, and only since recently is the technology being developed using superconducting systems and/or quantum optical setups to make this dream a reality. The research field of quantum information merges two of the biggest scientific triumphs of 20th century, namely quantum mechanics and information theory. It is an extremely active and interdisciplinary field, and poses a wealth of fascinating and tractable problems and puzzles both from the experimental and theoretical side.  <br> <br>
+Quantum Computers promise to be the next quantum leap in the development of supercomputers. Their power stems from the fact that quantum systems can evolve in a superposition of an exponential amount of different paths, and thereby allow to solve a select number of relevant problems exponentially faster than possible with a classical computer. As originally observed by Feynman, quantum mechanics has provided us with a fully untapped source of computational power, and only since recently is the technology being developed using superconducting systems and/or quantum optical setups to make this dream a reality. The research field of quantum information merges two of the biggest scientific triumphs of 20th century, namely quantum mechanics and information theory. It is an extremely active and interdisciplinary field, and poses a wealth of fascinating and tractable problems and puzzles both from the experimental and theoretical side.
 
-Research in the Quantum Group @ Ugent on quantum computation is focused on  different aspects. <br> <br>
+Research in the Quantum Group @ Ugent on quantum computation is focused on  different aspects.
 
-First, we are devising quantum algorithms for simulating strongly correlated quantum many-body systems in and out of equilibrium; we strongly believe that this will be the killer application of quantum computers, with applications ranging from simulating the Langrangian of the standard model to the simulation of chemical reactions of medicinal drugs. The Ugent group was the first one to discover two of the central algorithms to make this possible: an algorithm for the efficient preparation of Slater determinants on a quantum computer (which can then be projected on the exact  ground state of an interesting system by doing a non-demolition energy measurement), and the so-called "quantum Metropolis sampling" algorithm which allows a quantum computer to sample directly from the eigenstates of a quantum Hamiltonian, thereby demonstrating that a quantum computer can overcome the ubiquitous sign problem. Current research is focused on how to adopt such quantum simulators to specific experimental settings, and to devise efficient regularization schemes for simulating quantum field theories on a quantum computer. Furthermore, we explore how fermionic many-body systems can be encoded efficiently using a system of qubits. <br> <br>
-Second, we study notions in complexity theory to quantify the complexity of relevant computational tasks to be run on a quantum computer. For example, we proved that the universal density functional in density functional theory is intractable, as it would allow to solve quantum NP-hard problems. We are also characterizing relations between the quantum marginal problem and the problem of finding ground states of interacting systems. <br> <br>
-Third, we are using the formalism of tensor networks to devise novel quantum error correcting codes. Constructing non-Abelian codes which allow for universal quantum computation in its codespace is the central theoretical challenge that has to be solved to build scalable quantum computers, and it turns out that tensor networks and more specifically PEPS provide the perfect tool that is needed for the the analysis of such codes. <br> <br>
-Fourth, a new type of statisitics is needed to analyse quantum experiments. We have introduced several key quantum statistical tests for achieving this, such as the quantum chi-squared test, and have solved central problems in the field of quantum hypothesis testing, where we derived the quantum Chernoff and Hoefdding bounds. <br> <br>
-Fifth, the Quantum Group @ Ugent was the first to prove the equivalence of the measurement based quantum computation formalism to the standard quantum circuit model using a nontrivial mapping to tensor networks. Furthermore, our theoretical research on dissipative quantum computation led to a paradigm shift into the way we look at decoherence and invigorated a large worldwide experimental effort to implement dissipative protocols.<br><br>
+First, we are devising quantum algorithms for simulating strongly correlated quantum many-body systems in and out of equilibrium; we strongly believe that this will be the killer application of quantum computers, with applications ranging from simulating the Langrangian of the standard model to the simulation of chemical reactions of medicinal drugs. The Ugent group was the first one to discover two of the central algorithms to make this possible: an algorithm for the efficient preparation of Slater determinants on a quantum computer (which can then be projected on the exact  ground state of an interesting system by doing a non-demolition energy measurement), and the so-called "quantum Metropolis sampling" algorithm which allows a quantum computer to sample directly from the eigenstates of a quantum Hamiltonian, thereby demonstrating that a quantum computer can overcome the ubiquitous sign problem. Current research is focused on how to adopt such quantum simulators to specific experimental settings, and to devise efficient regularization schemes for simulating quantum field theories on a quantum computer. Furthermore, we explore how fermionic many-body systems can be encoded efficiently using a system of qubits.
 
-</p>
+Second, we study notions in complexity theory to quantify the complexity of relevant computational tasks to be run on a quantum computer. For example, we proved that the universal density functional in density functional theory is intractable, as it would allow to solve quantum NP-hard problems. We are also characterizing relations between the quantum marginal problem and the problem of finding ground states of interacting systems.
+
+Third, we are using the formalism of tensor networks to devise novel quantum error correcting codes. Constructing non-Abelian codes which allow for universal quantum computation in its codespace is the central theoretical challenge that has to be solved to build scalable quantum computers, and it turns out that tensor networks and more specifically PEPS provide the perfect tool that is needed for the the analysis of such codes.
+
+Fourth, a new type of statisitics is needed to analyse quantum experiments. We have introduced several key quantum statistical tests for achieving this, such as the quantum chi-squared test, and have solved central problems in the field of quantum hypothesis testing, where we derived the quantum Chernoff and Hoefdding bounds.
+
+Fifth, the Quantum Group @ Ugent was the first to prove the equivalence of the measurement based quantum computation formalism to the standard quantum circuit model using a nontrivial mapping to tensor networks. Furthermore, our theoretical research on dissipative quantum computation led to a paradigm shift into the way we look at decoherence and invigorated a large worldwide experimental effort to implement dissipative protocols.
+
 <p style="margin-left: 40px">
 
 <i> Quantum metropolis sampling </i> <br>
@@ -600,38 +610,30 @@ Journal of Physics A: Mathematical and Theoretical <br> <br>
 F Verstraete, MM Wolf, JI Cirac <br>
 Nature Physics 5 (9), 633-636 <br> <br>
 
-
-
 </p>
 
 
 ### Matrix Product States
 
-<p style="text-align:justify">
+Matrix Product States (MPS) lie at the core of the tensor network formalism, and embody the entanglement structure of quantum many body systems arranged in a 1-Dimensional spin chain geometry. They provide an exponential compression of the Hilbert space relevant for describing the low-energy features of the corresponding quantum Hamiltonians, and thereby demonstrate that the exponential many-body wall can be breached by describing quantum systems through their quantum correlations and entanglement degrees of freedom as opposed to doing this by the physical spins. As such, MPS form an explicit and constructive realization of the holographic principle.
 
-Matrix Product States (MPS) lie at the core of the tensor network formalism, and embody the entanglement structure of quantum many body systems arranged in a 1-Dimensional spin chain geometry. They provide an exponential compression of the Hilbert space relevant for describing the low-energy features of the corresponding quantum Hamiltonians, and thereby demonstrate that the exponential many-body wall can be breached by describing quantum systems through their quantum correlations and entanglement degrees of freedom as opposed to doing this by the physical spins. As such, MPS form an explicit and constructive realization of the holographic principle. <br> <br>
+Research in the Quantum Group @ Ugent focuses on both the theoretical and computational aspects of MPS.  From the theoretical point of view, we have intense collaborations with the groups of I. Cirac (Max Planck), D. Perez-Garcia (Madrid) and N. Schuch (Vienna). We demonstrated that MPS form faithful representations of quantum systems satisfying an area law for the entanglement entropy; put forward the concept of matrix product operators (MPO);  proved the fundamental theorem of MPS, a formalism that opened the doors to classifying interacting quantum phases of matter; introduced the concept of continuous MPS, providing the first example of a succesfull variational method for interacting field theories; build the formalism of the time-dependent variational principle (TDVP) for MPS, showing that the manifold of MPS is a Kahler manifold endowed with a Poisson bracket structure and that the corresponding tangent plane defines an effective low-energy Hamiltonian projection of the full Hamiltonian; advanced the concept of matrix product operator algebras, opening up fascinating connections between tensor networks and fusion categories; established the framework of gauge symmetries in MPS; brought up the theory of fermionic MPS through the concept of graded Z2 algebra; and discovered non-commutative versions of the Gross-Pitaevski equation by using TDVP on the manifold of continuous MPS. Current research efforts focus on the mathematical framework of matrix product operator algebras, on the consrtruction of a comprehensive framework for dealing with fermions and anyons, and on unravelling the entanglement properties of continuous MPS.
 
-Research in the Quantum Group @ Ugent focuses on both the theoretical and computational aspects of MPS.  From the theoretical point of view, we have intense collaborations with the groups of I. Cirac (Max Planck), D. Perez-Garcia (Madrid) and N. Schuch (Vienna). We demonstrated that MPS form faithful representations of quantum systems satisfying an area law for the entanglement entropy; put forward the concept of matrix product operators (MPO);  proved the fundamental theorem of MPS, a formalism that opened the doors to classifying interacting quantum phases of matter; introduced the concept of continuous MPS, providing the first example of a succesfull variational method for interacting field theories; build the formalism of the time-dependent variational principle (TDVP) for MPS, showing that the manifold of MPS is a Kahler manifold endowed with a Poisson bracket structure and that the corresponding tangent plane defines an effective low-energy Hamiltonian projection of the full Hamiltonian; advanced the concept of matrix product operator algebras, opening up fascinating connections between tensor networks and fusion categories; established the framework of gauge symmetries in MPS; brought up the theory of fermionic MPS through the concept of graded Z2 algebra; and discovered non-commutative versions of the Gross-Pitaevski equation by using TDVP on the manifold of continuous MPS. Current research efforts focus on the mathematical framework of matrix product operator algebras, on the consrtruction of a comprehensive framework for dealing with fermions and anyons, and on unravelling the entanglement properties of continuous MPS.<br><br>
+From the computational point of view, we are actively developing MPS algorithms for finding ground states of quantum spin Hamiltonians and for finding fixed points of matrix product operators as encountered in the partition functions of 2-D statistical mechanical models and in the contraction of PEPS algorithms.  Recent advances include the introduction of the state of the art MPS method for simulaitng uniform systems in the thermodynamic limit, called the variational uniform matrix product state algorithm (VUMPS), and the advancement of the so-called tangent plane formalism for describing non-equilibrium phenomena in spin chains (also called TDVP algorithms) and for describing low-energy excitations of generic strongly correlated quantum spin chains. We are studying scattering theory of those excitations, and do research on MPO-based ways of simulating thermalization in closed quantum many body systems. We investigate the problem of simulating frustrated statistical mechanics models in 2-D, and construct entanglement scaling methods for simulating critical spin systems. We establish connections between neural networks and  the MPS formalism, devise algorithms to extend the MPS formalism to tree tensor networks, and construct methods to simulate quantum field theories in the continuum limit. We are also actively pursuing robust variational algorithms for dealing with continuous MPS, introduce novel optimization algorithms based on Grassmann manifolds, and incorporate powerful ideas originating from the field of machine learning such as backwards and automatic differentiation.
 
-From the computational point of view, we are actively developing MPS algorithms for finding ground states of quantum spin Hamiltonians and for finding fixed points of matrix product operators as encountered in the partition functions of 2-D statistical mechanical models and in the contraction of PEPS algorithms.  Recent advances include the introduction of the state of the art MPS method for simulaitng uniform systems in the thermodynamic limit, called the variational uniform matrix product state algorithm (VUMPS), and the advancement of the so-called tangent plane formalism for describing non-equilibrium phenomena in spin chains (also called TDVP algorithms) and for describing low-energy excitations of generic strongly correlated quantum spin chains. We are studying scattering theory of those excitations, and do research on MPO-based ways of simulating thermalization in closed quantum many body systems. We investigate the problem of simulating frustrated statistical mechanics models in 2-D, and construct entanglement scaling methods for simulating critical spin systems. We establish connections between neural networks and  the MPS formalism, devise algorithms to extend the MPS formalism to tree tensor networks, and construct methods to simulate quantum field theories in the continuum limit. We are also actively pursuing robust variational algorithms for dealing with continuous MPS, introduce novel optimization algorithms based on Grassmann manifolds, and incorporate powerful ideas originating from the field of machine learning such as backwards and automatic differentiation.  <br> <br>
-
-A large research effort is also the building of comprehensive state of the art open-source tensor network libraries in Julia and Matlab that can deal with all possible symmetries and particle statistics (see Software).
-</p>
-
+A large research effort is also the building of comprehensive state of the art open-source tensor network libraries in Julia and Matlab that can deal with all possible symmetries and particle statistics (see [Software](../software/)).
 
 ### Projected Entangled Pair States
 
-<p style="text-align:justify">
+Projected Entangled Pair States (PEPS) form the perfect incarnation of tensor networks, and embody their full complexity and elegance. PEPS provide a unified description of quantum many body wavefunctions on arbitrary lattices and in arbitrary dimensions that satisfy an area law for their entanglement entropy. PEPS were introduced in 2004 through a collaboration of the Quantum Group @ Ugent and Ignacio Cirac from the Max Planck Institute for Quantum Optics, and form a very active field of research as they bear the promise to crack open the quantum many-body problem for strongly correlated fermions in 2-D.
 
-Projected Entangled Pair States (PEPS) form the perfect incarnation of tensor networks, and embody their full complexity and elegance. PEPS provide a unified description of quantum many body wavefunctions on arbitrary lattices and in arbitrary dimensions that satisfy an area law for their entanglement entropy. PEPS were introduced in 2004 through a collaboration of the Quantum Group @ Ugent and Ignacio Cirac from the Max Planck Institute for Quantum Optics, and form a very active field of research as they bear the promise to crack open the quantum many-body problem for strongly correlated fermions in 2-D.<br>
-On the one hand, PEPS form a rich class of variational wavefunctions which provide state of the art results for the simulation of strongly correlated systems on finite and infinite  2-D lattices; very active and worldwide research is currently been done to come up with efficient and robust methods to optimize this class of wavefunctions. On the other hand, PEPS wavefunctions are representative for extremely interesting and exotic topological phases of matter, and as such reveal the entanglement structure of such phases. The mathematical framework for dealing with PEPS has a lot of overlap with so-called fusion categories, an abstract set of ideas which underlie advanced topics in theoretical physics such as topological field theory and conformal field theory.<br>
-PEPS forms the core of the central mission of the Quantum Group @ Ugent, which is to advance the theory of tensor networks and use this to construct novel variational algorithms and software to simulate strongly correlated systems.<br><br>
+On the one hand, PEPS form a rich class of variational wavefunctions which provide state of the art results for the simulation of strongly correlated systems on finite and infinite 2-D lattices; very active and worldwide research is currently been done to come up with efficient and robust methods to optimize this class of wavefunctions. On the other hand, PEPS wavefunctions are representative for extremely interesting and exotic topological phases of matter, and as such reveal the entanglement structure of such phases. The mathematical framework for dealing with PEPS has a lot of overlap with so-called fusion categories, an abstract set of ideas which underlie advanced topics in theoretical physics such as topological field theory and conformal field theory.
 
-A collection of recent results involving PEPS: <br><br>
-</p>
+PEPS forms the core of the central mission of the Quantum Group @ Ugent, which is to advance the theory of tensor networks and use this to construct novel variational algorithms and software to simulate strongly correlated systems.
+
+A collection of recent results involving PEPS:
 
 <p style="margin-left: 40px">
-
 
 <i> Matrix product operator symmetries and intertwiners in string-nets with domain walls </i> <br>
 L Lootens, J Fuchs, J Haegeman, C Schweigert, F Verstraete<br>
@@ -695,39 +697,30 @@ Physical Review B 94 (15), 155123  <br> <br>
 
 </p>
 
-
-
 ### Cold Atoms
 
-<p style="text-align:justify">
+The current state of the art experiments probing the quantum many-body features of strongly correlated systems happen in the realm of cold atoms. Using advanced cooling and trapping techniques, it has become possible  to manipulate and observe individual quantum particles, and to let them exhibit fascinating collective behaviour. Keywords are Bose-Einstein Condensates (BEC), ion traps, optical lattices and atom chips.
 
-The current state of the art experiments probing the quantum many-body features of strongly correlated systems happen in the realm of cold atoms. Using advanced cooling and trapping techniques, it has become possible  to manipulate and observe individual quantum particles, and to let them exhibit fascinating collective behaviour. Keywords are Bose-Einstein Condensates (BEC), ion traps, optical lattices and atom chips. <br><br>
+We are currently building the first [BEC-laboratory](../beclab/) in Belgium, which will consist of a Rubidium 87 BEC supplanted with an acousto-optical projection system (AOD). From our point of view, this BEC system is an effective quantum simulator by which we will be able to simulate a wide variety of interesting quantum many-body systems, including non-equilibrium phenomena and many-body analogues of quantum gravity.
 
-We are currently building the first BEC-laboratory in Belgium, which will consist of a Rubidium 87 BEC supplanted with an acousto-optical projection system (AOD). From our point of view, this BEC system is an effective quantum simulator by which we will be able to simulate a wide variety of interesting quantum many-body systems, including non-equilibrium phenomena and many-body analogues of quantum gravity. <br><br>
-
-Form the point of view of tensor networks, cold atom experiments provide a wealth of interesting applications; in many ways, tensor network algorithms provide the only benchmark for evaluating the correctness of the experiments. Cold atoms also pose unique new problems and suggest a wide variety of new directions in which tensor network algorithms should be generalized and improved. <br><br>
-</p>
-
-
-
+Form the point of view of tensor networks, cold atom experiments provide a wealth of interesting applications; in many ways, tensor network algorithms provide the only benchmark for evaluating the correctness of the experiments. Cold atoms also pose unique new problems and suggest a wide variety of new directions in which tensor network algorithms should be generalized and improved.
 
 ### Strongly Correlated Systems
-<p style="text-align:justify">
 
-Research in theoretical quantum physics is to a large extent a quest to understand strongly correlated quantum many-body systems. Be it particle physics, condensed matter physics, atomic physics or quantum chemistry, the central problem is the one of treating strongly correlated systems, and almost all breakthroughs since the last 70 years involved the construction of approximation methods by which such systems can be described. Such physics problems of great interest that still lack a satisfactory theoretical or computational description are e.g. the ubiquitous Hubbard model (modeling interacting electrons on a lattice) and Quantum Chromodynamics (describing the strong force between quarks). Devising better methods for simulating or describing such systems in all relevant regimes would have an enormous impact, and might lead to breakthroughs in e.g. unraveling the mechanism of high Tc-superconductivity.<br>
+Research in theoretical quantum physics is to a large extent a quest to understand strongly correlated quantum many-body systems. Be it particle physics, condensed matter physics, atomic physics or quantum chemistry, the central problem is the one of treating strongly correlated systems, and almost all breakthroughs since the last 70 years involved the construction of approximation methods by which such systems can be described. Such physics problems of great interest that still lack a satisfactory theoretical or computational description are e.g. the ubiquitous Hubbard model (modeling interacting electrons on a lattice) and Quantum Chromodynamics (describing the strong force between quarks). Devising better methods for simulating or describing such systems in all relevant regimes would have an enormous impact, and might lead to breakthroughs in e.g. unraveling the mechanism of high Tc-superconductivity.
 
-A main characteristic of strongly correlated systems is the fact that they are much more naturally described in real-space coordinates than in momentum space ones, the last ones being the natural coordinates for describing weakly interacting systems through perturbation theory on top of a Slater determinant or Gaussian state. Tensor networks can precisely be seen as a program to implement the real-space option -  treating the kinetic energy terms as a perturbation to the (local) interaction terms. This allows to describe many-body systems in phases that cannot be reached adiabatically from free theories - and such systems are precisely the ones with the most interesting entanglement structure and exotic quantum features. Furthermore, tensor networks do this in a way such that there is a systematic way of improving the approximations - thereby providing a very versatile variational framework to tackle strongly correlated system - the hardest problem in physics.<br><br>
-</p>
+A main characteristic of strongly correlated systems is the fact that they are much more naturally described in real-space coordinates than in momentum space ones, the last ones being the natural coordinates for describing weakly interacting systems through perturbation theory on top of a Slater determinant or Gaussian state. Tensor networks can precisely be seen as a program to implement the real-space option -  treating the kinetic energy terms as a perturbation to the (local) interaction terms. This allows to describe many-body systems in phases that cannot be reached adiabatically from free theories - and such systems are precisely the ones with the most interesting entanglement structure and exotic quantum features. Furthermore, tensor networks do this in a way such that there is a systematic way of improving the approximations - thereby providing a very versatile variational framework to tackle strongly correlated system - the hardest problem in physics.
 
 ### Tensor networks: Algorithms & Simulations
-<p style="text-align:justify">
 
-Arguably the most important problem in quantum many-body physics is to develop robust and efficient algorithms for simulating strongly correlated quantum systems. The Density Matrix Renormalization Group (DMRG), introduced by Steven White in '92, revolutionized the way in which 1-D strongly correlated systems can be simulated, and allowed to settle a whole range of relevant open problems in that setting. It took however until around 2003 before a satisfactory theoretical understanding of its workings was obtained through a collaboration between the Quantum Group & Ugent and the Max Planck Insitute for Quantum Optics: by looking at strongly correlated quantum systems from the point of view of quantum information and entanglement theory, we were able to demonstrate that the success of DMRG follows from the fact that ground states of quantum spin chains satisfy an area law for the entanglement theory, thereby allowing for an exponential speed-up. Furthermore, we exposed the fact that DMRG can be seen as an alternating least squares optimization strategy to optimize variational wavefunctions in the class of matrix product states (MPS) - thereby putting this class of wavefunctions center stage - and we clearly unmasked the fatal flaw in DMRG for being a scalable method for simulating higher dimensional quantum many-body systems.<br>
-These insights immediately led to important generalizations of DMRG - to the setting of systems with periodic boundary conditions, to the case of the thermodynamic limit through uniform MPS, to the setting of density operators through the introduction of matrix product operators, to the simulation of real-time evolution as a variational problem on the manifold of MPS, and, crucially, to the introduction of the class of projected entangled pair states (PEPS), a variational class of states that overcomes the limitation of DMRG for simulating higher dimensional systems.<br>
-Since these early works,  the field of computational tensor networks has become a very active field of research, and great progress is being made in constructing better and more robust methods to optimize the corresponding MPS and PEPS. The development of such better methods forms one of the core activities of the Quantum Group. Recent successes are e.g. the introduction of the time dependent variational principle (TDVP) in MPS, providing state of the art methods for simulating time evolution and for finding ground states of infinitely long systems through the variational uniform MPS (VUMPS) method, and of tangent plane methods to target low-lying topological excitations in the form of plane waves. We are also very actively pursuing robust gradient-based methods for optimizing PEPS - without a doubt the most important open problem in the field. <br><br>
+Arguably the most important problem in quantum many-body physics is to develop robust and efficient algorithms for simulating strongly correlated quantum systems. The Density Matrix Renormalization Group (DMRG), introduced by Steven White in '92, revolutionized the way in which 1-D strongly correlated systems can be simulated, and allowed to settle a whole range of relevant open problems in that setting. It took however until around 2003 before a satisfactory theoretical understanding of its workings was obtained through a collaboration between the Quantum Group & Ugent and the Max Planck Insitute for Quantum Optics: by looking at strongly correlated quantum systems from the point of view of quantum information and entanglement theory, we were able to demonstrate that the success of DMRG follows from the fact that ground states of quantum spin chains satisfy an area law for the entanglement theory, thereby allowing for an exponential speed-up. Furthermore, we exposed the fact that DMRG can be seen as an alternating least squares optimization strategy to optimize variational wavefunctions in the class of matrix product states (MPS) - thereby putting this class of wavefunctions center stage - and we clearly unmasked the fatal flaw in DMRG for being a scalable method for simulating higher dimensional quantum many-body systems.
+
+These insights immediately led to important generalizations of DMRG - to the setting of systems with periodic boundary conditions, to the case of the thermodynamic limit through uniform MPS, to the setting of density operators through the introduction of matrix product operators, to the simulation of real-time evolution as a variational problem on the manifold of MPS, and, crucially, to the introduction of the class of projected entangled pair states (PEPS), a variational class of states that overcomes the limitation of DMRG for simulating higher dimensional systems.
+
+Since these early works,  the field of computational tensor networks has become a very active field of research, and great progress is being made in constructing better and more robust methods to optimize the corresponding MPS and PEPS. The development of such better methods forms one of the core activities of the Quantum Group. Recent successes are e.g. the introduction of the time dependent variational principle (TDVP) in MPS, providing state of the art methods for simulating time evolution and for finding ground states of infinitely long systems through the variational uniform MPS (VUMPS) method, and of tangent plane methods to target low-lying topological excitations in the form of plane waves. We are also very actively pursuing robust gradient-based methods for optimizing PEPS - without a doubt the most important open problem in the field.
 
 A collection of recent papers on devising algorithms for tensor networks:
-</p>
+
 <p style="margin-left: 40px">
 
 <i> Riemannian optimization of isometric tensor networks </i> <br>
@@ -762,19 +755,16 @@ Physical Review B 97 (4), 045145<br><br>
 
 ### Real-Space Renormalization
 
-<p style="text-align:justify">
-
 The biggest breakthrough in theoretical physics of the last 50 years is without a doubt the introduction of the framework of the renormalization group (RG) by Kenneth Wilson. From the foundational point of view, the renormalization group has led to two quantum leaps:<br>
-First, the fact that physics on different length scales is described by different effective field theories, and that the microscopic structure of those Hamiltonians is not relevant as they will all flow towards the same effective theory. This insight is surprisingly deep as it effectively shows us why physics is possible at all. It also justifies the use of simple toy models as they contain the same universal physics as real-life Hamiltonians that are much more complicated. It is indeed astonishing that the Ising model can be used to predict the critical exponents of boiling water.<br>
-Second, the renormalization group provided a constructive path towards simulating quantum field theories on a computer through concepts like lattice regularization and finite-size scaling. This was indeed the precise motivation for Wilson to introduce the renormalization group. There is a very active lattice-QCD community using those tools to simulate quantum chromodynamics, describing the strong interaction between quarks using Monte Carlo methods. However, those methods suffer from a sign problem in several regimes of interest, and these regimes should be precisely the ones that are amenable to quantum tensor networks methods. A long-term goal of the Quantum Group @ Ugent is to make this is reality. Important steps in this direction have recently been set with e.g. the introduction of a comprehensive entanglement-scaling formalism, and by simulating toy models such as the Schwinger model and the Gross-Neveu model.  <br><br>
+First, the fact that physics on different length scales is described by different effective field theories, and that the microscopic structure of those Hamiltonians is not relevant as they will all flow towards the same effective theory. This insight is surprisingly deep as it effectively shows us why physics is possible at all. It also justifies the use of simple toy models as they contain the same universal physics as real-life Hamiltonians that are much more complicated. It is indeed astonishing that the Ising model can be used to predict the critical exponents of boiling water.
+
+Second, the renormalization group provided a constructive path towards simulating quantum field theories on a computer through concepts like lattice regularization and finite-size scaling. This was indeed the precise motivation for Wilson to introduce the renormalization group. There is a very active lattice-QCD community using those tools to simulate quantum chromodynamics, describing the strong interaction between quarks using Monte Carlo methods. However, those methods suffer from a sign problem in several regimes of interest, and these regimes should be precisely the ones that are amenable to quantum tensor networks methods. A long-term goal of the Quantum Group @ Ugent is to make this is reality. Important steps in this direction have recently been set with e.g. the introduction of a comprehensive entanglement-scaling formalism, and by simulating toy models such as the Schwinger model and the Gross-Neveu model.
 
 The advent of the theory of entanglement and of tensor networks has allowed to revisit the foundations on which the renormalization group is build, and has allowed to reinvigorate the quest for constructing renormalization group flows in real-space coordinates as opposed to momentum-space coordinates. Working in real-space is indeed the natural framework for dealing with strongly correlated systems, and the key in unraveling such real-space flows has been the mapping of the entanglement structure of the related quantum states. <br>
-For the case of classical statistical mechanical models, this has led to a wealth of new computationally efficient RG schemes, most notably the tensor renormalization group (TRG) of Levin and Nave, and its more powerful but also conceptually more satisfying variants such as HOTRG and TNR (Tensor Network Renormalization) of Evenbly and Vidal. An active research program in the Quantum Group @ Ugent involves the theoretical analysis of those methods and the construction of alternative RG schemes such as TNR+ which allows to link the tensor network flows to the Wilson flows of Hamiltonians.<br>
-For the quantum case, Guifre Vidal has introduced the Multiscale Entanglement Renormalization Ansatz (MERA), which provides an entanglement skeleton for describing critical theories in the Schrodinger picture. We have been studying how the underlying entanglement structure of MERA can be intimately linked to that one of matrix product operators describing thermal states, and have been devising novel numerical variational methods based on Grassmann manifolds to optimize MERA. We have also introduced a version of MERA that works directly in the continuum, the continuous MERA, and a big challenge is to turn this version into a robust and efficient variational method.<br>
+For the case of classical statistical mechanical models, this has led to a wealth of new computationally efficient RG schemes, most notably the tensor renormalization group (TRG) of Levin and Nave, and its more powerful but also conceptually more satisfying variants such as HOTRG and TNR (Tensor Network Renormalization) of Evenbly and Vidal. An active research program in the Quantum Group @ Ugent involves the theoretical analysis of those methods and the construction of alternative RG schemes such as TNR+ which allows to link the tensor network flows to the Wilson flows of Hamiltonians.
 
+For the quantum case, Guifre Vidal has introduced the Multiscale Entanglement Renormalization Ansatz (MERA), which provides an entanglement skeleton for describing critical theories in the Schrodinger picture. We have been studying how the underlying entanglement structure of MERA can be intimately linked to that one of matrix product operators describing thermal states, and have been devising novel numerical variational methods based on Grassmann manifolds to optimize MERA. We have also introduced a version of MERA that works directly in the continuum, the continuous MERA, and a big challenge is to turn this version into a robust and efficient variational method.
 
-
-</p>
 <p style="margin-left: 40px">
 
 <i> Riemannian optimization of isometric tensor networks </i> <br>
@@ -812,17 +802,12 @@ Physical review letters 110 (10), 100402<br><br>
 
 </p>
 
-
-
 ### Non-Equilibrium Quantum Physics
 
-<p style="text-align:justify">
+Non-equilibrium quantum physics is currently one of the most active areas of research both in theoretical and experimental physics. For one, a quantum computer is the ultimate non-equilibrium system. Second, it in only recently that a comprehensive picture has emerged of the mechanism of thermalization in closed many-body systems, where the complex acts both as system and its own bath. Third, concepts like many-body localization and topological indices for many-body Floquet-type evolution operators are still only partly understood.
 
+Research at the Quantum Group @ Ugent on the topic of non-equilibrium physics aims at using the tensor network formalism to shed light on those fundamental questions. First, we developed the so-called TDVP equations for Matrix Product States, which allows to evolve quantum many-body systems in real time and with the conservation of all local constants of motion (such as energy and U(1) symmetries). We are working towards a similar framework for PEPS. Second, we have proven structure theorems relating cellular automata to matrix product unitaries, and are doing research on topological indices for time evolution. Third, we are devising novel path-integral methods in which the stationary points are given by tensor networks as opposed to product states such as in the usual coherent state picture.
 
-Non-equilibrium quantum physics is currently one of the most active areas of research both in theoretical and experimental physics. For one, a quantum computer is the ultimate non-equilibrium system. Second, it in only recently that a comprehensive picture has emerged of the mechanism of thermalization in closed many-body systems, where the complex acts both as system and its own bath. Third, concepts like many-body localization and topological indices for many-body Floquet-type evolution operators are still only partly understood.<br>
-Research at the Quantum Group @ Ugent on the topic of non-equilibrium physics aims at using the tensor network formalism to shed light on those fundamental questions. First, we developed the so-called TDVP equations for Matrix Product States, which allows to evolve quantum many-body systems in real time and with the conservation of all local constants of motion (such as energy and U(1) symmetries). We are working towards a similar framework for PEPS. Second, we have proven structure theorems relating cellular automata to matrix product unitaries, and are doing research on topological indices for time evolution. Third, we are devising novel path-integral methods in which the stationary points are given by tensor networks as opposed to product states such as in the usual coherent state picture.<br><br>
-
-</p>
 <p style="margin-left: 40px">
 
 <i> Real-time scattering of interacting quasiparticles in quantum spin chains</i><br>
@@ -832,7 +817,6 @@ arXiv preprint arXiv:1907.02474<br><br>
 <i> Thermal states as convex combinations of matrix product states</i><br>
 M Berta, FGSL Brandao, J Haegeman, VB Scholz, F Verstraete<br>
 Physical Review B 98 (23), 235154<br><br>
-
 
 <i> Matrix product unitaries: structure, symmetries, and topological invariants</i><br>
 JI Cirac, D Perez-Garcia, N Schuch, F Verstraete<br>
@@ -852,21 +836,16 @@ Physical Review B 94 (16), 165116<br><br>
 
 </p>
 
-
-
 ### Symmetries, Algebras & Categories
 
+Symmetries are the main guiding principle in quantum many-body physics, and the situation is no different for tensor networks, and hence form a central part of our research at Ugent. In fact, one of the main reasons for the success of tensor networks is precisely the fact that they make the role of symmetries in many-body systems so explicit: a quantum state described by an MPS or PEPS will be invariant under a global symmetry if and only if all local tensors transform trivially under that symmetry. As a consequence, any global symmetry, including symmetries associated to topological order, is reflected in the local symmetries of the tensors describing the many-body states. Phrased differently, the entanglement spectrum acts like a signature for those symmetries. This yields a unifying principle for describing distinct gapped phases of matter, including topological ones for which there is no distinct local order parameter in the sense of Landau: distinct phases of matter can be distinguished by the different ways in which the local tensors transform under the global symmetries. The local tensors hence provide a non-trivial generalization of the notion of a local order parameter, and reduce the problem of classifying different gapped phases of matter to a problem in the representation theory of groups and algebras. It is a well known fact that there are certain topological obstructions to convert tensors, which transform according to different representations of the same group, into each other continuously. Those obstructions are precisely the ones responsible for the existence of topological quantum order.
 
-<p style="text-align:justify">
+One of the big success stories of many body physics has certainly been the realization that global symmetries can be lifted to local ones by introducing new gauge" degrees of freedom. Such a procedure can also be carried out in the language of tensor networks, and gives rise to tensors with an increased intrinsic symmetry action on the entanglement degrees of freedom. The ensuing gauge theories exhibit fascinating properties such as excitations with anyonic statistics and non-trivial edge modes, and the fact that such features directly follow from the symmetry properties of the local tensors makes tensor networks a natural framework for describing and exploring quantum topological order. In fact, it can be argued that tensor networks implement the representation theory of braided fusion categories, which form the foundation of both topological and conformal field theories.
 
-Symmetries are the main guiding principle in quantum many-body physics, and the situation is no different for tensor networks, and hence form a central part of our research at Ugent. In fact, one of the main reasons for the success of tensor networks is precisely the fact that they make the role of symmetries in many-body systems so explicit: a quantum state described by an MPS or PEPS will be invariant under a global symmetry if and only if all local tensors transform trivially under that symmetry. As a consequence, any global symmetry, including symmetries associated to topological order, is reflected in the local symmetries of the tensors describing the many-body states. Phrased differently, the entanglement spectrum acts like a signature for those symmetries. This yields a unifying principle for describing distinct gapped phases of matter, including topological ones for which there is no distinct local order parameter in the sense of Landau: distinct phases of matter can be distinguished by the different ways in which the local tensors transform under the global symmetries. The local tensors hence provide a non-trivial generalization of the notion of a local order parameter, and reduce the problem of classifying different gapped phases of matter to a problem in the representation theory of groups and algebras. It is a well known fact that there are certain topological obstructions to convert tensors, which transform according to different representations of the same group, into each other continuously. Those obstructions are precisely the ones responsible for the existence of topological quantum order.<br> <br>
+The core concept that we introduced to carry out this research program is the one of matrix product operator algebras. It turns out that such algebras form a natural  representation theory for bimodule fusion categories with a spherical structure. A second central concept is the one of so-called strange correlators, by which tensor networks allow to provide explicit mappings between systems exhibiting topological order (topological field theories) and critical systems (conformal field theories) in one dimension lower. Such connections were known to exist since the seminal works of Vaughan Jones and Edward Witten, but tensor networks make it now possible to carry this out in a real-space setting.
 
-One of the big success stories of many body physics has certainly been the realization that global symmetries can be lifted to local ones by introducing new gauge" degrees of freedom. Such a procedure can also be carried out in the language of tensor networks, and gives rise to tensors with an increased intrinsic symmetry action on the entanglement degrees of freedom. The ensuing gauge theories exhibit fascinating properties such as excitations with anyonic statistics and non-trivial edge modes, and the fact that such features directly follow from the symmetry properties of the local tensors makes tensor networks a natural framework for describing and exploring quantum topological order. In fact, it can be argued that tensor networks implement the representation theory of braided fusion categories, which form the foundation of both topological and conformal field theories.<br>
+We are currently vigorously  pursuing this research direction, and are as such discovering the entanglement structure of topological and critical phases of matter.
 
-The core concept that we introduced to carry out this research program is the one of matrix product operator algebras. It turns out that such algebras form a natural  representation theory for bimodule fusion categories with a spherical structure. A second central concept is the one of so-called strange correlators, by which tensor networks allow to provide explicit mappings between systems exhibiting topological order (topological field theories) and critical systems (conformal field theories) in one dimension lower. Such connections were known to exist since the seminal works of Vaughan Jones and Edward Witten, but tensor networks make it now possible to carry this out in a real-space setting.<br>
-
-We are currently vigorously  pursuing this research direction, and are as such discovering the entanglement structure of topological and critical phases of matter.<br><br>
-</p>
 <p style="margin-left: 40px">
 
 <i> Matrix product operator symmetries and intertwiners in string-nets with domain walls</i><br>
@@ -915,15 +894,11 @@ Annals of physics 378, 183-233<br><br>
 
 ### Gauge Theories
 
+Gauge theories form the basis for the description of the electromagnetic, weak and strong forces, and hence forms the core of our understanding of the standard model. The framework of gauge theories provides a beautiful and constructive way of describing interaction between matter and fields, and therefore pop up in a wide variety of physical situations. For example, gauge theories  emerge naturally in the description of strongly interacting many-body systems, such as in the description of systems which exhibit topological quantum order.
 
-<p style="text-align:justify">
+In the quantum group & Ugent, we have formulated a wavefunction / tensor network analogue of the minimal coupling procedure for gauging global symmetries into local ones. This has opened up the possibility of simulating gauge theories with tensor networks, and we are currently actively pursuing this research direction. We are also pursuing more fundamental problems such as the quantification of entanglement in gauge theories, where the gauge constraints lead to nontrivial superselection rules in the local operations which can be implemented.
 
-Gauge theories form the basis for the description of the electromagnetic, weak and strong forces, and hence forms the core of our understanding of the standard model. The framework of gauge theories provides a beautiful and constructive way of describing interaction between matter and fields, and therefore pop up in a wide variety of physical situations. For example, gauge theories  emerge naturally in the description of strongly interacting many-body systems, such as in the description of systems which exhibit topological quantum order.<br>
-In the quantum group & Ugent, we have formulated a wavefunction / tensor network analogue of the minimal coupling procedure for gauging global symmetries into local ones. This has opened up the possibility of simulating gauge theories with tensor networks, and we are currently actively pursuing this research direction. We are also pursuing more fundamental problems such as the quantification of entanglement in gauge theories, where the gauge constraints lead to nontrivial superselection rules in the local operations which can be implemented. <br><br>
-
-</p>
 <p style="margin-left: 40px">
-
 
 <i> Simulating lattice gauge theories within quantum technologies</i> <br>
 MC Bañuls et al.<br>
@@ -953,25 +928,17 @@ Physical Review X 6 (4), 041040<br><br>
 B Buyens, J Haegeman, K Van Acoleyen, H Verschelde, F Verstraete<br>
 Physical review letters 113 (9), 091601<br><br>
 
-
-
 </p>
 
 
 
 ### Holographic Principle
 
+The holographic principle forms one of the central unifying concepts in modern theoretical physics, and reveals itself in the form of different incarnations. The most famous one is the AdS/CFT correspondence introduced by Maldacena, in which a dictionary has been compiled describing a duality between strongly coupled field theories and a weakly interacting gravitational theory in a higher dimension. Equally relevant is the holographic duality in condensed matter systems between bulk topological order and edge modes described by conformal field theories, and the emergence of a conformal spectrum in the entanglement Hamiltonian of such systems. More generally, the holographic principle connect a wide variety of different systems via a web of dualities.
 
-<p style="text-align:justify">
-
-The holographic principle forms one of the central unifying concepts in modern theoretical physics, and reveals itself in the form of different incarnations. The most famous one is the AdS/CFT correspondence introduced by Maldacena, in which a dictionary has been compiled describing a duality between strongly coupled field theories and a weakly interacting gravitational theory in a higher dimension. Equally relevant is the holographic duality in condensed matter systems between bulk topological order and edge modes described by conformal field theories, and the emergence of a conformal spectrum in the entanglement Hamiltonian of such systems. More generally, the holographic principle connect a wide variety of different systems via a web of dualities.<br>
 Tensor networks yield explicit and constructive representations of such dualities. For instance, the famous Ryu-Takayanagi conjecture relates entanglement in conformal field theories to distances in an anti de Sitter metric; such a metric also dictates the entanglement structure of the multiscale entanglement renormalization ansatz, and we are part of a fascinating research program has emerged to connect holography to a wide variety of tensor networks. A more tangible research program that we pursue is the characterization of emerging edge theories on the boundaries of PEPS exhibiting topological quantum order and of  the corresponding entanglement Hamiltonians. We are also constructing a comprehensive formalism based on matrix product operator algebras to characterize all possible twisted boundary conditions in critical theories, and to describe notions of anyon condensation and excitations in terms of Ocneanu tube algebras.
 
-</p>
-
-
 <p style="margin-left: 40px">
-
 
 <i> Matrix product operator symmetries and intertwiners in string-nets with domain walls</i><br>
 L Lootens, J Fuchs, J Haegeman, C Schweigert, F Verstraete<br>
@@ -1011,23 +978,17 @@ Physical Review B 83 (24), 245134<br><br>
 
 </p>
 
-
-
 ### Entanglement Scaling
 
-<p style="text-align:justify">
+The success of tensor networks for simulating critical systems and systems in the continuum limit hinges on the scaling of the entanglement in those theories. As first demonstrated by Tomotoshi Nishino, Luca Tagliacozzo and later by members of the Quantum Group @ Ugent, the finite entanglement bias in tensor networks can be interpreted as subjecting the system of interest to a relevant perturbation. By identifying different scales in the tensor network description of those systems, we are constructing a comprehensive framework for establishing a scaling theory for MPS, continuous MPS, PEPS and MERA.
 
-The success of tensor networks for simulating critical systems and systems in the continuum limit hinges on the scaling of the entanglement in those theories. As first demonstrated by Tomotoshi Nishino, Luca Tagliacozzo and later by members of the Quantum Group @ Ugent, the finite entanglement bias in tensor networks can be interpreted as subjecting the system of interest to a relevant perturbation. By identifying different scales in the tensor network description of those systems, we are constructing a comprehensive framework for establishing a scaling theory for MPS, continuous MPS, PEPS and MERA. <br>
-Problems of particular interest to us are the one of simulating systems exhibiting Fermi surfaces using PEPS, as such systems violate the area law for the entanglement entropy, and the problem of establishing a scaling theory for systems exhibiting chiral edge modes, for which there exist topological obstructions. <br><br>
+Problems of particular interest to us are the one of simulating systems exhibiting Fermi surfaces using PEPS, as such systems violate the area law for the entanglement entropy, and the problem of establishing a scaling theory for systems exhibiting chiral edge modes, for which there exist topological obstructions.
 
-
-</p>
 <p style="margin-left: 40px">
 
 <i> Resolving Fermi surfaces with tensor networks</i> <br>
 Q Mortier, N Schuch, F Verstraete, J Haegeman  <br>
 arXiv preprint arXiv:2008.11176 <br> <br>
-
 
 <i> Entanglement compression in scale space: From the multiscale entanglement renormalization ansatz to matrix product operators </i><br>
 K Van Acoleyen, A Hallam, M Bal, M Hauru, J Haegeman, F Verstraete <br>
@@ -1044,7 +1005,5 @@ Physical Review B 91 (3), 035120<br><br>
 <i> Matrix product states for critical spin chains: Finite-size versus finite-entanglement scaling</i><br>
 B Pirvu, G Vidal, F Verstraete, L Tagliacozzo<br>
 Physical review b 86 (7), 075117<br><br>
-
-
 
 </p>

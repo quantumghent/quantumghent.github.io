@@ -12,6 +12,10 @@ img { margin-bottom: 24px;
     border-radius:2%;
 }
 
+blockquote {
+  font-size: $font-size-base;
+  font-style: italic;
+}
 
 body {
 	padding-top: 70px;
@@ -55,6 +59,10 @@ firstp {
 	text-align: left;
 }
 
+#textwithmathid p {
+	text-align: justify;
+}
+
 #homeidtmp h1 {
 	text-align: center;
 }
@@ -70,6 +78,14 @@ firstp {
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
 
+
+
+#research-diagram {
+    max-width: 800px;
+    margin: auto;
+    position: relative;
+    text-align: center;
+}
 
 /* Grid overrides */
 .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,

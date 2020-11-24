@@ -508,14 +508,16 @@ permalink: /research/
       <div id="text_manybodyphysics" class="panel-collapse collapse" role="tabpanel">
         <div class="panel-body">
           <h2>Many-Body Physics</h2>
+          
+	  <p>The goal of many-body physics is to study systems with a large number of particles. An essential feature of many-body systems is their emerging behaviour, in which the whole system behaves in a completely different way than the individual particles. Understanding, predicting and classifying the corresponding different phases of matter is one of the central goals in physics. Our research focuses on the quantum many-body problem, the central problem in theoretical physics, for which physicists are only recently starting to unravel the full structure and complexities. We do research on:</p>
 
-          Our research in many-body physics focuses on <br>
-          1. The development of tensor network algorithms for the simulation of strongly correlated quantum spin and/or fermionic systems <br>
-          2. Cold atoms in optical traps, optical lattices and atom chips <br>
-          3. Topological phases of matter <br>
-          4. Lattice gauge theories <br>
-          5. The mathematical theory of tensor networks <br>
-          6. Categorical symmetries, Integrable systems, and Conformal Field Theories <br>
+
+	  1. The development of tensor network algorithms for the simulation of strongly correlated quantum spin and/or fermionic systems <br><br>
+          2. Cold atoms in optical traps, optical lattices and atom chips <br><br>
+          3. Topological phases of matter <br><br>
+          4. Lattice gauge theories <br><br>
+          5. The mathematical theory of tensor networks <br><br>
+          6. Categorical symmetries, Integrable systems, and Conformal Field Theories <br><br>
         </div>
       </div>
       <div id="text_quantumfieldtheory" class="panel-collapse collapse" role="tabpanel">
@@ -593,7 +595,7 @@ permalink: /research/
 
         <p>Fourth, a new type of statisitics is needed to analyse quantum experiments. We have introduced several key quantum statistical tests for achieving this, such as the quantum chi-squared test, and have solved central problems in the field of quantum hypothesis testing, where we derived the quantum Chernoff and Hoefdding bounds.</p>
 
-        <p>Fifth, the QuantumGroup@UGent was the first to prove the equivalence of the measurement based quantum computation formalism to the standard quantum circuit model using a nontrivial mapping to tensor networks. Furthermore, our theoretical research on dissipative quantum computation led to a paradigm shift into the way we look at decoherence and invigorated a large worldwide experimental effort to implement dissipative protocols.</p>
+        <p>Fifth, the QuantumGroup@UGent was the first to prove the equivalence of the measurement based quantum computation formalism to the standard quantum circuit model using a nontrivial mapping to tensor networks. Furthermore, our theoretical research on dissipative quantum computation led to a paradigm shift into the way we look at decoherence and is invigorating a worldwide experimental effort to implement dissipative protocols.</p>
 
         <p style="margin-left: 40px">
 
@@ -737,7 +739,7 @@ permalink: /research/
 
         <p>The current state of the art experiments probing the quantum many-body features of strongly correlated systems happen in the realm of cold atoms. Using advanced cooling and trapping techniques, it has become possible  to manipulate and observe individual quantum particles, and to let them exhibit fascinating collective behaviour. Keywords are Bose-Einstein Condensates (BEC), ion traps, optical lattices and atom chips.</p>
 
-        <p>We are currently building the first <a href="../beclab/">BEC-laboratory</a> in Belgium, which will consist of a Rubidium 87 BEC supplanted with an acousto-optical projection system (AOD). From our point of view, this BEC system is an effective quantum simulator by which we will be able to simulate a wide variety of interesting quantum many-body systems, including non-equilibrium phenomena and many-body analogues of quantum gravity.</p>
+        <p>We are currently building the first <a href="../bec/">BEC-laboratory</a> in Belgium, which will consist of a Rubidium 87 BEC supplanted with an acousto-optical projection system (AOD). From our point of view, this BEC system is an effective quantum simulator by which we will be able to simulate a wide variety of interesting quantum many-body systems, including non-equilibrium phenomena and many-body analogues of quantum gravity.</p>
 
         <p>Form the point of view of tensor networks, cold atom experiments provide a wealth of interesting applications; in many ways, tensor network algorithms provide the only benchmark for evaluating the correctness of the experiments. Cold atoms also pose unique new problems and suggest a wide variety of new directions in which tensor network algorithms should be generalized and improved.</p>
         </div>

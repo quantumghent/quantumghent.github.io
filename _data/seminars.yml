@@ -1,16 +1,34 @@
-- date: 4 December 2020, 1pm
+- day: 4
+  month: "December"
+  year: 2020
+  time: "1pm"
   speaker: "Yantao Wu"
   affiliation: "Princeton University"
   title: "tba"
-- date: 4 December 2020, 1pm
+
+- day: 4 
+  month: "December"
+  year: 2020
+  time: "1pm"
   speaker: "Freek Witteveen"
   affiliation: "Univ. Amsterdam."
   title: "Bosonic entanglement renormalization circuits from wavelet theory"
-- date: 27 November 2020, 1pm
+
+- day: 27 
+  month: "November"
+  year: 2020
+  time: "1pm"
   speaker: "Andras Molnar"
-  affiliation: "Universidad Complutense de Madrid"
+  affiliation: "Univ. Complutense, Madrid"
   title: "Matrix product operators and weak Hopf algebras"
-- date: 20 November 2020, 1pm
+
+- day: 20 
+  month: "November"
+  year: 2020
+  time: "1pm"
   speaker: "Rui-Zhen Huang"
   affiliation: "Kavli Institute for Theoretical Sciences, University of Chinese Academy of Sciences"
   title: "Emergent symmetry and non-equilibrium driven dynamics for a 1+1d deconfined quantum critical point"
+
+
+

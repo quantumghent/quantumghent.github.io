@@ -1,0 +1,86 @@
+---
+layout: default
+---
+<head>  
+
+
+
+    
+    <script src="{{ site.url }}{{ site.baseurl }}/js/calendar.js"></script>
+    <script>function getMonthFromString(mon){
+
+      var d = Date.parse(mon + "1, 2012");
+      if(!isNaN(d)){
+         return new Date(d).getMonth() + 1;
+      }
+      return -1;
+    </script> 
+    <script>
+
+      document.addEventListener('DOMContentLoaded', function() {
+        var calendarEl = document.getElementById('calendar');
+    
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+          headerToolbar: {
+            left: 'prev,next',
+            center: 'title',
+            right: 'dayGridMonth,timeGridWeek,timeGridDay,listMonth'
+          },
+          initialView: 'listMonth',
+          navLinks: true, // can click day/week names to navigate views
+          businessHours: true, // display business hours
+          editable: true,
+          selectable: true,
+          events: [ 
+            {
+              title: 'Trial conference',
+              start: '2020-11-26',
+              end: '2020-11-29'
+            },
+            {
+              title: "tba",
+              start: '2020-12-04T13:00:00',
+              constraint: 'businessHours'
+            },
+            {
+              title: 'Matrix product operators and weak Hopf algebras',
+              start: '2020-'+'11'+'-27T13:00:00',
+              constraint: 'businessHours'
+            },
+            {
+              title: 'Trial Journal Club',
+              start: '2020-'+'11'+'-27T09:00:00',
+              constraint: 'businessHours', 
+              color: '#257e4a'
+
+            },
+    
+            // areas where "Meeting" must be dropped
+          ]
+        });
+    
+        calendar.render();
+      });
+    
+    </script>
+  </head>
+  <style>
+
+ 
+    #calendar {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+  
+  </style>
+  <body>
+
+    <div id='calendar'></div>
+    </div>
+    <div id="textid" >
+      {{ content }}
+</div>
+  </body>
+</html>
+
+

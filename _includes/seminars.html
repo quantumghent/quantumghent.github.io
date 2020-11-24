@@ -20,19 +20,15 @@
             <div class="media-left">
             	<div class="panel panel-primary text-center date">
             		<div class="panel-heading month"; style="padding:1px">
-							<p id="datesplit"></p>
-							<script>var str = '{{seminar.date}}'
-									var array = str.split(" ");	
-							</script>
             			<span class="panel-title strong"; style="padding:1px">
-            			<script> document.write(array[1].slice(0,3))</script>
+            			<script> document.write("{{seminar.month}}".slice(0,3))</script>
                         </span>
                 </div>
                 <div class="panel-body day text-default"; style="padding:1px">
-						<font size="+1"> <script> document.write(array[0])</script> </font>
+						<font size="+1"> <script> document.write({{seminar.day}})</script> </font>
 				</div>
 				<div class="panel-footer day text-default"; background-color:black;>
-				<b><script> document.write(array[3])</script></b>
+				<b><script> document.write("{{seminar.time}}")</script></b>
 				</div>
             </div>
          </div>
@@ -66,7 +62,7 @@
     <h4>Seminars</h4>
 
     {% for seminar in site.data.seminars limit:9 %}
-    <p>{{ seminar.date }}
+    <p>{{ seminar.day }} {{ seminar.month }} {{ seminar.year }} {{ seminar.time }}
     <br><b>{{ seminar.speaker }}</b>, {{ seminar.affiliation }}
     <br><em>{{ seminar.title }}</em></p>
     {% endfor %}

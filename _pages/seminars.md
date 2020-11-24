@@ -1,6 +1,6 @@
 ---
 title: "Seminars"
-layout: textlay
+layout: calendar
 excerpt: "Quantum Group -- Seminars"
 sitemap: false
 permalink: /seminars.html
@@ -13,7 +13,7 @@ We have a weekly seminar on Fridays, 1pm (Central European Time). If you are int
 ## List of passed and future seminars:
 
 {% for seminar in site.data.seminars %}
-<p>{{ seminar.date }}
+<p>{{ seminar.day }} {{ seminar.month }} {{ seminar.year }} {{ seminar.time }}
 <br><b>{{ seminar.speaker }}</b>, {{ seminar.affiliation }}
 <br><em>{{ seminar.title }}</em></p>
 {% endfor %}

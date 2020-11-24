@@ -6,12 +6,12 @@ sitemap: false
 permalink: /
 ---
 
-<div class="carousel-overlay-title">
+<h1>
 Welcome to the QuantumGroup@UGent
-</div>
-<div class="carousel-overlay-subtitle">
+</h1>
+<h2>
 Exploring Tensor Networks and Quantum Entanglement
-</div>
+</h2>
 <div markdown="0" id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="null" data-keyboard="true" >
     <!-- Menu -->
     <!--

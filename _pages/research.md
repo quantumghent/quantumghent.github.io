@@ -509,7 +509,7 @@ permalink: /research/
         <div class="panel-body">
           <h2>Many-Body Physics</h2>
           
-	  <p>The goal of many-body physics is to study systems with a large number of particles. An essential feature of many-body systems is their emerging behaviour, in which the whole system behaves in a completely different way than the individual particles. Understanding, predicting and classifying the corresponding different phases of matter is one of the central goals in physics. Our research focuses on the quantum many-body problem, the central problem in theoretical physics, for which physicists are only recently starting to unravel the full structure and complexities. We do research on:</p>
+	  <p>The goal of many-body physics is to study systems with a large number of particles. An essential feature of many-body systems is their emerging behaviour, in which the whole system behaves in a completely different way than the individual particles. Understanding, predicting and classifying the corresponding different phases of matter is one of the grand goals in physics. Our research focuses on the quantum many-body problem, the central problem in theoretical physics, for which physicists are only recently starting to unravel the full structure and complexities. We do research on:</p>
 
 
 <p>	  1. The development of tensor network algorithms for the simulation of strongly correlated quantum spin and/or fermionic systems <br><br>

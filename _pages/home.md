@@ -12,7 +12,7 @@ Welcome to the QuantumGroup@UGent
 <div class="carousel-overlay-subtitle">
 Exploring Tensor Networks and Quantum Entanglement
 </div>
-<div markdown="0" id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="null" data-keyboard="true" >
+<div markdown="0" id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="null" data-keyboard="true" >
     <!-- Menu -->
     <!--
     <ol class="carousel-indicators">

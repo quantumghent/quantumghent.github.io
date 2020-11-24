@@ -11,7 +11,7 @@ permalink: /research/
 <div class="panel panel-default">
 <div class="panel-heading" role="tab" id="heading">
 <h1> Research </h1>
-<p>Research in the QuantumGroup@Ugent is focused on unravelling entanglement patterns in interacting quantum many-body systems.  We are developing the theory of quantum tensor networks, devise novel computational methods for optimizing them, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing. In the very near future, we will also run the <a href="../bec/">first Belgian lab probing a Bose-Einstein Condensate</a>. Explore more below...</p>
+<p>Research in the QuantumGroup@Ugent is focused on unravelling entanglement patterns in interacting quantum many-body systems.  We are developing the theory of quantum tensor networks, devise novel computational methods for optimizing them, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing. In the very near future, we will also run the <a href="../bec/">first Belgian lab probing a Bose-Einstein Condensate</a>. Please click on the boxes below for more information:</p>
 </div>
 <div id="research-diagram" class="svg-container">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0, 0, 927, 714" preserveAspectRatio="xMinYMin meet" class="svg-content">

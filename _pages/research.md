@@ -512,12 +512,13 @@ permalink: /research/
 	  <p>The goal of many-body physics is to study systems with a large number of particles. An essential feature of many-body systems is their emerging behaviour, in which the whole system behaves in a completely different way than the individual particles. Understanding, predicting and classifying the corresponding different phases of matter is one of the central goals in physics. Our research focuses on the quantum many-body problem, the central problem in theoretical physics, for which physicists are only recently starting to unravel the full structure and complexities. We do research on:</p>
 
 
-	  1. The development of tensor network algorithms for the simulation of strongly correlated quantum spin and/or fermionic systems <br><br>
+<p>	  1. The development of tensor network algorithms for the simulation of strongly correlated quantum spin and/or fermionic systems <br><br>
           2. Cold atoms in optical traps, optical lattices and atom chips <br><br>
           3. Topological phases of matter <br><br>
           4. Lattice gauge theories <br><br>
           5. The mathematical theory of tensor networks <br><br>
           6. Categorical symmetries, Integrable systems, and Conformal Field Theories <br><br>
+</p>
         </div>
       </div>
       <div id="text_quantumfieldtheory" class="panel-collapse collapse" role="tabpanel">

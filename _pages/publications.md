@@ -1,7 +1,7 @@
 ---
-title: "Quantum Group - Publications"
+title: "QuantumGroup@UGent - Publications"
 layout: textlay
-excerpt: "Quantum Group -- Publications."
+excerpt: "QuantumGroup@UGent -- Publications."
 sitemap: false
 permalink: /publications/
 ---

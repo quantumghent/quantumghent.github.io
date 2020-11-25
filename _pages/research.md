@@ -1,7 +1,7 @@
 ---
-title: "Quantum Group - Research"
+title: "QuantumGroup@UGent - Research"
 layout: textwithmath
-excerpt: "Quantum Group -- Research"
+excerpt: "QuantumGroup@UGent -- Research."
 sitemap: false
 permalink: /research/
 ---

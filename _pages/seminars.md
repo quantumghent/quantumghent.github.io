@@ -1,7 +1,7 @@
 ---
-title: "Seminars"
+title: "QuantumGroup@UGent - Seminars"
 layout: calendar
-excerpt: "Quantum Group -- Seminars"
+excerpt: "QuantumGroup@UGent -- Seminars."
 sitemap: false
 permalink: /seminars.html
 ---
@@ -17,5 +17,3 @@ We have a weekly seminar on Fridays, 1pm (Central European Time). If you are int
 <br><b>{{ seminar.speaker }}</b>, {{ seminar.affiliation }}
 <br><em>{{ seminar.title }}</em></p>
 {% endfor %}
-
-

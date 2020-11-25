@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "QuantumGroup@UGent - News"
 layout: textlay
 excerpt: "Quantum News at Ghent University."
 sitemap: false

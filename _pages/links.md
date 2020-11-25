@@ -1,7 +1,7 @@
 ---
-title: "Quantum Group - Useful links"
+title: "QuantumGroup@UGent - Useful links"
 layout: gridlay
-excerpt: "Quantum Group -- Useful links."
+excerpt: "QuantumGroup@UGent -- Useful links and external references."
 sitemap: false
 permalink: /links/
 ---

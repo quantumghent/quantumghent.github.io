@@ -1,5 +1,5 @@
 ---
-title: "Quantum Group @ UGent - Home"
+title: "QuantumGroup@UGent"
 layout: homelay
 excerpt: "Quantum Group at Ghent University."
 sitemap: false

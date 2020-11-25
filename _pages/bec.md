@@ -1,7 +1,7 @@
 ---
-title: "Quantum Group - BEC Lab"
+title: "QuantumGroup@UGent - BEC Lab"
 layout: textwithmath
-excerpt: "Quantum Group -- Bose-Einstein Condensate Laboratory"
+excerpt: "QuantumGroup@UGent -- Bose-Einstein Condensate Laboratory"
 sitemap: false
 permalink: /bec/
 ---

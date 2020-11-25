@@ -1,7 +1,7 @@
 ---
-title: "Quantum Group - Student Information"
+title: "QuantumGroup@UGent - Student Information"
 layout: textlay
-excerpt: "Quantum Group -- Student Information"
+excerpt: "QuantumGroup@UGent -- Student Information"
 sitemap: false
 permalink: /studentinfo/
 ---

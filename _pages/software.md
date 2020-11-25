@@ -1,7 +1,7 @@
 ---
-title: "Quantum Group - Software"
+title: "QuantumGroup@UGent - Software"
 layout: gridlay
-excerpt: "Quantum Group -- Software."
+excerpt: "QuantumGroup@UGent -- Software."
 sitemap: false
 permalink: /software/
 ---

@@ -65,7 +65,7 @@
     display: Jutho/TensorOperations.jl
 
 - title: "SparseArrayKit.jl"
-  image: julia.svg
+  image: sparsearraykit.svg
   language: julia
   topic: general
   description: A package for sparse arrays, stored using a "dictionary of keys" format. SparseArrayKit.jl supports basic array operations and provides compatibility with TensorOperations.jl.
@@ -74,7 +74,7 @@
     display: Jutho/SparseArrayKit.jl
 
 - title: "KrylovKit.jl"
-  image: julia.svg
+  image: krylovkit.svg
   language: julia
   topic: general
   description: Iterative Krylov-based routines for linear systems, eigenvalue problems and singular values, and matrix functions (such as the exponential function). KrylvoKit.jl accepts a very general class of user types to act as "vector" and arbitrary functions to act as linear operators on those vectors.
@@ -92,7 +92,7 @@
     display: Jutho/OptimKit.jl
 
 - title: "Strided.jl"
-  image: julia.svg
+  image: strided.svg
   language: julia
   topic: general
   description: An accelorator package to work with strided arrays, i.e. dense arrays whose memory layout has a fixed stride along every dimension. Strided.jl does not make any assumptions about the strides (such as stride 1 along first dimension, or monotonously increasing strides) and provides multithreaded and cache friendly implementations for mapping, reducing, broadcasting such arrays, as well as taking views, reshaping and permuting dimensions.

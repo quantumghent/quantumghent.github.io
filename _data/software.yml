@@ -19,14 +19,14 @@
     url: https://github.com/maartenvd/MPSKit.jl
     display: maartenvd/MPSKit.jl
 
-- title: "MERA.jl"
+- title: "MERAKit.jl"
   image: merakit.svg
   language: julia
   topic: physics
   description: A package for calculations with the multiscale entanglement renormalization ansatz.  It has implementations of ternary, binary, and modified binary MERA (assuming translation and scale invariance) with functions for doing energy minimization, evaluating local expectation values, and computing scaling dimensions.
   link:
-    url: https://github.com/mhauru/MERA.jl
-    display: mhauru/MERA.jl
+    url: https://github.com/mhauru/MERAKit.jl
+    display: mhauru/MERAKit.jl
 
 - title: "PEPSKit.jl"
   image: pepskit.svg

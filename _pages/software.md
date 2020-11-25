@@ -89,17 +89,3 @@ Our group has developed several publicly available (and thus open source) softwa
 * Julia code for the 2018 European Tensor Network School: [Jutho/TNSchool2018](https://github.com/Jutho/TNSchool2018)
 
 * Python code for the 2020 European Tensor Network School: [leburgel/BadHonnefTutorial](https://github.com/leburgel/BadHonnefTutorial)
-
-# External references
-
-Useful links:
-* [TensorNetwork.org](http://tensornetwork.org)
-* [Tensors.net](https://www.tensors.net)
-* [TensorTrace](https://www.tensortrace.com)
-
-Other open-source tensor network packages
-* [quimb](https://github.com/jcmgray/quimb)
-* [ITensor and ITensors.jl](http://itensor.org)
-* [Tensor Network by Google](https://github.com/google/TensorNetwork)
-* [Tensor Network Python (TeNPy)](https://github.com/tenpy/tenpy)
-* [Uni10](http://yingjerkao.github.io/uni10/)

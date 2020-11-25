@@ -11,7 +11,7 @@ permalink: /research/
 <div class="panel panel-default">
 <div class="panel-heading" role="tab" id="heading">
 <h1> Research </h1>
-<p>Click The QuantumGroup@Ugent pursues a variety of topics in the realm of theoretical physics; click on the items to find out more:</p>
+<p>The QuantumGroup@Ugent pursues a variety of topics in the realm of theoretical physics; click on the items to find out more:</p>
 	
 </div>
 <div id="research-diagram" class="svg-container">

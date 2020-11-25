@@ -106,7 +106,7 @@ permalink: /team/
 ## Administrative Support
 <a href="mailto:inge.vandervennet@ugent.be">Inge Van der Vennet</a> is helping us (and other groups) with administration.
 
-## More pictures of the team:
+## More pictures of the team
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->

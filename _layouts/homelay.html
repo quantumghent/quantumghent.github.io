@@ -1,13 +1,28 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
 
-  <div id="homeid" class="col-sm-12">
-      {{ content }}
-  </div>
-  <div id="newsid" class="col-sm-6" >
-    {% include news.html %}
-  </div>
-  <div id="seminars" class="col-sm-6" >
-    {% include seminars.html %}
-  </div>
+  {% include head.html %}
+
+  <body>
+
+    {% include navbar_notitle.html %}
+
+    <div class="container-fluid">
+      <div class="row">
+          <div id="homeid" class="col-sm-12">
+              {{ content }}
+          </div>
+          <div id="newsid" class="col-sm-6" >
+            {% include news.html %}
+          </div>
+          <div id="seminars" class="col-sm-6" >
+            {% include seminars.html %}
+          </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

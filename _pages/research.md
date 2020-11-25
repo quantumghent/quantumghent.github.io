@@ -11,7 +11,7 @@ permalink: /research/
 <div class="panel panel-default">
 <div class="panel-heading" role="tab" id="heading">
 <h1> Research </h1>
-<p>Research in the QuantumGroup@Ugent is focused on unravelling entanglement patterns in interacting quantum many-body systems.  We are developing the theory of quantum tensor networks, devise novel computational methods for optimizing them, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing. In the very near future, we will also run the <a href="../bec/">first Belgian lab probing a Bose-Einstein Condensate</a>. Please click on the boxes below for more information:</p>
+<p>The QuantumGroup@Ugent studies a variety of closely entangled topics; by clicking on them you can find out more:</p>
 </div>
 <div id="research-diagram" class="svg-container">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0, 0, 927, 714" preserveAspectRatio="xMinYMin meet" class="svg-content">
@@ -508,7 +508,7 @@ permalink: /research/
       <div id="text_manybodyphysics" class="panel-collapse collapse" role="tabpanel">
         <div class="panel-body">
           <h2>Many-Body Physics</h2>
-          
+
 	  <p>The goal of many-body physics is to study systems with a large number of particles. An essential feature of many-body systems is their emerging behaviour, in which the whole system behaves in a completely different way than the individual particles. Understanding, predicting and classifying the corresponding different phases of matter is one of the grand goals in physics. Our research focuses on the quantum many-body problem, the central problem in theoretical physics, for which physicists are only recently starting to unravel the full structure and complexities. We do research on:</p>
 
 

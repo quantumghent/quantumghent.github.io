@@ -5,16 +5,14 @@ excerpt: "Quantum Group at Ghent University."
 sitemap: false
 permalink: /
 ---
-
+<div class="page-header">
 <h1>
-Welcome to the QuantumGroup@UGent
+Quantum Group @ UGent<br>
+<small>Exploring Tensor Networks and Quantum Entanglement</small>
 </h1>
-<h2>
-Exploring Tensor Networks and Quantum Entanglement
-</h2>
+</div>
 <div markdown="0" id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="null" data-keyboard="true" >
     <!-- Menu -->
-    <!--
     <ol class="carousel-indicators">
         {% assign slide_number = 0 %}
         {% for image in site.data.home-carousel %}
@@ -26,9 +24,8 @@ Exploring Tensor Networks and Quantum Entanglement
         {% assign slide_number = slide_number | plus: 1 %}
         {% endfor %}
     </ol>
-    -->
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+    <div class="carousel-inner">
     {% assign slide_number = 0 %}
     {% for image in site.data.home-carousel %}
 
@@ -52,3 +49,4 @@ Exploring Tensor Networks and Quantum Entanglement
     <span class="sr-only">Next</span>
   </a>
 </div>
+<p class="lead"><a href="/research/">Research</a> in the QuantumGroup@Ugent is focused on unravelling entanglement patterns in interacting quantum many-body systems.  We are developing the theory of quantum tensor networks, devise novel computational methods for optimizing them, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing. In the very near future, we will also run the <a href="/bec/">first Belgian lab probing a Bose-Einstein Condensate</a>.</p>

@@ -8,7 +8,7 @@ permalink: /
 <div class="page-header">
 <h1>
 Quantum Group @ UGent<br>
-<small>Exploring Tensor Networks and Quantum Entanglement</small>
+<small>Exploring Tensor Networks & Quantum Entanglement</small>
 </h1>
 </div>
 <div markdown="0" id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="null" data-keyboard="true" >

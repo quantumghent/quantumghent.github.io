@@ -24,7 +24,7 @@ This will effectively turn our BEC into a quantum simulator, allowing for many e
 <img src="{{ site.url }}{{ site.baseurl }}/images/bec/habemusinterference.png" style="width:100%">
 <figcaption> Testing the optics table in our brand new lab: "Habemus inteference".   
   
-<img src="{{ site.url }}{{ site.baseurl }}/images/bec/RuBeCi.png" style="width:100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/bec/RuBeCi.png" style="width:70%">
 <figcaption> Coldquanta's RuBeCi, which will be the heart of our set-up. The final atom cloud will be trapped at $$\sim 0.1 mm$$ from the top seal of the upper vacuum chamber. 
 </div>
 

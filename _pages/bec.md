@@ -19,7 +19,7 @@ This will effectively turn our BEC into a quantum simulator, allowing for many e
 <b> Contact us for more information, we welcome suggestions and ideas for possible collaborative projects. </b>
 </div>
 
-<div class="col-sm-5">
+<div class="col-sm-4">
   
 <img src="{{ site.url }}{{ site.baseurl }}/images/bec/habemusinterference.png" style="width:100%">
 <figcaption> Testing the optics table in our brand new lab: "Habemus inteference".   

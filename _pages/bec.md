@@ -8,7 +8,7 @@ permalink: /bec/
 
 # Bose-Einstein Condensate Laboratory
 
-<div class="col-sm-9 clearfix">
+<div class="col-sm-8 clearfix">
 
 Cold atom experiments worldwide are currently playing a leading role in our explorations of the quantum world. The exquisite control on the atom traps and the high-resolution imaging have opened up a new and direct window on the physics of many atoms in the quantum regime. This has revealed a wealth of new phenomena that are under vigorous theoretical and experimental study. We are therefore very happy to announce that in spring 2021 we will embark on our own cold atom adventure, as we are installing a Bose-Einstein condensate (BEC) experiment.
 
@@ -17,20 +17,13 @@ A BEC consists of order $$10^4$$ (or more) atoms that are cooled to temperatures
 This will effectively turn our BEC into a quantum simulator, allowing for many exciting experiments on different aspects and regimes of quantum many body physics. We plan several experiments that look at non-equilibrium evolution, thereby also pushing towards situations that go beyond the mean field Gross-Pitaevskii regime. Moreover we will study analogue gravity applications, in which the BEC is used to simulate quantum field theory on curved space-times. Furthermore we want to realize several quantum information theoretic protocols and will explore possible new entanglement based approaches to quantum tomography.
 </div>
 
-<div class="col-sm-3">
+<div class="col-sm-4">
   
 <img src="{{ site.url }}{{ site.baseurl }}/images/bec/habemusinterference.png" style="width:100%">
 <figcaption> Testing the optics table in our brand new lab: "Habemus inteference".   
   
 <img src="{{ site.url }}{{ site.baseurl }}/images/bec/RuBeCi.png" style="width:100%">
-<figcaption> Coldquanta's RuBeCi, which will be 'the heart' of our set-up. The final atom cloud will be trapped at $$\sim 0.1 mm$$ from the top seal of the upper vacuum chamber.         
-
-
-<!-- two possible syntaxes: markdown or html syntax  -->
-
-
-
-
+<figcaption> Coldquanta's RuBeCi, which will be the heart of our set-up. The final atom cloud will be trapped at $$\sim 0.1 mm$$ from the top seal of the upper vacuum chamber. 
 </div>
 
 <b> Contact us for more information, we welcome suggestions and ideas for possible collaborative projects. </b>

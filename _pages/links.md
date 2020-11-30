@@ -8,6 +8,7 @@ permalink: /links/
 # Useful links and external references
 
 Useful links
+* [Belgian Quantum Physics Initiative](https://www.nathan-goldman-physics.com/bqi-meetings)
 * [European Tensor Network](http://quantumtensor.pks.mpg.de)
 * [TensorNetwork.org](http://tensornetwork.org)
 * [Tensors.net](https://www.tensors.net)

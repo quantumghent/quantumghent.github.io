@@ -20,9 +20,13 @@ This will effectively turn our BEC into a quantum simulator, allowing for many e
 <div class="col-sm-3">
 
 <!-- two possible syntaxes:  markdown or html syntax -->
-![qucal1]({{ site.url }}{{ site.baseurl }}/images/bec/qucal.jpg)
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/bec/qucal.jpg" alt="qucal2">
+<!--![qucal1]({{ site.url }}{{ site.baseurl }}/images/bec/qucal.jpg)
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/bec/habemusinterference.png" alt="habemusinterference">
+<figcaption> Testing the optics table in our brand new lab: "Habemus inteference". </figcaption>  
+</figure>  
 
 </div>
 

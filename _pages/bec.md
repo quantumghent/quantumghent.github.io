@@ -32,7 +32,7 @@ This will effectively turn our BEC into a quantum simulator, allowing for many e
 <figcaption> Testing the optics table in our brand new lab: "Habemus inteference". </figcaption>  
 </figure>  
 
-<!-- [qucal1]({{ site.url }}{{ site.baseurl }}/images/bec/qucal.jpg)>>
+<!-- [qucal1]({{ site.url }}{{ site.baseurl }}/images/bec/qucal.jpg)>
 
 
 

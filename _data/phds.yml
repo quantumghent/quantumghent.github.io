@@ -1,55 +1,11 @@
-# TEMPLATE: spaces are important, order is not
+# TEMPLATE: spaces are important, order of fields is not, alphabetic order of entries
 #- name:
-#  photo: bb.jpg
+#  photo: rock.jpg
 #  info:
 #  email:
 #  scholar:
 #  github:
 #  twitter:
-
-- name: Bram Vanhecke
-  photo: FOTObram.jpg
-  info: PhD student since 2016
-  email: bavhecke.vanhecke@ugent.be
-  scholar: 9PVLvrcAAAAJ
-
-- name: Alexis Schotte
-  photo: bb.jpg
-  info: PhD student since 2016
-  email: alexis.schotte@ugent.be
-
-- name: Robijn Vanhove
-  photo: FOTORobijn.jpg
-  info: FWO PhD student since 2017
-  email: robijn.vanhove@ugent.be
-
-- name: Benoît Tuybens
-  photo: FOTOBenoitTuybensNew.jpg
-  info: FWO PhD student since 2017
-  email: benoit.tuybens@ugent.be
-  scholar: anCVC0UAAAAJ
-  twitter: Benoit_Tuybens
-
-- name: Gertian Roose
-  photo: bb.jpg
-  info: PhD student since 2017
-  email: gertian.roose@ugent.be
-
-- name: Maarten Van Damme
-  photo: bb.jpg
-  info: PhD student since 2017
-  email: maarten.vandamme@ugent.be
-  github: maartenvd
-
-- name: Laurens Lootens
-  photo: FOTOLaurensLootens.jpg
-  info: FWO PhD student since 2018
-  email: laurens.lootens@ugent.be
-
-- name: Quinten Mortier
-  photo: FOTOQuintenMortier.jpg
-  info: PhD student since 2018
-  email: quinten.mortier@ugent.be
 
 - name: Bastiaan Aelbrecht
   photo: FOTObastiaanaelbrecht.jpg
@@ -73,7 +29,51 @@
   info: PhD student since 2020
   email: marco.deweirdt@ugent.be
 
+- name: Laurens Lootens
+  photo: FOTOLaurensLootens.jpg
+  info: FWO PhD student since 2018
+  email: laurens.lootens@ugent.be
+
 - name: Daan Maertens
   photo: FOTOdaanmaertens.jpeg
   info: PhD student since 2020
   email: daan.maertens@ugent.be
+
+- name: Quinten Mortier
+  photo: FOTOQuintenMortier.jpg
+  info: PhD student since 2018
+  email: quinten.mortier@ugent.be
+
+- name: Gertian Roose
+  photo: bb.jpg
+  info: PhD student since 2017
+  email: gertian.roose@ugent.be
+
+- name: Alexis Schotte
+  photo: bb.jpg
+  info: PhD student since 2016
+  email: alexis.schotte@ugent.be
+
+- name: Benoît Tuybens
+  photo: FOTOBenoitTuybensNew.jpg
+  info: FWO PhD student since 2017
+  email: benoit.tuybens@ugent.be
+  scholar: anCVC0UAAAAJ
+  twitter: Benoit_Tuybens
+
+- name: Maarten Van Damme
+  photo: bb.jpg
+  info: PhD student since 2017
+  email: maarten.vandamme@ugent.be
+  github: maartenvd
+
+- name: Bram Vanhecke
+  photo: FOTObram.jpg
+  info: PhD student since 2016
+  email: bavhecke.vanhecke@ugent.be
+  scholar: 9PVLvrcAAAAJ
+
+- name: Robijn Vanhove
+  photo: FOTORobijn.jpg
+  info: FWO PhD student since 2017
+  email: robijn.vanhove@ugent.be

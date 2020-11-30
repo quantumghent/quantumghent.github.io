@@ -1,4 +1,4 @@
-# TEMPLATE: spaces are important
+# TEMPLATE: spaces are important, order of fields is not, alphabetic order of entries
 #- name:
 #  photo: rock.jpg
 #  info:
@@ -7,17 +7,15 @@
 #  github:
 #  twitter:
 
-- name: Laurens Vanderstraeten
-  photo: FOTOLaurens.jpg
-  email: laurens.vanderstraeten@ugent.be
-  info: FWO PostDoc since 2016
-  scholar: m8wiLSsAAAAJ
+- name: Nick Bultinck
+  photo: FOTONick.jpg
+  email: nibultinck@gmail.com
+  info: FWO PostDoc
 
-- name: Markus Hauru
-  photo: bb.jpg
-  email: markus@mhauru.org
+- name: Romain Couvreur
+  photo: FOTOromaincouvreur.jpg
+  email: romain.couvreur@ugent.be
   info: PostDoc since 2019
-  github: mhauru
 
 - name: Xiaoyu Dong
   photo: FOTOXiaoyu.jpeg
@@ -25,14 +23,21 @@
   info: PostDoc since 2019
   scholar: M0gdQvsAAAAJ
 
-- name: Romain Couvreur
-  photo: FOTOromaincouvreur.jpg
-  email: romain.couvreur@ugent.be
-  info: PostDoc since 2019
-
 - name: Klaas Gunst
   photo: FOTOKlaasGunst.jpg
   github: klgunst
   scholar: HcB8TAcAAAAJ
   email: klaasgunst@gmail.com
   info: PostDoc since 2020
+
+- name: Markus Hauru
+  photo: bb.jpg
+  email: markus@mhauru.org
+  info: PostDoc since 2019
+  github: mhauru
+
+- name: Laurens Vanderstraeten
+  photo: FOTOLaurens.jpg
+  email: laurens.vanderstraeten@ugent.be
+  info: FWO PostDoc since 2016
+  scholar: m8wiLSsAAAAJ

@@ -1,10 +1,18 @@
 - day: 11
   month: "December"
   year: 2020
-  time: "1pm"
+  time: "3pm"
   speaker: "Yantao Wu"
   affiliation: "Princeton University"
   title: "tba"
+  
+- day: 11
+  month: "December"
+  year: 2020
+  time: "1pm"
+  speaker: "Archisman Ghosh"
+  affiliation: "Ghent University"
+  title: "gravitational wave detection (tba)"  
 
 - day: 4
   month: "December"

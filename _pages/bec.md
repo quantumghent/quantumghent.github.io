@@ -14,4 +14,9 @@ A BEC consists of order $$10^4$$ (or more) atoms that are cooled to temperatures
 
 This will effectively turn our BEC into a quantum simulator, allowing for many exciting experiments on different aspects and regimes of quantum many body physics. We plan several experiments that look at non-equilibrium evolution, thereby also pushing towards situations that go beyond the mean field Gross-Pitaevskii regime. Moreover we will study analogue gravity applications, in which the BEC is used to simulate quantum field theory on curved space-times. Furthermore we want to realize several quantum information theoretic protocols and will explore possible new entanglement based approaches to quantum tomography.
 
+<!-- two possible syntaxes:  markdown or html syntax -->
+![qucal1]({{ site.url }}{{ site.baseurl }}/images/bec/qucal.jpg)
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/bec/qucal.jpg" alt="qucal2">
+
 <b> Contact us for more information, we welcome suggestions and ideas for possible collaborative projects. </b>

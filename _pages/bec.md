@@ -8,7 +8,7 @@ permalink: /bec/
 
 # Bose-Einstein Condensate Laboratory
 
-<div class="col-sm-7 clearfix">
+<div class="col-sm-8 clearfix">
 
 Cold atom experiments worldwide are currently playing a leading role in our explorations of the quantum world. The exquisite control on the atom traps and the high-resolution imaging have opened up a new and direct window on the physics of many atoms in the quantum regime. This has revealed a wealth of new phenomena that are under vigorous theoretical and experimental study. We are therefore very happy to announce that in spring 2021 we will embark on our own cold atom adventure, as we are installing a Bose-Einstein condensate (BEC) experiment.
 

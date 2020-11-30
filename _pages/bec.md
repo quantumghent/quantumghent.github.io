@@ -18,6 +18,10 @@ This will effectively turn our BEC into a quantum simulator, allowing for many e
 </div>
 
 <div class="col-sm-3">
+  
+<img src="{{ site.url }}{{ site.baseurl }}/images/bec/habemusinterference.png" style="width:30%">
+<figcaption> Testing the optics table in our brand new lab: "Habemus inteference".   
+
 
 <!-- two possible syntaxes: markdown or html syntax  -->
 
@@ -27,10 +31,7 @@ This will effectively turn our BEC into a quantum simulator, allowing for many e
 
 
 
-<figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/bec/habemusinterference.png" style="width:10%">
-  <figcaption> Testing the optics table in our brand new lab: "Habemus inteference". </figcaption>  
-</figure>  
+
 
 <!-- [qucal1]({{ site.url }}{{ site.baseurl }}/images/bec/qucal.jpg)>
 

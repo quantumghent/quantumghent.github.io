@@ -1,36 +1,36 @@
 <head>
-        <script>
-            var months = ["January", "February", "March", "April", "May", "June", "July", 
+    <script>
+        var months = ["January", "February", "March", "April", "May", "June", "July",
             "August", "September", "October", "November", "December"];
-        </script>
-    
-    </head>
-    
-    <body>
-        <div class="well">
-            <div class="panel-heading">
-                    <h4 class="panel-title">
-                    <span class="glyphicon glyphicon-calendar"></span> 
-                    Seminars
-                    </h4>
-            </div>
-    
-        {% for seminar in site.data.seminars limit:9 %}
-            <p>
-                <script>
-                    var d = new Date(Date.parse({{seminar.date| jsonify}}));
-                    document.write(months[d.getMonth()] + ' ' + d.getDate() + 'th, ' + d.getFullYear());
-    
-                    var url = "{{ site.url }}{{ site.baseurl }}/seminars/" + {{seminar.type| jsonify}} + "_" 
-                    + d.getFullYear() + "-" + (d.getMonth()+1).toString() + "-" + d.getDate() + "/";
-                    document.write("<br>")
-                    document.write("<b>" + {{seminar.title| jsonify}}.fontcolor('#5f6568').link(url) + "</b>");
-                </script>
-                
-                <br>{{ seminar.speaker }}, <em>{{ seminar.affiliation }}</em></p>
-        {% endfor %}
-    
-            <h4><a href="{{ site.url }}{{ site.baseurl }}/seminars">... see all seminars</a></h4>
-    
+    </script>
+
+</head>
+
+<body>
+    <div class="well">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <span class="glyphicon glyphicon-calendar"></span> 
+                Seminars
+            </h4>
         </div>
-    </body>
+
+        {% for seminar in site.data.seminars limit:9 %}
+        <p>
+            <script>
+                var d = new Date(Date.parse({{ seminar.date | jsonify }}));
+                document.write(months[d.getMonth()] + ' ' + d.getDate() + 'th, ' + d.getFullYear()
+                    + ', ' + d.toLocaleString('en-US', { hour: 'numeric', hour12: true }));
+                // for minutes, add minutes: 'numeric'
+                var url = "{{ site.url }}{{ site.baseurl }}/seminars/" + {{ seminar.type| jsonify}} + "_"
+                    + d.getFullYear() + "-" + (d.getMonth() + 1).toString() + "-" + d.getDate() + "/";
+                document.write("<br>")
+                document.write("<b>" + {{ seminar.title | jsonify }}.fontcolor('#5f6568').link(url) + "</b>");
+            </script>
+            <br>{{ seminar.speaker }}, <em>{{ seminar.affiliation }}</em></p>
+        {% endfor %}
+
+        <h4><a href="{{ site.url }}{{ site.baseurl }}/seminars">... see all seminars</a></h4>
+
+    </div>
+</body>

@@ -1,76 +1,36 @@
-
-
-<!------ Include the above in your HEAD tag ---------->
-<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-<!-- 
-
-	<div class="well">      
-    	    
-        <div class="panel-heading">
-            <h4 class="panel-title">
-            <span class="glyphicon glyphicon-calendar"></span> 
-            Seminars
-            </h4>
-		</div>
-		{% for seminar in site.data.seminars limit:9 %}
-        <div class="panel-body"; style="padding:1px" >
-        	<ul class="media-list">
-            <li class="media">
-            <div class="media-left">
-            	<div class="panel panel-primary text-center date">
-            		<div class="panel-heading month"; style="padding:1px">
-            			<span class="panel-title strong"; style="padding:1px">
-            			<script> document.write("{{seminar.month}}".slice(0,3))</script>
-                        </span>
-                </div>
-                <div class="panel-body day text-default"; style="padding:1px">
-						<font size="+1"> <script> document.write({{seminar.day}})</script> </font>
-				</div>
-				<div class="panel-footer day text-default"; background-color:black;>
-				<b><script> document.write("{{seminar.time}}")</script></b>
-				</div>
-            </div>
-         </div>
-        <div class="media-body">
-            <b class="media-heading">
-			{{ seminar.title }}
-			</b>
-            <p style: "margin-bottom:10px";>
-			{{ seminar.speaker }}
-        	</p>
-			<i>
-			{{ seminar.affiliation }}
-        	</i>
-        </div>
-            </li>
-                    </ul>
-                    
-				</div>
-		{% endfor %}  
-				<h4><a href="{{ site.url }}{{ site.baseurl }}/seminars.html">... see all seminars</a></h4>
-            </div>
-            
-			
-		</div>
-		
-	</div>
---> 
-
-<div class="well">
-    <div class="panel-heading">
-            <h4 class="panel-title">
-            <span class="glyphicon glyphicon-calendar"></span> 
-            Seminars
-            </h4>
-	</div>
-
-    {% for seminar in site.data.seminars limit:9 %}
-    <p>{{ seminar.day }} {{ seminar.month }}, {{ seminar.time }}
-    <br><b>{{ seminar.title }}</b>
-    <br>{{ seminar.speaker }}, <em>{{ seminar.affiliation }}</em></p>
+<head>
+        <script>
+            var months = ["January", "February", "March", "April", "May", "June", "July", 
+            "August", "September", "October", "November", "December"];
+        </script>
     
-    {% endfor %}
-
-    <h4><a href="{{ site.url }}{{ site.baseurl }}/seminars.html">... see all seminars</a></h4>
-
-</div>
+    </head>
+    
+    <body>
+        <div class="well">
+            <div class="panel-heading">
+                    <h4 class="panel-title">
+                    <span class="glyphicon glyphicon-calendar"></span> 
+                    Seminars
+                    </h4>
+            </div>
+    
+        {% for seminar in site.data.seminars limit:9 %}
+            <p>
+                <script>
+                    var d = new Date(Date.parse({{seminar.date| jsonify}}));
+                    document.write(months[d.getMonth()] + ' ' + d.getDate() + 'th, ' + d.getFullYear());
+    
+                    var url = "{{ site.url }}{{ site.baseurl }}/seminars/" + {{seminar.type| jsonify}} + "_" 
+                    + d.getFullYear() + "-" + (d.getMonth()+1).toString() + "-" + d.getDate() + "/";
+                    document.write("<br>")
+                    document.write("<b>" + {{seminar.title| jsonify}}.fontcolor('#5f6568').link(url) + "</b>");
+                </script>
+                
+                <br>{{ seminar.speaker }}, <em>{{ seminar.affiliation }}</em></p>
+        {% endfor %}
+    
+            <h4><a href="{{ site.url }}{{ site.baseurl }}/seminars">... see all seminars</a></h4>
+    
+        </div>
+    </body>

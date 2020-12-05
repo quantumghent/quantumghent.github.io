@@ -1,39 +1,34 @@
-- day: 11
-  month: "December"
-  year: 2020
-  time: "3pm"
+- date: "2020-12-11T15:00:00"
+  end: false
   speaker: "Yantao Wu"
   affiliation: "Princeton University"
   title: "tba"
+  type: "afterlunchtalk"
   
-- day: 11
-  month: "December"
-  year: 2020
-  time: "1pm"
+- date: "2020-12-11T13:00:00"
+  end: false
   speaker: "Archisman Ghosh"
   affiliation: "Ghent University"
-  title: "gravitational wave detection (tba)"  
+  title: "Gravitational wave detection (tba)"  
+  type: "lunchtalk"
 
-- day: 4
-  month: "December"
-  year: 2020
-  time: "1pm"
+- date: "2020-12-04T13:00:00"
+  end: false
   speaker: "Freek Witteveen"
   affiliation: "University of Amsterdam"
   title: "Bosonic entanglement renormalization circuits from wavelet theory"
+  type: "lunchtalk"
 
-- day: 27
-  month: "November"
-  year: 2020
-  time: "1pm"
+- date: "2020-11-27T13:00:00"
+  end: false
   speaker: "Andras Molnar"
   affiliation: "Universidad Complutense de Madrid"
   title: "Fundamental theorems for PEPS"
+  type: "lunchtalk"
 
-- day: 20
-  month: "November"
-  year: 2020
-  time: "1pm"
+- date: "2020-11-20T13:00:00"
+  end: false
   speaker: "Rui-Zhen Huang"
   affiliation: "Kavli Institute for Theoretical Sciences, University of Chinese Academy of Sciences"
   title: "Emergent symmetry and non-equilibrium driven dynamics for a 1+1d deconfined quantum critical point"
+  type: "lunchtalk"

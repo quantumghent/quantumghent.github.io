@@ -1,3 +1,10 @@
+- date: "2020-12-18T13:00:00"
+  end: false
+  speaker: "Juraj Hasik"
+  affiliation: "University of Toulouse"
+  title: "Investigation of the Néel phase of the frustrated Heisenberg antiferromagnet by differentiable symmetric tensor networks"  
+  type: "lunchtalk"
+
 - date: "2020-12-11T15:00:00"
   end: false
   speaker: "Yantao Wu"

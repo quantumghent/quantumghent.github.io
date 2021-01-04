@@ -3,7 +3,7 @@ title: "QuantumGroup@UGent - Seminars"
 layout: textlay
 excerpt: "QuantumGroup@UGent -- Seminars."
 sitemap: false
-permalink: /seminars/lunchtalk_2021-1-8/
+permalink: /seminars/lunchtalk_2021-01-08/
 ---
 
 # Quasiparticle dynamics of symmetry resolved entanglement after a quench in free fermionic systems

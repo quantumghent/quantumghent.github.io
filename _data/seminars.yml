@@ -1,3 +1,10 @@
+- date: "2021-01-15T16:00:00"
+  end: false
+  speaker: "Ashley Milsted"
+  affiliation: "California Institute of Technology"
+  title: "Collisions of false-vacuum bubble walls in a quantum spin chain"  
+  type: "lunchtalk"
+
 - date: "2021-01-08T13:00:00"
   end: false
   speaker: "Riccarda Bonsignori"

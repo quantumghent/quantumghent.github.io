@@ -1,6 +1,6 @@
 ---
 title: "QuantumGroup@UGent - Seminars"
-layout: textlay
+layout: textwithmath
 excerpt: "QuantumGroup@UGent -- Seminars."
 sitemap: false
 permalink: /seminars/lunchtalk_2021-01-22/

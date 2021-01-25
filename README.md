@@ -6,6 +6,10 @@ Forked from the [Allan Lab](http://www.allanlab.org) site. Code released under t
 
 ## Seminars
 
+### Math rendering in .YML files 
+
+Be aware! In order to have math in the calendar and seminars box in the homepage, you need to use \\( ... \\) instead of the usual $$...$$ in the .md files. In general: double all backslashes. This is because in javascript the single backslash is used for commands so this will totally fuck up the page. 
+The same holds for the news box on the homepage.
 
 ## Team
 

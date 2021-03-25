@@ -1,50 +1,50 @@
-- date: "2021-03-25T13:00:00"
+- date: "2021-03-26T13:00:00"
   end: false
   speaker: "Anna Francuz"
   affiliation: "Jagiellonian University"
-  title: "Determining topological order with tensor networks"  
+  title: "Determining topological order with tensor networks"
   type: "lunchtalk"
 
 - date: "2021-03-05T13:00:00"
   end: false
   speaker: "Antoine Tilloy"
   affiliation: "MPQ"
-  title: "Relativistic continuous matrix product states for quantum fields without cutoff"  
+  title: "Relativistic continuous matrix product states for quantum fields without cutoff"
   type: "lunchtalk"
 
 - date: "2021-02-19T13:00:00"
   end: false
   speaker: "Alexander Jahn"
   affiliation: "FU Berlin"
-  title: "From quantum error correction to critical theories: A holographic journey"  
+  title: "From quantum error correction to critical theories: A holographic journey"
   type: "lunchtalk"
 
 - date: "2021-01-22T13:00:00"
   end: false
   speaker: "Bram Vanhecke"
   affiliation: "Ghent University"
-  title: "Applying a scaling hypothesis in the continuum for the \\(\\lambda \\phi^4\\) model"  
+  title: "Applying a scaling hypothesis in the continuum for the \\(\\lambda \\phi^4\\) model"
   type: "lunchtalk"
 
 - date: "2021-01-15T16:00:00"
   end: false
   speaker: "Ashley Milsted"
   affiliation: "California Institute of Technology"
-  title: "Collisions of false-vacuum bubble walls in a quantum spin chain"  
+  title: "Collisions of false-vacuum bubble walls in a quantum spin chain"
   type: "lunchtalk"
 
 - date: "2021-01-08T13:00:00"
   end: false
   speaker: "Riccarda Bonsignori"
   affiliation: "SISSA-Trieste"
-  title: "Quasiparticle dynamics of symmetry resolved entanglement after a quench in free fermionic systems"  
+  title: "Quasiparticle dynamics of symmetry resolved entanglement after a quench in free fermionic systems"
   type: "lunchtalk"
 
 - date: "2020-12-18T13:00:00"
   end: false
   speaker: "Juraj Hasik"
   affiliation: "University of Toulouse"
-  title: "Investigation of the Néel phase of the frustrated Heisenberg antiferromagnet by differentiable symmetric tensor networks"  
+  title: "Investigation of the Néel phase of the frustrated Heisenberg antiferromagnet by differentiable symmetric tensor networks"
   type: "lunchtalk"
 
 - date: "2020-12-11T15:00:00"
@@ -53,12 +53,12 @@
   affiliation: "Princeton University"
   title: '"Variational Monte Carlo Renormalization Group" and "Dissipative dynamics after local quenches in quantum spin chains."'
   type: "afterlunchtalk"
-  
+
 - date: "2020-12-11T13:00:00"
   end: false
   speaker: "Archisman Ghosh"
   affiliation: "Ghent University"
-  title: "Bells Sirens & Beyond"  
+  title: "Bells Sirens & Beyond"
   type: "lunchtalk"
 
 - date: "2020-12-04T13:00:00"

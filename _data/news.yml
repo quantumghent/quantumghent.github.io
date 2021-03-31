@@ -1,3 +1,5 @@
+- date: March 31, 2021
+  headline: Thesis topics for 2020-2021 are available <a href="{{ site.url }}{{ site.baseurl }}/studentinfo/thesis.html">here</a>.
 - date: February 22, 2021
   headline:  '<a href="https://arxiv.org/abs/2102.10982"> <i> Efficient MPS methods for extracting spectral information on rings and cylinders </i></a><br> M. Van Damme, R. Vanhove, J. Haegeman, F. Verstraete, L.Vanderstraeten'
 - date: February 8, 2021

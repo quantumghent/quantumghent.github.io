@@ -380,5 +380,3 @@ strongly interacting systems even more so. It is no long useful to consider some
 <p>[3] Quadrat, J.-P., 1995. Max-Plus Algebra and Applications to System Theory and Optimal Control, in: Chatterji, S.D. (Ed.), Proceedings of the International Congress of Mathematicians. Birkhäuser Basel, Basel, pp. 1511–1522. <a href="https://doi.org/10.1007/978-3-0348-9078-6_148">https://doi.org/10.1007/978-3-0348-9078-6_148</a></p>
 
 <p>[4] Zhang, L., Naitzat, G., Lim, L.-H., 2018. Tropical Geometry of Deep Neural Networks. arXiv:1805.07091.</p>
-
-</body></html>

@@ -1,3 +1,59 @@
+- date: "2021-06-04T13:00:00"
+  end: false
+  speaker: "Atsushi Ueda"
+  affiliation: "University of Tokyo"
+  title: "Resolving the Berezinskii-Kosterlitz-Thouless transition in the 2D XY model with tensor-network based level spectroscopy"
+  type: "lunchtalk"
+
+- date: "2021-05-28T13:00:00"
+  end: false
+  speaker: "Edward Gillman"
+  affiliation: "University of Nottingham"
+  title: "Absorbing phase transitions in quantum systems"
+  type: "lunchtalk"
+  
+- date: "2021-05-21T13:00:00"
+  end: false
+  speaker: "Tom Vieijra"
+  affiliation: "Ghent University"
+  title: "Sampling probability distributions defined by tensor networks"
+  type: "lunchtalk"
+  
+- date: "2021-05-07T13:00:00"
+  end: false
+  speaker: "Jutho Haegeman"
+  affiliation: "Ghent University"
+  title: "Krylov methods"
+  type: "lunchtalk"
+
+- date: "2021-04-30T13:00:00"
+  end: false
+  speaker: "Fatemeh Mohammadi"
+  affiliation: "Ghent University"
+  title: "Introduction to tropical algebra"
+  type: "lunchtalk"
+
+- date: "2021-04-23T13:00:00"
+  end: false
+  speaker: "Frank Verstraete"
+  affiliation: "Ghent University"
+  title: "Distillable entanglement"
+  type: "lunchtalk"
+
+- date: "2021-04-16T13:00:00"
+  end: false
+  speaker: "Laurens Lootens"
+  affiliation: "Ghent University"
+  title: "Bimodule categories"
+  type: "lunchtalk"
+
+- date: "2021-04-02T13:00:00"
+  end: false
+  speaker: "Quinten Mortier"
+  affiliation: "Ghent University"
+  title: "Gaussian fermionic PEPS for chiral states"
+  type: "lunchtalk"
+
 - date: "2021-03-26T13:00:00"
   end: false
   speaker: "Anna Francuz"

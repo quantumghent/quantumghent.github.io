@@ -1,3 +1,13 @@
+- date: "2021-06-25T13:00:00"
+  end: false
+  speaker: "Daan De Keyser"
+  affiliation: "UGent"
+  title: "Projecting time-dependent potentials on a BEC" 
+  speaker: "Clara Tanghe"
+  affiliation: "UGent"
+  title: "Quasi-particle excitations and non-equilibrium dynamics of BECs"   
+  type: "lunchtalk"
+
 - date: "2021-06-18T13:00:00"
   end: false
   speaker: "Sheng-Hsuan Lin"

@@ -1,33 +1,35 @@
 - date: "2021-10-15T13:00:00"
   end: false
   speaker: "Gerardo Ortiz"
+  affiliation: "Indiana Unviersity, Bloomington"
   title: "Dualities in quantum many-body physics"
   type: "lunchtalk"
 
 - date: "2021-09-17T13:00:00"
   end: false
   speaker: "Gertian Roose"
+  affiliation: "Ghent University"
   title: "False vacuum decay beyond the semi-classical limit"
   type: "lunchtalk"
 
 - date: "2021-09-10T10:30:00"
   end: false
   speaker: "Norbert Schuch"
-  affilliation: "University of Vienna"
+  affiliation: "University of Vienna"
   title: "Disorder operators"
   type: "lunchtalk"
 
 - date: "2021-06-25T13:00:00"
   end: false
   speaker: "Daan De Keyser"
-  affiliation: "UGent"
+  affiliation: "Ghent University"
   title: "Projecting time-dependent potentials on a BEC" 
   type: "lunchtalk"
   
 - date: "2021-06-25T13:00:40"
   end: false
   speaker: "Clara Tanghe"
-  affiliation: "UGent"
+  affiliation: "Ghent University"
   title: "Quasi-particle excitations and non-equilibrium dynamics of BECs" 
   type: "lunchtalk"
   

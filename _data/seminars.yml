@@ -4,6 +4,13 @@
   affiliation: "Indiana Unviersity, Bloomington"
   title: "Dualities in quantum many-body physics"
   type: "lunchtalk"
+  
+- date: "2021-10-08T13:00:00"
+  end: false
+  speaker: "Wei Tang"
+  affiliation: "Ghent University"
+  title: "Tensor network simulation of the (1+1)-dimensional O(3) nonlinear σ-model with θ=π term"
+  type: "lunchtalk"
 
 - date: "2021-10-01T13:00:00"
   end: false

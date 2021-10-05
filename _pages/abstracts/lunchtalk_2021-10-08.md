@@ -3,7 +3,7 @@ title: "QuantumGroup@UGent - Seminars"
 layout: textwithmath
 excerpt: "QuantumGroup@UGent -- Seminars."
 sitemap: false
-permalink: /seminars/lunchtalk_2021-10-01/
+permalink: /seminars/lunchtalk_2021-10-08/
 ---
 
 # Tensor network simulation of the (1+1)-dimensional O(3) nonlinear σ-model with θ=π term

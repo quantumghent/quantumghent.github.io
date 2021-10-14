@@ -1,10 +1,10 @@
-- date: "2021-10-15T13:00:00"
+- date: "2021-10-15T13:30:00"
   end: false
   speaker: "Gerardo Ortiz"
   affiliation: "Indiana Unviersity, Bloomington"
   title: "Dualities in quantum many-body physics"
   type: "lunchtalk"
-  
+
 - date: "2021-10-08T13:00:00"
   end: false
   speaker: "Wei Tang"
@@ -37,16 +37,16 @@
   end: false
   speaker: "Daan De Keyser"
   affiliation: "Ghent University"
-  title: "Projecting time-dependent potentials on a BEC" 
+  title: "Projecting time-dependent potentials on a BEC"
   type: "lunchtalk"
-  
+
 - date: "2021-06-25T13:00:40"
   end: false
   speaker: "Clara Tanghe"
   affiliation: "Ghent University"
-  title: "Quasi-particle excitations and non-equilibrium dynamics of BECs" 
+  title: "Quasi-particle excitations and non-equilibrium dynamics of BECs"
   type: "lunchtalk"
-  
+
 
 - date: "2021-06-18T13:00:00"
   end: false

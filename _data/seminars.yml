@@ -1,3 +1,10 @@
+- date: "2021-10-22T09:00:00"
+  end: false
+  speaker: "Mark Arildson"
+  affiliation: "UC Santa Barbara"
+  title: "Generalized Gibbs Ensemble Description of Real Space Entanglement Spectra of (2+1)-dimensional Chiral Topological Systems with SU(2) Symmetry"
+  type: "lunchtalk"
+
 - date: "2021-10-15T13:00:00"
   end: false
   speaker: "Gerardo Ortiz"

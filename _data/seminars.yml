@@ -5,17 +5,10 @@
   title: "Approximating Relativistic Quantum Field Theories with Continuous Tensor Networks"
   type: "lunchtalk"
   
-#- date: "2021-11-12T13:00:00"
-#  end: false
-#  speaker: "Michaël Mariën"
-#  affiliation: ""
-#  title: "Causality & Machine Learning"
-#  type: "lunchtalk"
-  
 - date: "2021-11-05T13:00:00"
   end: false
   speaker: "Linnea Grans-Samuelsson"
-  affiliation: "Université Paris Saclay"
+  affiliation: "Université Paris-Saclay"
   title: "Discretizing 2d conformal field theories: the lattice action of the conformal algebra"
   type: "lunchtalk"
 

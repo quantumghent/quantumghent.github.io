@@ -54,7 +54,7 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <h5><i>{{ member.info }}</i></h5>
   <a href="mailto:{{ member.email }}"><i class="fas fa-envelope-square fa-2x"></i></a>
-  {% if member.site %}<a href="{{ member.site }}"><span class="fa-stack fa-1x fa-stacked"><i class="fas fa-square fa-stack-2x"></i><i class="fas fa-home fa-stack-1x fa-stack-inner fas-inverse"></i></span></a>{% endif %} {% if member.orcid %}<a href="https://orcid.org/{{ member.orcid }}"><i class="ai ai-orcid-square ai-2x"></i></a>{% endif %} {% if member.scholar %}<a href="http://scholar.google.com/citations?user={{ member.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a>{% endif %} {% if member.github %}<a href="http://github.com/{{ member.github }}"><i class="fab fa-github-square fa-2x"></i></a>{% endif %} {% if member.twitter %}<a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>{% endif %}
+  {% if member.scholar %}<a href="http://scholar.google.com/citations?user={{ member.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a>{% endif %} {% if member.github %}<a href="http://github.com/{{ member.github }}"><i class="fab fa-github-square fa-2x"></i></a>{% endif %} {% if member.twitter %}<a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a>{% endif %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

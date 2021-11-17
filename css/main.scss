@@ -156,6 +156,9 @@ $carousel-title-shadow:                        1px 2px 3px rgba(0,0,0,.6) !defau
 .fas {
   color : grey;
 }
+.fas-inverse {
+  color : white;
+}
 .fab {
   color : grey;
 }
@@ -163,6 +166,18 @@ $carousel-title-shadow:                        1px 2px 3px rgba(0,0,0,.6) !defau
   color : grey;
 }
 
+/* stacking icons */
+
+.fa-stacked {
+     font-size: 1em !important;
+     margin : -.4em;
+     vertical-align: top;
+     top: .4em;
+}
+
+.fa-stack-inner {
+     font-size: 1.33em !important;
+}
 /* Calendar */
 
 /* classes attached to <body> */

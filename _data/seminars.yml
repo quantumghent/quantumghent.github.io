@@ -1,3 +1,10 @@
+- date: "2021-12-03T13:00:00"
+  end: false
+  speaker: "Jacob Bridgeman"
+  affiliation: "Ghent University"
+  title: "A Brief Review of Quantum Error Correction"
+  type: "lunchtalk"
+
 - date: "2021-11-26T13:00:00"
   end: false
   speaker: "Erez Zohar"

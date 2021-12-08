@@ -1,3 +1,10 @@
+- date: "2021-12-10T13:00:00"
+  end: false
+  speaker: "Evan Salim"
+  affiliation: "Ghent University"
+  title: "Preparing for (and surviving) the quantum revolution"
+  type: "lunchtalk"
+
 - date: "2021-12-03T13:00:00"
   end: false
   speaker: "Jacob Bridgeman"

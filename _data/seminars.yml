@@ -1,3 +1,10 @@
+- date: "2022-01-28T13:00:00"
+  end: false
+  speaker: "Pan Zhang"
+  affiliation: "Institute of Theoretical Physics, Chinese Academy of Sciences"
+  title: "Simulation of the Sycamore quantum circuits with tensor networks"
+  type: "lunchtalk"
+  
 - date: "2022-01-21T13:00:00"
   end: false
   speaker: "Nick Bultinck"

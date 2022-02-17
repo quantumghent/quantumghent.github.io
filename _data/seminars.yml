@@ -1,3 +1,10 @@
+- date: "2022-02-18T13:00:00"
+  end: false
+  speaker: "Laurens Lootens"
+  affiliation: "Ghent University"
+  title: "Dualities in one-dimensional quantum lattice models with categorical symmetries: Hamiltonians and intertwiners"
+  type: "lunchtalk"
+
 - date: "2022-01-28T13:00:00"
   end: false
   speaker: "Pan Zhang"

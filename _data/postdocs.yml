@@ -7,12 +7,6 @@
 #  github:
 #  twitter:
 
-- name: Rui-Zhen Huang
-  photo: FOTOhrz.jpg
-  email: huangrzh@icloud.com
-  info: PostDoc since 2022
-  scholar: mWLsNWoAAAAJ
-
 - name: Jacob Bridgeman
   photo: FOTOjacob.jpg
   github: JCBridgeman
@@ -22,6 +16,23 @@
   scholar: -hzf7fIAAAAJ
   site: https://jcbridgeman.bitbucket.io/
 
+- name: Nick Bultinck
+  photo: FOTONick.jpg
+  email: nibultinck@gmail.com
+  info: FWO PostDoc
+
+- name: Xiaoyu Dong
+  photo: FOTOXiaoyu.jpeg
+  email: xiaoyu.dong@ugent.be
+  info: PostDoc since 2019
+  scholar: M0gdQvsAAAAJ
+
+- name: Rui-Zhen Huang
+  photo: FOTOhrz.jpg
+  email: huangrzh@icloud.com
+  info: PostDoc since 2022
+  scholar: mWLsNWoAAAAJ
+
 - name: Wei Tang
   photo: bb.jpg
   github: tangwei94
@@ -30,37 +41,28 @@
   info: PostDoc since 2021
   scholar: BSkYq1QAAAAJ
 
-- name: Nick Bultinck
-  photo: FOTONick.jpg
-  email: nibultinck@gmail.com
-  info: FWO PostDoc
-
-- name: Romain Couvreur
-  photo: FOTOromaincouvreur.jpg
-  email: romain.couvreur@ugent.be
-  info: PostDoc since 2019
-
-- name: Xiaoyu Dong
-  photo: FOTOXiaoyu.jpeg
-  email: xiaoyu.dong@ugent.be
-  info: PostDoc since 2019
-  scholar: M0gdQvsAAAAJ
-
-- name: Klaas Gunst
-  photo: FOTOKlaasGunst.jpg
-  github: klgunst
-  scholar: HcB8TAcAAAAJ
-  email: klaasgunst@gmail.com
-  info: PostDoc since 2020
-
-- name: Markus Hauru
-  photo: bb.jpg
-  email: markus@mhauru.org
-  info: PostDoc since 2019
-  github: mhauru
-
 - name: Laurens Vanderstraeten
   photo: FOTOLaurens.jpg
   email: laurens.vanderstraeten@ugent.be
   info: FWO PostDoc since 2016
   scholar: m8wiLSsAAAAJ
+
+#- name: Romain Couvreur
+#  photo: FOTOromaincouvreur.jpg
+#  email: romain.couvreur@ugent.be
+#  info: PostDoc since 2019
+
+#- name: Klaas Gunst
+#  photo: FOTOKlaasGunst.jpg
+#  github: klgunst
+#  scholar: HcB8TAcAAAAJ
+#  email: klaasgunst@gmail.com
+#  info: PostDoc since 2020
+
+#- name: Markus Hauru
+#  photo: bb.jpg
+#  email: markus@mhauru.org
+#  info: PostDoc since 2019
+#  github: mhauru
+
+

@@ -7,19 +7,6 @@
 #  github:
 #  twitter:
 
-- name: Bram Vancraeynest-De Cuiper
-  photo: FOTObramvancraeynest.jpg
-  info: PhD student since 2021
-  email: bram.vancraeynestdecuiper@ugent.be
-  scholar: EucAISwAAAAJ
-
-- name: Bastiaan Aelbrecht
-  photo: FOTObastiaanaelbrecht.jpg
-  info: PhD student since 2020
-  email: bastiaan.aelbrecht@ugent.be
-  github: baaelbre
-  twitter: BastiaanAB
-
 - name: Lander Burgelman
   photo: FOTOlanderburgelman.jpg
   info: FWO PhD student since 2020
@@ -29,11 +16,6 @@
   photo: FOTOlukasdevos.jpg
   info: PhD student since 2020
   email: lukas.devos@ugent.be
-
-- name: Marco Deweirdt
-  photo: FOTOmarcodeweirdt.jpg
-  info: PhD student since 2020
-  email: marco.deweirdt@ugent.be
 
 - name: Laurens Lootens
   photo: FOTOLaurensLootens.jpg
@@ -56,17 +38,16 @@
   info: PhD student since 2017
   email: gertian.roose@ugent.be
 
-- name: Alexis Schotte
+- name: Clara Tanghe
   photo: bb.jpg
-  info: PhD student since 2016
-  email: alexis.schotte@ugent.be
+  info: PhD student since 2021
+  email: clara.tanghe@ugent.be
 
-- name: Benoît Tuybens
-  photo: FOTOBenoitTuybensNew.jpg
-  info: FWO PhD student since 2017
-  email: benoit.tuybens@ugent.be
-  scholar: anCVC0UAAAAJ
-  twitter: Benoit_Tuybens
+- name: Bram Vancraeynest-De Cuiper
+  photo: FOTObramvancraeynest.jpg
+  info: PhD student since 2021
+  email: bram.vancraeynestdecuiper@ugent.be
+  scholar: EucAISwAAAAJ
 
 - name: Maarten Van Damme
   photo: bb.jpg
@@ -74,13 +55,44 @@
   email: maarten.vandamme@ugent.be
   github: maartenvd
 
-- name: Bram Vanhecke
-  photo: FOTObram.jpg
-  info: PhD student since 2016
-  email: bavhecke.vanhecke@ugent.be
-  scholar: 9PVLvrcAAAAJ
-
 - name: Robijn Vanhove
   photo: FOTORobijn.jpg
   info: FWO PhD student since 2017
   email: robijn.vanhove@ugent.be
+
+- name: Tom Vieijra
+  photo: bb.jpg
+  info: FWO PhD student since 2018
+  email: tom.vieijra@UGent.be
+
+#- name: Bastiaan Aelbrecht
+#  photo: FOTObastiaanaelbrecht.jpg
+#  info: PhD student since 2020
+#  email: bastiaan.aelbrecht@ugent.be
+#  github: baaelbre
+#  twitter: BastiaanAB
+
+#- name: Marco Deweirdt
+#  photo: FOTOmarcodeweirdt.jpg
+#  info: PhD student since 2020
+#  email: marco.deweirdt@ugent.be
+
+#- name: Benoît Tuybens
+#  photo: FOTOBenoitTuybensNew.jpg
+#  info: FWO PhD student since 2017
+#  email: benoit.tuybens@ugent.be
+#  scholar: anCVC0UAAAAJ
+#  twitter: Benoit_Tuybens
+
+#- name: Bram Vanhecke
+#  photo: FOTObram.jpg
+#  info: PhD student since 2016
+#  email: bavhecke.vanhecke@ugent.be
+#  scholar: 9PVLvrcAAAAJ
+
+#- name: Alexis Schotte
+#  photo: bb.jpg
+#  info: PhD student since 2016
+#  email: alexis.schotte@ugent.be
+
+

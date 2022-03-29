@@ -1,3 +1,10 @@
+- date: "2022-04-01T13:00:00"
+  end: false
+  speaker: "Alexander Stottmeister"
+  affiliation: "University of Hannover"
+  title: "Conformal field theory from lattice fermions"
+  type: "lunchtalk"
+  
 - date: "2022-02-18T13:00:00"
   end: false
   speaker: "Laurens Lootens"

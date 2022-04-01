@@ -21,12 +21,6 @@
   email: nibultinck@gmail.com
   info: FWO PostDoc
 
-- name: Xiaoyu Dong
-  photo: FOTOXiaoyu.jpeg
-  email: xiaoyu.dong@ugent.be
-  info: PostDoc since 2019
-  scholar: M0gdQvsAAAAJ
-
 - name: Rui-Zhen Huang
   photo: FOTOhrz.jpg
   email: huangrzh@icloud.com
@@ -51,6 +45,12 @@
 #  photo: FOTOromaincouvreur.jpg
 #  email: romain.couvreur@ugent.be
 #  info: PostDoc since 2019
+
+#- name: Xiaoyu Dong
+#  photo: FOTOXiaoyu.jpeg
+#  email: xiaoyu.dong@ugent.be
+#  info: PostDoc since 2019
+#  scholar: M0gdQvsAAAAJ
 
 #- name: Klaas Gunst
 #  photo: FOTOKlaasGunst.jpg

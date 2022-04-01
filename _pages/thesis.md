@@ -15,7 +15,7 @@ permalink: /studentinfo/thesis.html
 
 <h3>Context</h3>
 
-<p><img alt="" src="{{ site.url }}{{ site.baseurl }}/images/thesis/BEC1.png" style="height:346px; width:300px"><img alt="" src="{{ site.url }}{{ site.baseurl }}/images/BEC2.jpg" style="height:346px; margin-left:30px; margin-right:30px; width:260px"><img alt="" src="{{ site.url }}{{ site.baseurl }}/images/thesis/BEC3.png" style="height:346px; margin-left:30px; margin-right:30px; width:190px"></p>
+<p><img alt="" src="{{ site.url }}{{ site.baseurl }}/images/thesis/BEC1.png" style="height:346px; width:300px"><img alt="" src="{{ site.url }}{{ site.baseurl }}/images/thesis/BEC2.jpg" style="height:346px; margin-left:30px; margin-right:30px; width:260px"><img alt="" src="{{ site.url }}{{ site.baseurl }}/images/thesis/BEC3.png" style="height:346px; margin-left:30px; margin-right:30px; width:190px"></p>
 
 <p>In spring 2022 we are launching the first Belgian Bose-Einstein condensate (BEC) experiment at UGent. Worldwide such cold atom experiments are currently leading the way in our explorations of the quantum realm. In summary, a BEC consists of >10.000 bosonic atoms (Rb87 in our case), that are cooled to temperatures T<1 microKelvin. At these temperatures a new phase of matter emerges, the so called Bose-Einstein condensate, with all the atoms condensed into one coherent quantum state. The spectacular advances in controlling and manipulating the cold BEC atoms allow the experimental realization of many different exotic quantum phenomena like quantum tunneling, quantum non-equilibrium physics, superfluidity, and even the quantum simulation of black holes. It is the latter avenue that we want to explore with this thesis.</p>
 

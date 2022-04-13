@@ -11,6 +11,13 @@
   affiliation: "Max Planck Institute for the Physics of Complex Systems, Dresden"
   title: "TBA"
   type: "lunchtalk"
+  
+- date: "2022-04-15T13:00:00"
+  end: false
+  speaker: "Elisabeth Wybo"
+  affiliation: "Technical University of Munchen, Garching"
+  title: "Quantum Sine-Gordon dynamics in coupled spin chains"
+  type: "lunchtalk"
 
 - date: "2022-04-01T13:00:00"
   end: false

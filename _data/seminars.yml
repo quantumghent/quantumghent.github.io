@@ -5,13 +5,20 @@
   title: "TBA"
   type: "lunchtalk"
 
+- date: "2022-05-06T13:00:00"
+  end: false
+  speaker: "Corey Jones"
+  affiliation: "North Carolina State University"
+  title: "Enriched fusion categories and domain walls between anomalous topological orders"
+  type: "lunchtalk"
+
 - date: "2022-04-22T13:00:00"
   end: false
   speaker: "Clement Delcamp"
   affiliation: "Max Planck Institute for the Physics of Complex Systems, Dresden"
   title: "Tensor network approach to electromagnetic duality in (3+1)d topological gauge models"
   type: "lunchtalk"
-  
+
 - date: "2022-04-15T13:00:00"
   end: false
   speaker: "Elisabeth Wybo"
@@ -25,7 +32,7 @@
   affiliation: "University of Hannover"
   title: "Conformal field theory from lattice fermions"
   type: "lunchtalk"
-  
+
 - date: "2022-02-18T13:00:00"
   end: false
   speaker: "Laurens Lootens"
@@ -39,7 +46,7 @@
   affiliation: "Institute of Theoretical Physics, Chinese Academy of Sciences"
   title: "Simulation of the Sycamore quantum circuits with tensor networks"
   type: "lunchtalk"
-  
+
 - date: "2022-01-21T13:00:00"
   end: false
   speaker: "Nick Bultinck"
@@ -53,7 +60,7 @@
   affiliation: "Harvard University"
   title: "Non-Abelian Topological Order and Fractons from Measuring Symmetry-Protected Topological Phases"
   type: "lunchtalk"
-  
+
 - date: "2021-12-10T13:00:00"
   end: false
   speaker: "Evan Salim"

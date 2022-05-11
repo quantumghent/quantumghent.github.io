@@ -4,6 +4,20 @@
   affiliation: "Max Planck Institute of Quantum Optics, Munchen"
   title: "TBA"
   type: "lunchtalk"
+  
+- date: "2022-06-24T13:00:00"
+  end: false
+  speaker: "Lucas Fabian Hackl"
+  affiliation: "University of Melbourne"
+  title: "Geometry of variational methods and the Bose-Hubbard model"
+  type: "lunchtalk"
+  
+- date: "2022-06-17T13:00:00"
+  end: false
+  speaker: "Francesco Ferrari"
+  affiliation: "Goethe-Universität Frankfurt am Main"
+  title: "TBA"
+  type: "lunchtalk"
 
 - date: "2022-05-06T13:00:00"
   end: false

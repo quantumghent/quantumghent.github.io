@@ -12,6 +12,13 @@
   title: "Geometry of variational methods and the Bose-Hubbard model"
   type: "lunchtalk"
   
+- date: "2022-06-14T13:00:00"
+  end: false
+  speaker: "Thomas Barthel"
+  affiliation: "Duke University, Durham"
+  title: "On the closedness and geometry of tensor network state sets"
+  type: "lunchtalk"
+  
 - date: "2022-06-03T13:00:00"
   end: false
   speaker: "Adrián Franco Rubio"

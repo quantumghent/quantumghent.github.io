@@ -12,6 +12,13 @@
   title: "Geometry of variational methods and the Bose-Hubbard model"
   type: "lunchtalk"
   
+- date: "2022-06-17T13:00:00"
+  end: false
+  speaker: "Francesco Ferrari"
+  affiliation: "Goethe-Universität Frankfurt am Main"
+  title: "TBA"
+  type: "lunchtalk"
+  
 - date: "2022-06-14T13:00:00"
   end: false
   speaker: "Thomas Barthel"
@@ -23,13 +30,6 @@
   end: false
   speaker: "Adrián Franco Rubio"
   affiliation: "Max Planck Institute of Quantum Optics (MPQ)"
-  title: "TBA"
-  type: "lunchtalk"
-  
-- date: "2022-06-17T13:00:00"
-  end: false
-  speaker: "Francesco Ferrari"
-  affiliation: "Goethe-Universität Frankfurt am Main"
   title: "TBA"
   type: "lunchtalk"
 

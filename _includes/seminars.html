@@ -22,7 +22,7 @@
             <script>
                 var d = new Date(Date.parse({{ seminar.date | jsonify }}));
                 document.write(months[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear()
-                    + ', ' + d.toLocaleTimeString('en-US', { hour: 'numeric', hour12: true , minutes: 'numeric'})+ ' (UTC+1)') ;// for minutes, add minutes: 'numeric'
+                    + ', ' + d.toLocaleString('en-US', { hour: 'numeric', hour12: true , minutes: '2-digit'})+ ' (UTC+1)') ;// for minutes, add minutes: 'numeric'
                 // some hackings to achieve 1 -> "01" etc (always 2character strings)
                 var pad = "00"
                 var Monthstring = (d.getMonth()+1).toString()

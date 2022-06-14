@@ -5,6 +5,13 @@
   title: "TBA"
   type: "lunchtalk"
   
+- date: "2022-07-01T13:00:00"
+  end: false
+  speaker: "Tobias Haas"
+  affiliation: "Centre for Quantum Information and Communication (QuIC)"
+  title: "TBA"
+  type: "lunchtalk"
+ 
 - date: "2022-06-24T13:00:00"
   end: false
   speaker: "Lucas Fabian Hackl"

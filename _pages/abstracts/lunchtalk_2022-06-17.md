@@ -12,4 +12,5 @@ Variational wave functions constitute a precious tool for the study of frustrate
 
 [1] N. Astrakhantsev, F. Ferrari, N. Niggemann et al, PRB 104, L220408 
 (2021)
+
 [2] F. Ferrari, A. Parola, F. Becca, PRB 103, 195140 (2021)

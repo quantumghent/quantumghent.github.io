@@ -12,11 +12,11 @@
   title: "TBA"
   type: "lunchtalk"
  
-- date: "2022-06-24T13:00:00"
+- date: "2022-06-22T16:00:00"
   end: false
-  speaker: "Lucas Fabian Hackl"
-  affiliation: "University of Melbourne"
-  title: "Geometry of variational methods and the Bose-Hubbard model"
+  speaker: "Janet Hung"
+  affiliation: "Fudan University"
+  title: "Virasoro and Kac-Moody operators in Tensor networks revisited"
   type: "lunchtalk"
   
 - date: "2022-06-20T13:00:00"

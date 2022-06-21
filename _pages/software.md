@@ -88,4 +88,4 @@ Our group has developed several publicly available (and thus open source) softwa
 
 * Julia code for the 2018 European Tensor Network School: [Jutho/TNSchool2018](https://github.com/Jutho/TNSchool2018)
 
-* Python code for the 2020 European Tensor Network School: [leburgel/BadHonnefTutorial](https://github.com/leburgel/BadHonnefTutorial)
+* Python code for the 2020 European Tensor Network School: [leburgel/BadHonnefTutorial](https://github.com/leburgel/uniformMpsTutorial)

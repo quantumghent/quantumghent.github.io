@@ -3,7 +3,7 @@ title: "QuantumGroup@UGent - Seminars"
 layout: textwithmath
 excerpt: "QuantumGroup@UGent -- Seminars."
 sitemap: false
-permalink: /seminars/lunchtalk_2022-07-01/
+permalink: /seminars/lunchtalk_2022-09-16/
 ---
 
 # A Universe in Heidelberg

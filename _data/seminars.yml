@@ -1,3 +1,10 @@
+- date: "2022-09-21T13:00:00"
+  end: false
+  speaker: "Mark Arildsen"
+  affiliation: "University of California Santa Barbara"
+  title: "Entanglement spectra of (2+1)-dimensional topological spin liquid PEPS and chirality, including cases with SU(3) symmetry"
+  type: "lunchtalk"
+  
 - date: "2022-09-16T13:00:00"
   end: false
   speaker: "Tobias Haas"

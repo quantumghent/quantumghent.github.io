@@ -1,3 +1,17 @@
+- date: "2022-09-30T13:00:00"
+  end: false
+  speaker: "Yannick Meurice"
+  affiliation: "University of Iowa"
+  title: "Perturbative boundaries of quantum advantage for phi^4 models"
+  type: "lunchtalk"
+
+- date: "2022-09-28T14:00:00"
+  end: false
+  speaker: "Yannick Meurice"
+  affiliation: "University of Iowa"
+  title: "Quantum simulation of scalar electrodynamics with Rydberg atoms"
+  type: "lunchtalk"
+
 - date: "2022-09-21T14:00:00"
   end: false
   speaker: "Mark Arildsen"

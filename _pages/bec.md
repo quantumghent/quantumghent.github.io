@@ -9,15 +9,15 @@ permalink: /bec/
 # Bose-Einstein Condensate Laboratory
 
 
-<div markdown="0" id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="null" data-keyboard="true" >
+<div markdown="0" id="bec-carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="null" data-keyboard="true" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         {% assign slide_number = 0 %}
-        {% for image in site.data.home-carousel %}
+        {% for image in site.data.bec-carousel %}
         {% if slide_number == 0 %}
-            <li data-target="#home-carousel" data-slide-to="{{ slide_number }}" class="active"></li>
+            <li data-target="#bec-carousel" data-slide-to="{{ slide_number }}" class="active"></li>
         {% else %}
-        <li data-target="#home-carousel" data-slide-to="{{ slide_number }}"></li>
+        <li data-target="#bec-carousel" data-slide-to="{{ slide_number }}"></li>
         {% endif %}
         {% assign slide_number = slide_number | plus: 1 %}
         {% endfor %}
@@ -25,7 +25,7 @@ permalink: /bec/
     <!-- Items -->
     <div class="carousel-inner">
     {% assign slide_number = 0 %}
-    {% for image in site.data.home-carousel %}
+    {% for image in site.data.bec-carousel %}
 
         {% if slide_number == 0 %}
             <div class="item active">
@@ -38,11 +38,11 @@ permalink: /bec/
     {% assign slide_number = slide_number | plus: 1 %}
     {% endfor %}
     </div>
-  <a class="left carousel-control" href="#home-carousel" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#bec-carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#home-carousel" role="button" data-slide="next">
+  <a class="right carousel-control" href="#bec-carousel" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>

@@ -24,6 +24,9 @@ permalink: /bec/
     </ol>
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
+        <div class="carousel-item">
+      <img src="image-link" class="d-block w-100" alt="image" style="max-height:100vh;">
+    </div>
     {% assign slide_number = 0 %}
     {% for image in site.data.bec-carousel %}
 

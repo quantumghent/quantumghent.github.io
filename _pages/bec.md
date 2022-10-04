@@ -8,6 +8,48 @@ permalink: /bec/
 
 # Bose-Einstein Condensate Laboratory
 
+</h1>
+</div>
+<div markdown="0" id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="10000" data-pause="null" data-keyboard="true" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        {% assign slide_number = 0 %}
+        {% for image in site.data.home-carousel %}
+        {% if slide_number == 0 %}
+            <li data-target="#home-carousel" data-slide-to="{{ slide_number }}" class="active"></li>
+        {% else %}
+        <li data-target="#home-carousel" data-slide-to="{{ slide_number }}"></li>
+        {% endif %}
+        {% assign slide_number = slide_number | plus: 1 %}
+        {% endfor %}
+    </ol>
+    <!-- Items -->
+    <div class="carousel-inner">
+    {% assign slide_number = 0 %}
+    {% for image in site.data.home-carousel %}
+
+        {% if slide_number == 0 %}
+            <div class="item active">
+        {% else %}
+            <div class="item">
+        {% endif %}
+            <img src="{{ site.url }}{{ site.baseurl }}/images/{{ image.image }}" alt="Slide {{ slide_number }}" />
+        </div>
+
+    {% assign slide_number = slide_number | plus: 1 %}
+    {% endfor %}
+    </div>
+  <a class="left carousel-control" href="#home-carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#home-carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<div align="justify">
+
 
 
 Cold atom experiments worldwide are currently playing a leading role in our explorations of the quantum world. The exquisite control on the atom traps and the high-resolution imaging have opened up a new and direct window on the physics of many atoms in the quantum regime. This has revealed a wealth of new phenomena that are under vigorous theoretical and experimental study. We are therefore happy to announce that as of 2022 we are embarking on our own cold atom adventure with a Bose-Einstein condensate (BEC) experiment.

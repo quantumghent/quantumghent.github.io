@@ -8,7 +8,7 @@ permalink: /bec/
 
 # Bose-Einstein Condensate Laboratory
 
-<div class="col-sm-8 clearfix">
+
 
 Cold atom experiments worldwide are currently playing a leading role in our explorations of the quantum world. The exquisite control on the atom traps and the high-resolution imaging have opened up a new and direct window on the physics of many atoms in the quantum regime. This has revealed a wealth of new phenomena that are under vigorous theoretical and experimental study. We are therefore happy to announce that as of 2022 we are embarking on our own cold atom adventure with a Bose-Einstein condensate (BEC) experiment.
 
@@ -19,13 +19,7 @@ This will effectively turn our BEC into a quantum simulator, allowing for many e
 <b> Contact us for more information, we welcome suggestions and ideas for possible collaborative projects. </b>
 </div>
 
-<div class="col-sm-4">
-  
-<img src="{{ site.url }}{{ site.baseurl }}/images/bec/habemusinterference.png" style="width:100%">
-<figcaption> Testing the optics table in our brand new lab: "Habemus interference".   
-  
-<img src="{{ site.url }}{{ site.baseurl }}/images/bec/RuBeCi.png" style="width:60%;float.right">
-<figcaption> Coldquanta's RuBeCi, which will be the heart of our set-up. The final atom cloud will be trapped $$\sim 0.1 mm$$ below the atom chip that seals off the upper vacuum chamber. 
+
 
 
 

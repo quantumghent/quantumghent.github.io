@@ -47,7 +47,6 @@ permalink: /bec/
     <span class="sr-only">Next</span>
   </a>
 </div>
-<!<div align="justify">>
 
 
 

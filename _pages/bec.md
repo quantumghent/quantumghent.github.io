@@ -13,7 +13,7 @@ permalink: /bec/
     <!-- Menu -->
     <ol class="carousel-indicators">
         {% assign slide_number = 0 %}
-        {% for image in site.data.group-carousel %}
+        {% for image in site.data.bec-carousel %}
         {% if slide_number == 0 %}
             <li data-target="#carousel" data-slide-to="{{ slide_number }}" class="active"></li>
         {% else %}
@@ -25,7 +25,7 @@ permalink: /bec/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
     {% assign slide_number = 0 %}
-    {% for image in site.data.group-carousel %}
+    {% for image in site.data.bec-carousel %}
 
         {% if slide_number == 0 %}
             <div class="item active">
@@ -47,8 +47,7 @@ permalink: /bec/
     <span class="sr-only">Next</span>
   </a>
 </div>
-</div>
-<div align="justify">
+<!<div align="justify">>
 
 
 

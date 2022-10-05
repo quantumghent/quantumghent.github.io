@@ -1,9 +1,12 @@
-- image: bec/BEC transition.jpg
-- image: bec/Clara_en_Karel.jpg
-- image: bec/Karel_en_Evan.jpg
-- image: bec/MOT1.jpg
-- image: bec/MOTdark.jpg
-- image: bec/UnderConstruction.jpg
-- image: bec/Opstelling.jpg
-- image: bec/close_upsciencecell.jpg
-- image: bec/time_of_flight.png
+- image: bec/Opstelling.png
+- image: bec/Sciencecell.png
+- image: bec/MOT.png
+- image: bec/crosschipimaging.png
+- image: bec/computersetup.png
+- image: bec/tof.png
+- image: bec/transition.png
+- image: bec/Workinghard.png
+- image: bec/underconstruction.png
+- image: bec/Vescentlasers.png
+- image: bec/Sciencecell2.png
+- image: bec/MOTdark.png

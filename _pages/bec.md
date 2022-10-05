@@ -13,7 +13,7 @@ permalink: /bec/
 
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/bec/Vescentlasers.png" style="width:100%">
+
 
 
 

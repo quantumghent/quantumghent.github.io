@@ -50,5 +50,5 @@ Quantum Group @ UGent<br>
   </a>
 </div>
 <div align="justify">
-<p class="lead"><a href="/research/">Research</a> in the QuantumGroup@Ugent is focused on unravelling entanglement patterns in interacting quantum many-body systems.  We are developing the theory of quantum tensor networks, devise novel computational methods for optimizing them, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing. Very recently we have added an experimental research line on ultra-cold atoms, with our <a href="/bec/">first Belgian lab probing Bose-Einstein Condensates</a>.</p>
+<p class="lead"><a href="/research/">Research</a> in the QuantumGroup@Ugent is focused on unravelling entanglement patterns in interacting quantum many-body systems.  We are developing the theory of quantum tensor networks, devise novel computational methods for optimizing them, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing. Very recently we have added an experimental research line on ultra-cold atoms, with our <a href="/bec/">first Belgian that hostes a Bose-Einstein Condensate</a>.</p>
 </div>

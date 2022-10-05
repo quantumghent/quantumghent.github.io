@@ -23,7 +23,7 @@ permalink: /bec/
         {% endfor %}
     </ol>
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+    <div class="carousel-inner" style="width: 300px; height:200px", markdown="0">
     {% assign slide_number = 0 %}
     {% for image in site.data.bec-carousel %}
 

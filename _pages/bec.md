@@ -9,7 +9,7 @@ permalink: /bec/
 
 # Bose-Einstein Condensate Laboratory
 
-<head> <img src="quantumghent.github.io/images/bec/BEC_Transition_Met_Pijltjes[49].jpg"> </head>
+<body> <img src="quantumghent.github.io/images/bec/BEC_Transition_Met_Pijltjes[49].jpg"> </body>
 
 
 

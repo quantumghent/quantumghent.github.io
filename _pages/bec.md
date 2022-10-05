@@ -42,7 +42,7 @@ This will effectively turn our BEC into a quantum simulator, allowing for many e
         {% endfor %}
     </ol>
     <!-- Items -->
-    <div class="carousel-inner", markdown="0">
+    <div class="carousel-inner" markdown="0">
     {% assign slide_number = 0 %}
     {% for image in site.data.bec-carousel %}
 

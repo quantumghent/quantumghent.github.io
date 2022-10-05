@@ -9,6 +9,10 @@ permalink: /bec/
 
 # Bose-Einstein Condensate Laboratory
 
+
+
+
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/bec/Vescentlasers.png" style="width:100%">
 
 

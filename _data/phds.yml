@@ -59,11 +59,16 @@
   photo: FOTORobijn.jpg
   info: FWO PhD student since 2017
   email: robijn.vanhove@ugent.be
-
-- name: Tom Vieijra
+  
+- name: Kevin Vervoort
   photo: bb.jpg
-  info: FWO PhD student since 2018
-  email: tom.vieijra@UGent.be
+  info: PhD student since 2022
+  email: kevin.vervoort@ugent.be
+
+#- name: Tom Vieijra
+#  photo: bb.jpg
+#  info: FWO PhD student since 2018
+#  email: tom.vieijra@UGent.be
 
 #- name: Bastiaan Aelbrecht
 #  photo: FOTObastiaanaelbrecht.jpg

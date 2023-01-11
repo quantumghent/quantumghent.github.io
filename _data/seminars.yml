@@ -1,3 +1,10 @@
+- date: "2023-01-12T13:00:00"
+  end: false
+  speaker: "Dmitry Chernyak"
+  affiliation: "École Normale Supérieure"
+  title: "Algebraic Bethe ansatz for the open XXZ spin chain with non-diagonal boundary terms via \(U_q sl_2\) symmetry"
+  type: "lunchtalk"
+
 - date: "2022-10-01T13:00:00"
   end: false
   speaker: "Juraj Hasik"

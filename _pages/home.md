@@ -11,7 +11,7 @@ Quantum Group @ UGent<br>
 <small>Exploring Tensor Networks & Quantum Entanglement</small>
 </h1>
 </div>
-<div align="justify">
+<div align="center">
 <h3><a href="/positions/">New positions available</a></h3>
 </div>
 

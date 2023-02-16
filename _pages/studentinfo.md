@@ -9,16 +9,16 @@ permalink: /studentinfo/
 # Student Information
 
 ## Courses
-Our senior staff is responsible for several courses in the [bachelor](https://studiegids.ugent.be/2020/NL/FACULTY/C/BACH/CBFYST/CBFYST.html) and [master](https://studiegids.ugent.be/2020/NL/FACULTY/C/MABA/CMFYST/CMFYST.html) of  the "Physics and Astronomy" program of Ghent University.
+Our senior staff is responsible for several courses in the [bachelor](https://studiekiezer.ugent.be/bachelor-of-science-in-de-fysica-en-de-sterrenkunde/programma/2022) and [master](https://studiekiezer.ugent.be/master-of-science-in-de-fysica-en-de-sterrenkunde) of  the "Physics and Astronomy" program of Ghent University.
 
 #### Courses in the Bachelor of Science in Physics and Astronomy
 
-* [Elektromagnetisme](https://studiegids.ugent.be/2020/NL/studiefiches/C002133.pdf)
-* [Relativiteitstheorie](https://studiegids.ugent.be/2020/NL/studiefiches/C002462.pdf)
+* [Vector- en functieruimten](https://studiekiezer.ugent.be/studiefiche/nl/C004213/2022)
+* [Groepen en representaties](https://studiekiezer.ugent.be/studiefiche/nl/C004217/2022)
 
 #### Optional courses in the Master of Science in Physics and Astronomy
-* [Quantum Computing](https://studiegids.ugent.be/2020/NL/studiefiches/C003668.pdf)
-* [Strongly Correlated Quantum Systems](https://studiegids.ugent.be/2020/NL/studiefiches/C004071.pdf)
+* [Quantum Computing](https://studiekiezer.ugent.be/studiefiche/nl/C003668/2022)
+* [Strongly Correlated Quantum Systems](https://studiekiezer.ugent.be/studiefiche/en/C004071/2022)
 
 ## Master thesis
 

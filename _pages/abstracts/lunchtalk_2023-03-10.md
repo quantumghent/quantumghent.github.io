@@ -3,7 +3,7 @@ title: "QuantumGroup@UGent - Seminars"
 layout: textwithmath
 excerpt: "QuantumGroup@UGent -- Seminars."
 sitemap: false
-permalink: /seminars/lunchtalk_2023_03_10/
+permalink: /seminars/lunchtalk_2023-03-10/
 ---
 
 # Matrix product states and matrix algebras

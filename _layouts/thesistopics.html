@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<div class="well">
+  <div class="panel-heading">
+    <h4 class="panel-title">
+      <span class="glyphicon glyphicon-file"></span> 
+      Master thesis topics
+    </h4>
+  </div>
+
+  {% assign topics = site.masterthesis | where: "year", "2023" | group_by: "topic" %}
+
+  {% for topic in topics %}
+  <h4>{{ topic.name }}</h4>
+  <div class="panel-group" id="{{ topic.name  | replace: ' ' , '' }}" role="tablist" aria-multiselectable="true">
+    {% for item in topic.items %}
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="heading_{{ item.title  | replace: ' ' , '' }}">
+        <!-- <h4 class="panel-title"> -->
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#{{ topic.name  | replace: ' ' , '' }}" href="#{{ item.title  | replace: ' ' , '' }}" aria-expanded="false" aria-controls="collapseTwo">
+          {{ item.title }} &#8212; Promoter(s): {{ item.promoter }} &#8212; Supervisor(s): {{ item.supervisor }}
+        </a>
+        <!-- </h4> -->
+      </div>
+      <div id="{{ item.title  | replace: ' ' , '' }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading_{{ item.title  | replace: ' ' , '' }}">
+        <div class="panel-body">
+          {{ item.content }}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {%endfor%}
+
+</div>

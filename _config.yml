@@ -20,8 +20,7 @@ include:
 
 collections:
   masterthesis:
-    output: true
-    permalink: /:collection/:name
+    output: false
 
 sass:
   sass_dir: _sass

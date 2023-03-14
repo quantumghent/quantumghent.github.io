@@ -10,12 +10,16 @@ title: QuantumGroup@UGent
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website for the UGent Quantum Group of Jutho Haegeman and Frank Verstraete
-baseurl: ""
-url: ""
+baseurl: ''
+url: ''
 
 include:
   - .htaccess
   - _pages
+
+collections:
+  thesistopics:
+    output: false
 
 sass:
   sass_dir: _sass

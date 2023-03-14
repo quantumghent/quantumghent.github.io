@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="well">
+  <div class="panel-heading">
+    <h4 class="panel-title">
+      <span class="glyphicon glyphicon-file"></span> 
+      Masters thesis topics
+    </h4>
+  </div>
+
+  {% assign topics = site.thesistopics | where: "year", "2023" | group_by: "topic" %}
+  {% assign team = site.data.staff | concat: site.data.postdocs | concat: site.data.phds %}
+
+  {% for topic in topics %}
+  <h4>{{ topic.name }}</h4>
+  <div class="panel-group" id="{{ topic.name  | replace: ' ' , '' }}" role="tablist" aria-multiselectable="true">
+    {% for item in topic.items %}
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="heading_{{ item.title  | replace: ' ' , '' }}">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#{{ topic.name  | replace: ' ' , '' }}" href="#{{ item.title  | replace: ' ' , '' }}" aria-expanded="false" aria-controls="collapseTwo">
+          {{ item.title }} &#8212; Promoter(s): {{ item.promoter }} &#8212; Supervisor(s): {{ item.supervisor }}
+        </a>
+      </div>
+      <div id="{{ item.title  | replace: ' ' , '' }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading_{{ item.title  | replace: ' ' , '' }}">
+        <div class="panel-body">
+          {{ item.content }}
+          <div style="text-align:center">
+            {% assign contactaddress = nil %}
+            {% assign contactperson = team | where: "name", item.contact %}
+            {% if contactperson %}
+            Contact: {{ item.contact }} @ <a href="mailto:{{ contactperson[0].email }}">{{ contactperson[0].email }}</a>
+            {% else %}
+            Contact: {{ item.contact }}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {%endfor%}
+
+</div>

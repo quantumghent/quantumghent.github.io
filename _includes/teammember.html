@@ -1,0 +1,36 @@
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+{% if imagelocation %}
+{% assign image = member.photo | prepend: imagelocation | prepend: "/images/team/" %}
+{% else %}
+{% assign image = member.photo | prepend: "/images/team/" %}
+{% endif %}
+{% assign imagefile = site.static_files | where: "path", image | first %}
+{% if imagefile %}
+{% assign imagefile = imagefile.path  | prepend: site.baseurl | prepend: site.url %}
+{% else %}
+{% assign imagefile = "/images/team/bb.jpg"  | prepend: site.baseurl | prepend: site.url %}
+{% endif %}
+<img src="{{ imagefile }}" class="img-responsive" width="25%" style="float: left" />
+<h4>{{ member.name }}</h4>
+<h5><i>{{ member.info }}</i></h5>
+{%- capture icons -%}
+{% if member.email %}<a href="mailto:{{ member.email }}"><i class="fas fa-envelope-square fa-2x"></i></a>{% endif %} 
+{% if member.site %}<a href="{{ member.site }}"><span class="fa-stack fa-1x fa-stacked"><i class="fas fa-square fa-stack-2x"></i><i class="fas fa-home fa-stack-1x fa-stack-inner fas-inverse"></i></span></a> {% endif %}
+{% if member.orcid %}<a href="https://orcid.org/{{ member.orcid }}"><i class="ai ai-orcid-square ai-2x"></i></a> {% endif %} 
+{% if member.scholar %}<a href="https://scholar.google.com/citations?user={{ member.scholar }}"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %} 
+{% if member.github %}<a href="https://github.com/{{ member.github }}"><i class="fab fa-github-square fa-2x"></i></a> {% endif %} 
+{% if member.twitter %}<a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter-square fa-2x"></i></a> {% endif %} 
+{%- endcapture -%}
+{{ icons | strip_newlines }}
+</div>
+{% assign number_printed = number_printed | plus: 1 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}

@@ -1,0 +1,78 @@
+# TEMPLATE: spaces are important, order of fields is not, alphabetic order of entries
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  scholar:
+#  github:
+#  twitter:
+# - name: Bastiaan Aelbrecht
+#   photo: FOTObastiaanaelbrecht.jpg
+#   info: PhD student
+#   github: baaelbre
+#   twitter: BastiaanAB
+
+- name: Romain Couvreur
+  photo: FOTOromaincouvreur.jpg
+  info: PostDoc until 2022
+
+# - name: Marco Deweirdt
+#   photo: FOTOmarcodeweirdt.jpg
+#   info: PhD student
+
+- name: Xiaoyu Dong
+  photo: FOTOXiaoyu.jpeg
+  info: PostDoc
+  scholar: M0gdQvsAAAAJ
+
+- name: Klaas Gunst
+  photo: FOTOKlaasGunst.jpg
+  github: klgunst
+  scholar: HcB8TAcAAAAJ
+  email: klaasgunst@gmail.com
+  info: PostDoc
+
+- name: Markus Hauru
+  email: markus@mhauru.org
+  info: PostDoc
+  github: mhauru
+
+- name: Laurens Lootens
+  photo: FOTOLaurensLootens.jpg
+  info: FWO PhD student
+  # email: laurens.lootens@ugent.be
+  scholar: AriTElQAAAAJ
+
+- name: Gertian Roose
+  info: PhD student
+  # email: gertian.roose@ugent.be
+
+- name: Alexis Schotte
+  photo: bb.jpg
+  info: PhD student
+
+- name: Benoît Tuybens
+  photo: FOTOBenoitTuybensNew.jpg
+  info: FWO PhD student
+  scholar: anCVC0UAAAAJ
+  twitter: Benoit_Tuybens
+
+- name: Maarten Van Damme
+  info: PhD student
+  # email: maarten.vandamme@ugent.be
+  github: maartenvd
+
+- name: Bram Vanhecke
+  photo: FOTObram.jpg
+  info: PhD student
+  scholar: 9PVLvrcAAAAJ
+
+- name: Robijn Vanhove
+  photo: FOTORobijn.jpg
+  info: FWO PhD student
+  scholar: 57x3AZMAAAAJ
+  # email: robijn.vanhove@ugent.be
+
+- name: Tom Vieijra
+  photo: bb.jpg
+  info: FWO PhD student

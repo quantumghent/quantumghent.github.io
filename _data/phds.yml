@@ -17,12 +17,6 @@
   info: PhD student since 2020
   email: lukas.devos@ugent.be
 
-- name: Laurens Lootens
-  photo: FOTOLaurensLootens.jpg
-  info: FWO PhD student since 2018
-  email: laurens.lootens@ugent.be
-  scholar: AriTElQAAAAJ
-
 - name: Daan Maertens
   photo: FOTOdaanmaertens.jpeg
   info: PhD student since 2020
@@ -32,11 +26,6 @@
   photo: FOTOQuintenMortier.jpg
   info: PhD student since 2018
   email: quinten.mortier@ugent.be
-
-- name: Gertian Roose
-  photo: bb.jpg
-  info: PhD student since 2017
-  email: gertian.roose@ugent.be
 
 - name: Clara Tanghe
   photo: FOTOclaratanghe.jpg
@@ -49,17 +38,6 @@
   email: bram.vancraeynestdecuiper@ugent.be
   scholar: EucAISwAAAAJ
 
-- name: Maarten Van Damme
-  photo: bb.jpg
-  info: PhD student since 2017
-  email: maarten.vandamme@ugent.be
-  github: maartenvd
-
-- name: Robijn Vanhove
-  photo: FOTORobijn.jpg
-  info: FWO PhD student since 2017
-  email: robijn.vanhove@ugent.be
-  
 - name: Kevin Vervoort
   photo: bb.jpg
   info: PhD student since 2022
@@ -99,5 +77,3 @@
 #  photo: bb.jpg
 #  info: PhD student since 2016
 #  email: alexis.schotte@ugent.be
-
-

@@ -8,38 +8,44 @@
 #  twitter:
 
 - name: Lander Burgelman
+  sname: Burgelman
   photo: FOTOlanderburgelman.jpg
   info: FWO PhD student since 2020
   email: lander.burgelman@ugent.be
 
 - name: Lukas Devos
+  sname: Devos
   photo: FOTOlukasdevos.jpg
   info: PhD student since 2020
   email: lukas.devos@ugent.be
 
 - name: Daan Maertens
+  sname: Maertens
   photo: FOTOdaanmaertens.jpeg
   info: PhD student since 2020
   email: daan.maertens@ugent.be
 
 - name: Quinten Mortier
+  sname: Mortier
   photo: FOTOQuintenMortier.jpg
   info: PhD student since 2018
   email: quinten.mortier@ugent.be
 
 - name: Clara Tanghe
+  sname: Tanghe
   photo: FOTOclaratanghe.jpg
   info: FWO PhD student since 2021
   email: clara.tanghe@ugent.be
 
 - name: Bram Vancraeynest-De Cuiper
+  sname: Vancraeynest-De Cuiper
   photo: FOTObramvancraeynest.jpg
   info: FWO PhD student since 2021
   email: bram.vancraeynestdecuiper@ugent.be
   scholar: EucAISwAAAAJ
 
 - name: Kevin Vervoort
-  photo: bb.jpg
+  sname: Vervoort
   info: PhD student since 2022
   email: kevin.vervoort@ugent.be
 

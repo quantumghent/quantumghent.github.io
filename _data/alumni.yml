@@ -13,6 +13,7 @@
 #   twitter: BastiaanAB
 
 - name: Romain Couvreur
+  sname: Couvreur
   photo: FOTOromaincouvreur.jpg
   info: PostDoc until 2022
 
@@ -21,11 +22,13 @@
 #   info: PhD student
 
 - name: Xiaoyu Dong
+  sname: Dong
   photo: FOTOXiaoyu.jpeg
   info: PostDoc
   scholar: M0gdQvsAAAAJ
 
 - name: Klaas Gunst
+  sname: Gunst
   photo: FOTOKlaasGunst.jpg
   github: klgunst
   scholar: HcB8TAcAAAAJ
@@ -33,45 +36,52 @@
   info: PostDoc
 
 - name: Markus Hauru
+  sname: Hauru
   email: markus@mhauru.org
   info: PostDoc
   github: mhauru
 
 - name: Laurens Lootens
+  sname: Lootens
   photo: FOTOLaurensLootens.jpg
   info: FWO PhD student
   # email: laurens.lootens@ugent.be
   scholar: AriTElQAAAAJ
 
 - name: Gertian Roose
+  sname: Roose
   info: PhD student
   # email: gertian.roose@ugent.be
 
 - name: Alexis Schotte
-  photo: bb.jpg
+  sname: Schotte
   info: PhD student
 
 - name: Benoît Tuybens
+  sname: Tuybens
   photo: FOTOBenoitTuybensNew.jpg
   info: FWO PhD student
   scholar: anCVC0UAAAAJ
   twitter: Benoit_Tuybens
 
 - name: Maarten Van Damme
+  sname: Van Damme
   info: PhD student
   github: maartenvd
 
 - name: Bram Vanhecke
+  sname: Vanhecke
   photo: FOTObram.jpg
   info: PhD student
   scholar: 9PVLvrcAAAAJ
 
 - name: Robijn Vanhove
+  sname: Vanhove
   photo: FOTORobijn.jpg
   info: FWO PhD student
   scholar: 57x3AZMAAAAJ
   # email: robijn.vanhove@ugent.be
 
 - name: Tom Vieijra
-  photo: bb.jpg
+  sname: Vieijra
   info: FWO PhD student

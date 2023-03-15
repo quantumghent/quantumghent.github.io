@@ -11,7 +11,8 @@ permalink: /team/
 ## Senior staff
 
 {% assign number_printed = 0 %}
-{% for member in site.data.staff %}
+{% assign staff = site.data.staff | sort: "sname","last" %}
+{% for member in staff %}
 
 {% include teammember.html %}
 
@@ -26,7 +27,8 @@ permalink: /team/
 ## Postdoctoral researchers
 
 {% assign number_printed = 0 %}
-{% for member in site.data.postdocs %}
+{% assign postdocs = site.data.postdocs | sort: "sname","last" %}
+{% for member in postdocs %}
 
 {% include teammember.html %}
 
@@ -41,7 +43,8 @@ permalink: /team/
 ## PhD students
 
 {% assign number_printed = 0 %}
-{% for member in site.data.phds %}
+{% assign phds = site.data.phds | sort: "sname","last" %}
+{% for member in phds %}
 
 {% include teammember.html %}
 
@@ -57,7 +60,8 @@ permalink: /team/
 
 {% assign number_printed = 0 %}
 {% assign imagelocation = "alumni/"%}
-{% for member in site.data.alumni %}
+{% assign alumni = site.data.alumni | sort: "sname","last" %}
+{% for member in alumni %}
 
 {% include teammember.html %}
 

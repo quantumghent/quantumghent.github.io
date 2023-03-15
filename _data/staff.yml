@@ -1,4 +1,5 @@
 - name: Jutho Haegeman
+  sname: Haegeman
   photo: FOTOjutho.jpg
   info: Professor since 2017
   email: jutho.haegeman@ugent.be
@@ -6,6 +7,7 @@
   github: Jutho
 
 - name: Karel Van Acoleyen
+  sname: Van Acoleyen
   photo: FotoKarel.png
   info: Senior Researcher
   email: karel.vanacoleyen@ugent.be
@@ -13,6 +15,7 @@
   twitter: k_vanacoleyen
 
 - name: Frank Verstraete
+  sname: Verstraete
   photo: FOTOfrankverstraete.JPG
   info: Professor
   email: frank.verstraete@ugent.be

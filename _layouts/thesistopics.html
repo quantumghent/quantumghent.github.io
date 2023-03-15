@@ -22,7 +22,7 @@ layout: default
     {% assign titleid = item.title | strip_html | remove: ' ' | remove: ':' | remove: ';' | remove: '.' | remove: ',' | remove: '!' | remove: '&' | remove: '+' | remove: '-' | remove: '*' %}
     <div class="panel panel-default">
       <div class="panel-heading" role="tab" id="heading_{{ titleid }}">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#{{ topicod }}" href="#{{ titleid }}" aria-expanded="false" aria-controls="collapseTwo">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#{{ topicod }}" href="#{{ titleid }}" aria-expanded="false" aria-controls="{{titleid}}">
           {{ item.title }} &#8212; Promoter(s): {{ item.promoter }} &#8212; Supervisor(s): {{ item.supervisor }}
         </a>
       </div>
@@ -30,10 +30,10 @@ layout: default
         <div class="panel-body">
           {{ item.content }}
           <div style="text-align:center">
-            {% assign contactaddress = nil %}
-            {% assign contactperson = team | where: "name", item.contact %}
-            {% if contactperson %}
-            Contact: {{ item.contact }} @ <a href="mailto:{{ contactperson[0].email }}">{{ contactperson[0].email }}</a>
+            {%- assign contactperson = team | where: "name" , item.contact -%}
+            {% assign contactaddress = contactperson[0].email %}
+            {% if  contactaddress != '' and contactaddress != null %}
+            Contact: {{ item.contact }} @ <a href="mailto:{{ contactaddress }}">{{ contactaddress }}</a>
             {% else %}
             Contact: {{ item.contact }}
             {% endif %}

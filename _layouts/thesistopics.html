@@ -14,16 +14,19 @@ layout: default
   {% assign team = site.data.staff | concat: site.data.postdocs | concat: site.data.phds %}
 
   {% for topic in topics %}
+  {% assign topicid = topic.name | strip_html | remove: ' ' | remove: ':' %}
+
   <h4>{{ topic.name }}</h4>
-  <div class="panel-group" id="{{ topic.name  | replace: ' ' , '' }}" role="tablist" aria-multiselectable="true">
+  <div class="panel-group" id="{{ topicid }}" role="tablist" aria-multiselectable="true">
     {% for item in topic.items %}
+    {% assign titleid = item.title | strip_html | remove: ' ' | remove: ':' | remove: ';' | remove: '.' | remove: ',' | remove: '!' | remove: '&' | remove: '+' | remove: '-' | remove: '*' %}
     <div class="panel panel-default">
-      <div class="panel-heading" role="tab" id="heading_{{ item.title  | replace: ' ' , '' }}">
-        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#{{ topic.name  | replace: ' ' , '' }}" href="#{{ item.title  | replace: ' ' , '' }}" aria-expanded="false" aria-controls="collapseTwo">
+      <div class="panel-heading" role="tab" id="heading_{{ titleid }}">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#{{ topicod }}" href="#{{ titleid }}" aria-expanded="false" aria-controls="collapseTwo">
           {{ item.title }} &#8212; Promoter(s): {{ item.promoter }} &#8212; Supervisor(s): {{ item.supervisor }}
         </a>
       </div>
-      <div id="{{ item.title  | replace: ' ' , '' }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading_{{ item.title  | replace: ' ' , '' }}">
+      <div id="{{ titleid }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading_{{ titleid }}">
         <div class="panel-body">
           {{ item.content }}
           <div style="text-align:center">

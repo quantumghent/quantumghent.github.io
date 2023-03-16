@@ -15,6 +15,8 @@ An advantage of tensor network methods is that all of the relevant symmetries ca
 
 However, this conformal field theory remains highly elusive and is still poorly understood. In this project we will try to close in on the nature of the Haagerup CFT using tensor network methods.
 
+<p><img alt="The H3 Haagerup fusion category" src="/images/thesistopics/2023BVancraeynest1.png" style="float:right; width:300px" /></p>
+
 #### Goal
 
 The goal of this project is to numerically investigate lattice models constructed from the Haagerup categories using symmetric tensor networks. Any progress in this direction would be very valuable for the scientific community.
@@ -26,6 +28,9 @@ The project can definitely be tailored to the student's interests and wishes.
 The project will be carried out in an international research environment. This project is well suited for students with a keen interest in mathematical physics and numerical simulations. However, a background in category theory or tensor networks is not required.
 
 [1] J. I. Cirac, D. Pérez-García, N. Schuch, F. Verstraete, arXiv:2011.12127
+
 [2] quantumghent.github.io/software
+
 [3] R. Vanhove, et al., arXiv:2110.03532
+
 [4] T.C. Huang, et al., arXiv:2110.03008

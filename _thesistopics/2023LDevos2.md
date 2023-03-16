@@ -1,7 +1,7 @@
 ---
-title: "Contraction Ordering of Tensor Networks in Quantum Simulation: Lessons from the Google Sycamore Experiment"
-promoter: Jutho Haegeman
-supervisor: Lukas Devos
+title: "Exploring Topological Phases in the Hubbard Model Using Tensor Networks and Automatic Differentiation"
+promoter: Jutho Haegeman, Laurens Vanderstraeten
+supervisor: Lukas Devos, Laurens Vanderstraeten
 contact: Lukas Devos
 topic: "Algorithms and Numerics"
 year: "2023"

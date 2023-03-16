@@ -3,7 +3,7 @@ title: "Exploring Topological Phases in the Hubbard Model Using Tensor Networks 
 promoter: Jutho Haegeman, Laurens Vanderstraeten
 supervisor: Lukas Devos, Laurens Vanderstraeten
 contact: Lukas Devos
-topic: "Algorithms and Numerics"
+topic: "Computational Quantum Many-Body Physics"
 year: "2023"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dualities in one-dimensional quantum lattice models: open boundary conditions"
+title: "Dualities in two-dimensional quantum lattice models: non-trivial examples"
 promoter: Clement Delcamp, Frank Verstraete
 supervisor: Clement Delcamp, Laurens Lootens
 contact: Clement Delcamp

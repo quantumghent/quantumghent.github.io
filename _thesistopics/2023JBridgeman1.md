@@ -3,7 +3,7 @@ title: "A framework for topological subsystem codes beyond Paulis"
 promoter: Jacob Bridgeman
 supervisor: Jacob Bridgeman, Lander Burgelman
 contact: Jacob Bridgeman
-topic: "Quantum information"
+topic: "Quantum Information"
 year: "2023"
 ---
 

@@ -3,7 +3,7 @@ title: "Contraction Ordering of Tensor Networks in Quantum Simulation: Lessons f
 promoter: Jutho Haegeman
 supervisor: Lukas Devos
 contact: Lukas Devos
-topic: "Algorithms and Numerics"
+topic: "Computational Quantum Many-Body Physics"
 year: "2023"
 ---
 
@@ -19,5 +19,5 @@ The Google Sycamore circuit is a quantum computer consisting of 53 qubits that w
 
 The goal of this master thesis is to investigate the use of reinforcement learning algorithms to optimize the contraction order of tensor networks, with a focus on applications in quantum simulation. Reinforcement learning is a type of machine learning that involves training an agent to take actions in an environment in order to maximize a reward signal. In the context of tensor networks, the agent would be tasked with choosing which pairs of tensors to contract first, and the reward signal would be some measure of the efficiency or accuracy of the resulting contraction. The thesis would involve implementing and testing different reinforcement learning algorithms on a variety of tensor networks, including those used in the Google Sycamore experiment, and comparing their performance to traditional contraction ordering methods. The ultimate aim would be to develop a new approach that can outperform existing methods and lead to faster and more accurate computations of quantum systems. The work proposed in this master thesis could build upon the lessons learned from the Sycamore experiment and further advance the development of tensor network algorithms for quantum simulation.
 
-\[1\] Arute, Frank, Kunal Arya, Ryan Babbush, Dave Bacon, Joseph C. Bardin, Rami Barends, Rupak Biswas, et al. 2019. “Quantum Supremacy Using a Programmable Superconducting Processor.” Nature 574 (7779): 505–10. [https://doi.org/10.1038/s41586-019-1666-5](https://doi.org/10.1038/s41586-019-1666-5).
+\[1\] Arute, Frank, Kunal Arya, Ryan Babbush, Dave Bacon, Joseph C. Bardin, Rami Barends, Rupak Biswas, et al. 2019. “Quantum Supremacy Using a Programmable Superconducting Processor.” Nature 574 (7779): 505–10. [https://doi.org/10.1038/s41586-019-1666-5](https://doi.org/10.1038/s41586-019-1666-5).\
 \[2\] Pan, Feng, and Pan Zhang. 2021. “Simulating the Sycamore Quantum Supremacy Circuits.” ArXiv:2103.03074 [Physics, Physics:Quant-Ph], March. [http://arxiv.org/abs/2103.03074](http://arxiv.org/abs/2103.03074).

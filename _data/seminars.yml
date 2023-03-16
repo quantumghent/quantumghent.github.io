@@ -5,6 +5,13 @@
   title: "Efficient higher-order matrix product operators for time evolution"
   type: "lunchtalk"
 
+- date: "2023-03-16T14:00:00"
+  end: false
+  speaker: "Nir Navon"
+  affiliation: "Yale University"
+  title: "Ultracold fermions in an optical box"
+  type: "lunchtalk"
+  
 - date: "2023-03-10T13:00:00"
   end: false
   speaker: "Tim Seynnaeve"

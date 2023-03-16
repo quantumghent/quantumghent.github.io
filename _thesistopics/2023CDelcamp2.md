@@ -20,7 +20,7 @@ These formal concepts were recently made very concrete using the language of <st
 
 #### Goal
 
-The goal of this project is to extend the results of [3] to the case of open boundary conditions. After familiarizing themselves with the relevant algebraic structures and the corresponding tensor network graphical calculus, the student will develop a systematic theory of super-selection sectors in the case of open boundary conditions and consider explicit examples of great physical interest. This project is well suited for students interested in mathematical physics.
+The goal of this project is to generalize the framework presented in [3] and apply it to probe the space of two-dimensional quantum lattice models, which remains largely unexplored. After familiarizing themself with the relevant algebraic structures, the student will extend the framework of [3] so as to accommodate a broader class of quantum lattice models, before considering explicit examples of great physical interest such as (2+1)d Heisenberg-like models. This project is well suited for students interested in mathematical physics. 
 
 1. D. Gaiotto, A Kapustin, N. Seiberg, B. Willett, <em>Generalized Global Symmetries</em>, [arXiv:1412.5148](https://arxiv.org/abs/1412.5148)
 2. L. Lootens, C. Delcamp, G. Ortiz, F. Verstraete, <em>Dualities in one-dimensional quantum lattice models: symmetric Hamiltonians and matrix product operator intertwiners</em>, [arXiv: 2112.09091](http://arxiv.org/abs/2112.09091)

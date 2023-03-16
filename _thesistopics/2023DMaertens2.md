@@ -3,7 +3,7 @@ title: "Decay of the false vacuum"
 promoter: Karel Van Acoleyen
 supervisor: Daan Maertens
 contact: Karel Van Acoleyen
-topic: "Lattice Quantum Field thoery"
+topic: "Lattice Quantum Field theory"
 year: "2023"
 ---
 

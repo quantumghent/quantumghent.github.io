@@ -3,7 +3,7 @@ title: "Quantum computation with defects in topological phases"
 promoter: Jacob Bridgeman, Frank Verstraete
 supervisor: Jacob Bridgeman, Lander Burgelman
 contact: Jacob Bridgeman
-topic: "Quantum information"
+topic: "Quantum Information"
 year: "2023"
 ---
 

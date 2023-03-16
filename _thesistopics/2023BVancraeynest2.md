@@ -3,7 +3,7 @@ title: "Spatial symmetries in tensor networks"
 promoter: -Frank Verstraete
 supervisor: Bram Vancraeynest
 contact: Bram Vancraeynest-De Cuiper
-topic: "Condensed matter theory"
+topic: "Condensed Matter Theory"
 year: "2023"
 ---
 

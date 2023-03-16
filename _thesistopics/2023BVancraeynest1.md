@@ -27,10 +27,10 @@ The project can definitely be tailored to the student's interests and wishes.
 
 The project will be carried out in an international research environment. This project is well suited for students with a keen interest in mathematical physics and numerical simulations. However, a background in category theory or tensor networks is not required.
 
-[1] J. I. Cirac, D. Pérez-García, N. Schuch, F. Verstraete, arXiv:2011.12127
+[1] J. I. Cirac, D. Pérez-García, N. Schuch, F. Verstraete, [arXiv:2011.12127](https://arxiv.org/abs/2011.12127)
 
-[2] quantumghent.github.io/software
+[2] [Software page](quantumghent.github.io/software/)
 
-[3] R. Vanhove, et al., arXiv:2110.03532
+[3] R. Vanhove, et al., [arXiv:2110.03532](https://arxiv.org/abs/2110.03532)
 
-[4] T.C. Huang, et al., arXiv:2110.03008
+[4] T.C. Huang, et al., [arXiv:2110.03008](https://arxiv.org/abs/2110.03008)

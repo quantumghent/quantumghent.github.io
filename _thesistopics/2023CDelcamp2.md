@@ -24,4 +24,4 @@ The goal of this project is to extend the results of [3] to the case of open bou
 
 1. D. Gaiotto, A Kapustin, N. Seiberg, B. Willett, <em>Generalized Global Symmetries</em>, [arXiv:1412.5148](https://arxiv.org/abs/1412.5148)
 2. L. Lootens, C. Delcamp, G. Ortiz, F. Verstraete, <em>Dualities in one-dimensional quantum lattice models: symmetric Hamiltonians and matrix product operator intertwiners</em>, [arXiv: 2112.09091](http://arxiv.org/abs/2112.09091)
-3. C. Delcamp, A. Tiwari, <em>Higher categorical symmetries and gauging in two-dimensional spin systems</em>, [arXiv:2301.01259] (https://arxiv.org/abs/2301.01259)
+3. C. Delcamp, A. Tiwari, <em>Higher categorical symmetries and gauging in two-dimensional spin systems</em>, [arXiv:2301.01259](https://arxiv.org/abs/2301.01259)

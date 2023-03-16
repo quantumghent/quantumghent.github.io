@@ -3,7 +3,7 @@ title: "Hawking radiation for interacting theories"
 promoter: Karel Van Acoleyen, Nick Bultinck
 supervisor: Daan Maertens
 contact: Karel Van Acoleyen
-topic: "Lattice Quantum Field thoery"
+topic: "Lattice Quantum Field theory"
 year: "2023"
 ---
 

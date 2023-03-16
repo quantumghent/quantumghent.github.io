@@ -9,7 +9,7 @@ year: "2023"
 
 #### Context
 
-<p><img alt="duality operator" src="/images/thesistopics/2023CDelcamp2-1.png" style="float:right; height:369px; width:473px"/></p>
+<p><img alt="duality operator" src="/images/thesistopics/2023CDelcamp2-1.png" style="float:right; max-width:100%"/></p>
 
 An extremely powerful and ubiquitous concept in theoretical physics is that of <strong>duality</strong>, loosely defined as a non-trivial physical equivalence between distinct theories. The existence of a duality is typically rooted in a common mathematical structure underlying seemingly very different theories. One appeal of dualities is that certain computations that are difficult in a given theory may be much easier in a dual theory. Throughout history, dualities have played a significant role in producing numerous landmark results, spanning from groundbreaking solutions to statistical mechanical problems to opening up new avenues in the study of quantum gravity.
 

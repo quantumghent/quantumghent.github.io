@@ -41,12 +41,12 @@
   info: PostDoc
   github: mhauru
 
-- name: Laurens Lootens
-  sname: Lootens
-  photo: FOTOLaurensLootens.jpg
-  info: FWO PhD student
+  #- name: Laurens Lootens
+  #sname: Lootens
+  #photo: FOTOLaurensLootens.jpg
+  #info: FWO PhD student
   # email: laurens.lootens@ugent.be
-  scholar: AriTElQAAAAJ
+  #scholar: AriTElQAAAAJ
 
 - name: Gertian Roose
   sname: Roose

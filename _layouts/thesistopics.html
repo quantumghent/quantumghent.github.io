@@ -23,7 +23,8 @@ layout: default
     <div class="panel panel-default">
       <div class="panel-heading" role="tab" id="heading_{{ titleid }}">
         <a class="collapsed" role="button" data-toggle="collapse" data-parent="#{{ topicod }}" href="#{{ titleid }}" aria-expanded="false" aria-controls="{{titleid}}">
-          {{ item.title }} &#8212; Promoter(s): {{ item.promoter }} &#8212; Supervisor(s): {{ item.supervisor }}
+          <p>{{ item.title }}</p>
+          <p class="indenttext">Promoter(s): {{ item.promoter }} &#8212; Supervisor(s): {{ item.supervisor }}</p>
         </a>
       </div>
       <div id="{{ titleid }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading_{{ titleid }}">

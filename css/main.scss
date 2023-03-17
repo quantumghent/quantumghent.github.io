@@ -27,8 +27,6 @@ figcaption {
     margin-bottom: 20px;
 }
 
-
-
 /* Top navigation bar */
 
 
@@ -1607,3 +1605,11 @@ A VERTICAL event
   .fc-theme-bootstrap a:not([href]) {
     color: inherit; /* natural color for navlinks */
   }
+
+
+	.indenttext {
+			font-size: 90%;
+	    @media (min-width: $screen-sm-min) {
+	        margin-left:3rem;
+	    }
+	}

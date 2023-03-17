@@ -22,7 +22,7 @@ This technique can also be applied to quantum systems with fermionic degrees of 
 
 
 
-![A specific tensor-based RG implementation](/images/thesistopics/2023-Haegeman1.png)
+![A specific tensor-based RG implementation](/images/thesistopics/2023JHaegeman1.png)
 
 #### Goal
 

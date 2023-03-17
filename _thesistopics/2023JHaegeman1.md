@@ -30,12 +30,21 @@ It is the goal of this thesis to address some (or all) of the above questions. W
 
 
 \[1\] Kadanoff, L. P. (1966). Scaling laws for Ising models near T c. Physics Physique Fizika, 2(6), 263.
-\[2\] Efrati, E., Wang, Z., Kolan, A., & Kadanoff, L. P. (2014). Real-space renormalization in statistical mechanics. Reviews of Modern Physics, 86(2), 647. [arXiv:1301.6323](http://arxiv.org/abs/arXiv:1301.6323)
-\[3\] Levin, M., & Nave, C. P. (2007). Tensor renormalization group approach to two-dimensional classical lattice models. Physical review letters, 99(12), 120601. [arXiv:cond-mat/0611687](http://arxiv.org/abs/cond-mat/0611687)
-\[4\] Xie, Z. Y., Chen, J., Qin, M. P., Zhu, J. W., Yang, L. P., & Xiang, T. (2012). Coarse-graining renormalization by higher-order singular value decomposition. Physical Review B, 86(4), 045139. [arXiv:1201.1144](http://arxiv.org/abs/arXiv:1201.1144)
-\[5\] Evenbly, G., & Vidal, G. (2015). Tensor network renormalization. Physical review letters, 115(18), 180405. [arXiv:1412.0732](http://arxiv.org/abs/arXiv:1412.0732)
-\[6\] Hauru, M., Delcamp, C., & Mizera, S. (2018). Renormalization of tensor networks using graph-independent local truncations. Physical Review B, 97(4), 045111. [arXiv:1709.07460](http://arxiv.org/abs/arXiv:1709.07460)
-\[7\] Gu, Z. C., & Wen, X. G. (2009). Tensor-entanglement-filtering renormalization approach and symmetry-protected topological order. Physical Review B, 80(15), 155131. [arXiv:0903.1069](http://arxiv.org/abs/arXiv:0903.1069)
+
+\[2\] Efrati, E., Wang, Z., Kolan, A., & Kadanoff, L. P. (2014). Real-space renormalization in statistical mechanics. Reviews of Modern Physics, 86(2), 647. [arXiv:1301.6323](http://arxiv.org/abs/arXiv:1301.6323).
+
+\[3\] Levin, M., & Nave, C. P. (2007). Tensor renormalization group approach to two-dimensional classical lattice models. Physical review letters, 99(12), 120601. [arXiv:cond-mat/0611687](http://arxiv.org/abs/cond-mat/0611687).
+
+\[4\] Xie, Z. Y., Chen, J., Qin, M. P., Zhu, J. W., Yang, L. P., & Xiang, T. (2012). Coarse-graining renormalization by higher-order singular value decomposition. Physical Review B, 86(4), 045139. [arXiv:1201.1144](http://arxiv.org/abs/arXiv:1201.1144).
+
+\[5\] Evenbly, G., & Vidal, G. (2015). Tensor network renormalization. Physical review letters, 115(18), 180405. [arXiv:1412.0732](http://arxiv.org/abs/arXiv:1412.0732).
+
+\[6\] Hauru, M., Delcamp, C., & Mizera, S. (2018). Renormalization of tensor networks using graph-independent local truncations. Physical Review B, 97(4), 045111. [arXiv:1709.07460](http://arxiv.org/abs/arXiv:1709.07460).
+
+\[7\] Gu, Z. C., & Wen, X. G. (2009). Tensor-entanglement-filtering renormalization approach and symmetry-protected topological order. Physical Review B, 80(15), 155131. [arXiv:0903.1069](http://arxiv.org/abs/arXiv:0903.1069).
+
 \[8\] Ueda, A., & Oshikawa, M. (2023). Finite-size and finite bond dimension effects of tensor network renormalization. arXiv preprint [arXiv:2302.06632](http://arxiv.org/abs/arXiv:2302.06632).
+
 \[9\] Gu, Z. C., Verstraete, F., & Wen, X. G. (2010). Grassmann tensor network states and its renormalization for strongly correlated fermionic and bosonic states. arXiv preprint [arXiv:1004.2563](http://arxiv.org/abs/arXiv:1004.2563).
-\[10\] Bultinck, N., Williamson, D. J., Haegeman, J., & Verstraete, F. (2017). Fermionic matrix product states and one-dimensional topological phases. Physical Review B, 95(7), 075108. [arXiv:1610.07849](http://arxiv.org/abs/arXiv:1610.07849)
+
+\[10\] Bultinck, N., Williamson, D. J., Haegeman, J., & Verstraete, F. (2017). Fermionic matrix product states and one-dimensional topological phases. Physical Review B, 95(7), 075108. [arXiv:1610.07849](http://arxiv.org/abs/arXiv:1610.07849).

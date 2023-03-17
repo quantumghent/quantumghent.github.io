@@ -1,0 +1,23 @@
+{% assign number_printed_mod_n = number_printed | modulo: 4 %}
+
+{% if number_printed_mod_n == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-3 col-sm-2-2 clearfix">
+<h5>{{ member.name }}</h5>
+<h6><i>{{ member.info }}</i></h6>
+{%- capture icons -%}
+{% if member.email %}<a href="mailto:{{ member.email }}"  style="font-size: .75em;"><i class="fas fa-envelope-square fa-2x"></i></a>{% endif %} 
+{% if member.site %}<a href="{{ member.site }}"  style="font-size: .75em;"><span class="fa-stack fa-1x fa-stacked"><i class="fas fa-square fa-stack-2x"></i><i class="fas fa-home fa-stack-1x fa-stack-inner fas-inverse" ></i></span></a> {% endif %}
+{% if member.orcid %}<a href="https://orcid.org/{{ member.orcid }}"  style="font-size: .75em;"><i class="ai ai-orcid-square ai-2x"></i></a> {% endif %} 
+{% if member.scholar %}<a href="https://scholar.google.com/citations?user={{ member.scholar }}"  style="font-size: .75em;"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %} 
+{% if member.github %}<a href="https://github.com/{{ member.github }}"  style="font-size: .75em;"><i class="fab fa-github-square fa-2x"></i></a> {% endif %} 
+{% if member.twitter %}<a href="https://twitter.com/{{ member.twitter }}"  style="font-size: .75em;"><i class="fab fa-twitter-square fa-2x"></i></a> {% endif %} 
+{%- endcapture -%}
+{{ icons | strip_newlines }}
+</div>
+{% assign number_printed = number_printed | plus: 1 %}
+{% if number_printed_mod_n == 3 %}
+</div>
+{% endif %}

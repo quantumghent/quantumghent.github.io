@@ -59,16 +59,16 @@ permalink: /team/
 ## Former members
 
 {% assign number_printed = 0 %}
-{% assign imagelocation = "alumni/"%}
 {% assign alumni = site.data.alumni | sort: "sname","last" %}
+
 {% for member in alumni %}
 
-{% include teammember.html %}
+{% include alumnimember.html %}
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+{% assign number_printed_mod_n = number_printed | modulo: 4 %}
+{% if number_printed_mod_n == 3 %}
 
 </div>
 {% endif %}

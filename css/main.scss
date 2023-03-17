@@ -1613,3 +1613,9 @@ A VERTICAL event
 	        margin-left:3rem;
 	    }
 	}
+
+	.col-sm-2-2 {
+    @media (min-width: $screen-sm-min) {
+        width: 21%;
+    }
+	}

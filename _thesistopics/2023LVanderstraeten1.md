@@ -31,5 +31,3 @@ In the course of this proposal, we hope that the student will develop a performa
 [2] Wang, L.; Shih, E.-M.; Ghiotto, A.; Xian, L.; Rhodes, D. A.; Tan, C.; Claassen, M.; Kennes, D. M.; Bai, Y.; Kim, B.; Watanabe, K.; Taniguchi, T.; Zhu, X.; Hone, J.; Rubio, A.; Pasupathy, A. N.; Dean, C. R., Correlated electronic phases in twisted bilayer transition metal dichalcogenides. Nat. Mater. 2020, 19 (8), 861-866.
 
 [3] Wilhelm Kadow, Laurens Vanderstraeten, and Michael Knap, Hole spectral function of a chiral spin liquid in the triangular lattice Hubbard model, Phys. Rev. B 106, 094417 (2022)
-
-<p style="text-align: center;"><img alt="Defects in top codes" src="/images/thesistopics/2023JBridgeman2-1.png" style="height:200px; width:417px; padding:1rem" /></p>

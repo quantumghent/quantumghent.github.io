@@ -1,9 +1,9 @@
 ---
-title: "Investigating electron correlation effects via advanced many-body techniques to describe the photovoltaic properties of complex perovskites
+title: "Investigating electron correlation effects via advanced many-body techniques to describe the photovoltaic properties of complex perovskites"
 promoter: Veronique Van Speybroeck, Frank Verstraete
 supervisor: Laurens Vanderstraeten, Tom Braeckevelt
 contact: Laurens Vanderstraeten
-topic: "Correlated quantum materials"
+topic: "Correlated Quantum Materials"
 year: "2023"
 ---
 

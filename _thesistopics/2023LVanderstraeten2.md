@@ -3,7 +3,7 @@ title: "Downfolding the high dimensional space to perform quantum-mechanical sim
 promoter: Veronique Van Speybroeck, Frank Verstraete
 supervisor: Laurens Vanderstraeten
 contact: Laurens Vanderstraeten
-topic: "Correlated quantum materials"
+topic: "Correlated Quantum Materials"
 year: "2023"
 ---
 

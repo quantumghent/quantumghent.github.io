@@ -19,7 +19,10 @@ Tensor network states form a variational class of wavefunctions that have proven
 
 The goal of this thesis project is to gain a deeper understanding of gauge invariance at the level of quantum states, as well as using these insights for simulating lattice gauge theories. As a first step towards this goal, the student would familiarize themselves with the framework of lattice gauge theory and the characterization of gauge invariance of quantum states in terms of tensor networks. Expanding upon this from the theoretical side, the student could explore the relation between symmetries and their gauging in lattice models to tensor network realizations of higher-form symmetries and dualities. More concretely, a numerical aspect to the project would be to combine the established theoretical framework with novel variational methods developed in the group to tackle the simulation of higher dimensional lattice gauge theories. Finally, there could also be an additional technological aspect to considering lattice gauge theories from this angle. Just as insights from the use of quantum simulators have recently been adapted to tensor network studies, the concepts and algorithms studied in this thesis could in turn be investigated in a quantum hardware context.
 
-[1] John B. Kogut. An introduction to lattice gauge theory and spin systems. [Reviews of Modern Physics 51, 659](https://doi.org/10.1103/RevModPhys.51.659) (1979)\
-[2] Boye Buyens, Jutho Haegeman, Karel Van Acoleyen, Henri Verschelde, and Frank Verstraete. Matrix Product States for Gauge Field Theories. [Physical Review Letters 113, 091601](https://arxiv.org/abs/1312.6654) (2013)\
-[3] Jutho Haegeman, Karel Van Acoleyen, Norbert Schuch, J. Ignacio Cirac, and Frank Verstraete. Gauging Quantum States: From Global to Local Symmetries in Many-Body Systems. [Physical Review X 5, 011024](https://arxiv.org/abs/1407.1025) (2015)\
+[1] John B. Kogut. An introduction to lattice gauge theory and spin systems. [Reviews of Modern Physics 51, 659](https://doi.org/10.1103/RevModPhys.51.659) (1979)
+
+[2] Boye Buyens, Jutho Haegeman, Karel Van Acoleyen, Henri Verschelde, and Frank Verstraete. Matrix Product States for Gauge Field Theories. [Physical Review Letters 113, 091601](https://arxiv.org/abs/1312.6654) (2013)
+
+[3] Jutho Haegeman, Karel Van Acoleyen, Norbert Schuch, J. Ignacio Cirac, and Frank Verstraete. Gauging Quantum States: From Global to Local Symmetries in Many-Body Systems. [Physical Review X 5, 011024](https://arxiv.org/abs/1407.1025) (2015)
+
 [4] [quantumghent.github.io/software](https://quantumghent.github.io/software)

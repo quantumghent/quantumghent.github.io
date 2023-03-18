@@ -3,7 +3,7 @@ title: "Crystal symmetries in tensor networks: simulating the Hubbard model on t
 promoter: Jutho Haegeman, Veronique Van Speybroeck
 supervisor: Laurens Vanderstraeten
 contact: Laurens Vanderstraeten
-topic: "Correlated quantum materials"
+topic: "Correlated Quantum Materials"
 year: "2023"
 ---
 

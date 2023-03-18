@@ -1,0 +1,16 @@
+---
+title: "Improved modelling of twisted bilayer graphene: the effect symmetry breaking terms and an application of the GW approximation"
+promoter: Nick Bultinck
+supervisor: Nick Bultinck
+contact: Nick Bultinck
+topic: "Correlated Quantum Materials"
+year: "2023"
+---
+
+#### Context
+
+wo-dimensional atomically-thin materials such as graphene and transition metal dichalcogenides (e.g. WSe2, MoTe2, ...) have been studied intensively both experimentally and theoretically since the seminal Nobel-prize winning work of Novoselov and Geim in 2004. However, initially most properties of these 2D materials could be explained using conventional nearly-free electron theories. This changed completely in 2018, when the group of Prof. Jarillo-Herrero at MIT showed that graphene becomes superconducing by combining different layers with a small rotational misalignment. Furthermore, twisted bilayer graphene shows insulating behaviour which (based on symmetry arguments) can only be explained by invoking strong interaction effects, i.e. these insulating states are strongly correlated and evade a simple free-electron description. This has opened an entirely new and fascinating world of strongly correlated electron physics, with a close connection between theory and experiment. For more details about twisted bilayer graphene, see this news feature published in Nature.
+
+#### Goal
+
+The model which is commonly used to study twisted bilayer graphene is called the 'Bistritzer-MacDonald' (BM) model. It is partially based on input from ab initio electronic structure calculations such as DFT. However, the conventional BM model is known to have a couple of shortcomings. For example, the experiments performed on twisted bilayer graphene show a clear particle-hole asymmetry: different physics is observed if the material is doped away from charge neutrality with electrons or with holes. The BM model, on the other hand, is particle-hole symmetric. It therefore misses some terms which explicitly break this particle-hole (PH) symmetry. Recently, improved ab initio calculations which take the relaxation of the graphene layers into account have identified candidate terms which can be added to the BM model to break the PH symmetry. In this thesis, the student will examine the effect of these terms on the interacting phase diagram of twisted bilayer graphene. In particular, a central question is how the phase diagram of the conventional BM model changes with the addition of these terms, and whether the proposed terms are sufficient to explain the strong particle-hole asymmetry observed in experiment. Furthermore, for the studies away from integer filling, where twisted bilayer graphene is metallic, a Hartree-Fock + GW approximation will be used to take the effect of screening into account. At this point, the effect of screening on the symmetry-breaking orders away from integer fillings has not been examined in detail. A complete study of the effects of both particle-hole symmetry breaking and screening would significantly enhance our current theoretical understanding of twisted bilayer graphene, and would be a perfect stepping stone towards developing a theory for the unconventional superconductivity observed in this material.

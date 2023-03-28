@@ -3,7 +3,7 @@ title: "QuantumGroup@UGent - Seminars"
 layout: textwithmath
 excerpt: "QuantumGroup@UGent -- Seminars."
 sitemap: false
-permalink: /seminars/lunchtalk_2023-03-30/
+permalink: /seminars/lunchtalk_2023-03-31/
 ---
 
 # Efficient higher-order matrix product operators for time evolution

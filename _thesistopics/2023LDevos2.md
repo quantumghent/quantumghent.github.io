@@ -1,5 +1,5 @@
 ---
-title: "Exploring Topological Phases in the Hubbard Model Using Tensor Networks and Automatic Differentiation"
+title: "Exploring topological phases in the Hubbard model using tensor networks and automatic differentiation"
 promoter: Jutho Haegeman, Laurens Vanderstraeten
 supervisor: Lukas Devos, Laurens Vanderstraeten
 contact: Lukas Devos

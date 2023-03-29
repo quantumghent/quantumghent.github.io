@@ -1,5 +1,5 @@
 ---
-title: "Contraction Ordering of Tensor Networks in Quantum Simulation: Lessons from the Google Sycamore Experiment"
+title: "Contraction ordering of tensor networks in quantum simulation: lessons from the Google Sycamore experiment"
 promoter: Jutho Haegeman
 supervisor: Lukas Devos
 contact: Lukas Devos

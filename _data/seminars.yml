@@ -5,6 +5,20 @@
   title: "Efficient higher-order matrix product operators for time evolution"
   type: "lunchtalk"
 
+- date: "2023-03-30T13:00:00"
+  end: false
+  speaker: "Kadir Çeven"
+  affiliation: "Bilkent University, Turkey"
+  title: "tba"
+  type: "lunchtalk"
+
+- date: "2023-03-30T11:00:00"
+  end: false
+  speaker: "Linhao Li"
+  affiliation: "University of Tokyo"
+  title: "tba"
+  type: "lunchtalk"
+
 - date: "2023-03-16T14:00:00"
   end: false
   speaker: "Nir Navon"

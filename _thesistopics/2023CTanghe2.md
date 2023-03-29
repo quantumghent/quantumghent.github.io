@@ -24,9 +24,11 @@ See for example Ref [1] where they consider attractive light fields.
 Having achieved the first milestone in our lab of creating a BEC, confined purely by the chip, we will now perturb those condensates with the laser projection system to study out-of-equilibrium processes. 
 In particular our AOD system, with its high temporal resolution, lends itself perfectly to the case of periodic driving, also known as Floquet dynamics.
 
-<p><img alt="Science chamber" src="/images/thesistopics/2023CTanghe1.png" style="float:left; width:300px" /></p>
-<p><img alt="BEC transition" src="/images/thesistopics/2023CTanghe2.gif" style="float:center; width:300px" /></p>
-<p><img alt="Projected UGent logo" src="/images/thesistopics/2023CTanghe3.jpg" style="float:right; width:300px" /></p>
+<p align="middle">
+  <img alt="Science chamber" src="/images/thesistopics/2023CTanghe1.png" width="300px" />
+  <img alt="BEC transition" src="/images/thesistopics/2023CTanghe2.gif" width="300px" /> 
+  <img alt="Projected UGent logo" src="/images/thesistopics/2023CTanghe3.jpg" style="float:right; width:300px" />
+</p>
 
 From left to right:
 

@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "Spatial symmetries in tensor networks"
 promoter: -Frank Verstraete
 supervisor: Bram Vancraeynest

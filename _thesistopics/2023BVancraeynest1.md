@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "A Haagerup phase diagram"
 promoter: Jacob Bridgeman, Frank Verstraete
 supervisor: Bram Vancraeynest, Jacob Bridgeman, Kevin Vervoort

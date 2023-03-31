@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "Quantum Key Distribution with continuous variables"
 promoter: Karel Van Acoleyen, Xin Yin
 supervisor: Cédric Bruynsteen, Kevin Vervoort

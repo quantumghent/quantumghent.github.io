@@ -1,0 +1,61 @@
+
+page[size="A3"] {
+}
+
+.thesisqr{
+  display: none;
+}
+
+.grouptitle{
+  text-align: center;
+  color: #1E64C8 !important;
+}
+
+.thesistitle{
+  text-align: center;
+  color: #1E64C8 !important;
+}
+
+.topictitle{
+  text-align: center;
+  color: #1E64C8 !important;
+}
+
+hr.thesisrule{
+  clear: both;
+  border: none;
+  border-top: solid .75mm #1E64C8;
+}
+
+
+@media print {
+  body, page[size="A3"] {
+    width: 297mm;
+    height: 420mm;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  .container-fluid {
+    max-width: 297mm;
+  }
+
+  h3.grouptitle{
+    margin-left: auto;
+    display: inline-block;
+    transform: translate(61%,0);
+  } 
+
+  .thesisqr{
+    float: right;
+    width:20mm;
+    display:inline-block;
+    transform: translate(0,-50%);
+  }
+  .thesisheader{
+    transform: translate(0,75%);
+  }
+
+}

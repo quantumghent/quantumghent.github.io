@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "A framework for topological subsystem codes beyond Paulis"
 promoter: Jacob Bridgeman
 supervisor: Jacob Bridgeman, Lander Burgelman

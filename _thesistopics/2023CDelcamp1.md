@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "Dualities in one-dimensional quantum lattice models: open boundary conditions"
 promoter: Clement Delcamp, Frank Verstraete
 supervisor: Clement Delcamp, Laurens Lootens

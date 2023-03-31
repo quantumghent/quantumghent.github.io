@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "A tensor network approach to higher dimensional lattice gauge theories"
 promoter: Frank Verstraete
 supervisor: Lander Burgelman

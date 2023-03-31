@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "A Tensor Network approach to Quantum Repeaters"
 promoter: Frank Verstraete, Karel Van Acoleyen
 supervisor: Kevin Vervoort

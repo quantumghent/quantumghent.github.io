@@ -1,4 +1,6 @@
 ---
+
+layout: thesistopic
 title: "Tensor renormalisation group for fermions"
 promoter: Jutho Haegeman
 supervisor: Daan Maertens
@@ -18,9 +20,6 @@ This technique can also be applied to quantum systems with fermionic degrees of 
 * For relativistic quantum field theories, there are various ways to discretise the action or Hamiltonian, and thus to encode the partition function as a tensor network. This is particularly relevant in relation to the notion of the fermion doubling problem, i.e. the fact that discretising Dirac fermions necessarily gives rise to spurious low-energy degrees of freedom. These can be avoided in the one-dimensional Dirac Hamiltonian when discretising space, and it is an interesting question how this relates to the partition function where the action is isotropically discretised in (1+1) dimensional spacetime.
 
 * Finally, different flavors of (1+1)-dimensional massless Dirac fermions can interact in a particular way that shares several features with quantum chromodynamics. This is known as the Gross-Neveu model. In particular, the Gross-Neveu interaction term is marginally relevant and results in dynamical mass generation. The behaviour of such marginally relevant interactions in tensor-based RG schemes is not well understood, and could be investigated further using the techniques from Ref \[7\].
-
-
-
 
 ![A specific tensor-based RG implementation](/images/thesistopics/2023JHaegeman1.png)
 

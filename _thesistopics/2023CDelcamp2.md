@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "Dualities in two-dimensional quantum lattice models: non-trivial examples"
 promoter: Clement Delcamp, Frank Verstraete
 supervisor: Clement Delcamp, Laurens Lootens

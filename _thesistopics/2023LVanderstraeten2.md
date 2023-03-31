@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "Downfolding the high dimensional space to perform quantum-mechanical simulations for strongly correlated functional materials"
 promoter: Veronique Van Speybroeck, Frank Verstraete
 supervisor: Laurens Vanderstraeten

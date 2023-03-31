@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "From symmetry-broken insulators to unconventional superconductivity in twisted bilayer graphene"
 promoter: Nick Bultinck
 supervisor: Nick Bultinck

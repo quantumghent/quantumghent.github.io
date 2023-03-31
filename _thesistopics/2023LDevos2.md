@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "Exploring Topological Phases in the Hubbard Model Using Tensor Networks and Automatic Differentiation"
 promoter: Jutho Haegeman, Laurens Vanderstraeten
 supervisor: Lukas Devos, Laurens Vanderstraeten

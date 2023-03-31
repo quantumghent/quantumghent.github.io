@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "Investigating electron correlation effects via advanced many-body techniques to describe the photovoltaic properties of complex perovskites"
 promoter: Veronique Van Speybroeck, Frank Verstraete
 supervisor: Laurens Vanderstraeten, Tom Braeckevelt

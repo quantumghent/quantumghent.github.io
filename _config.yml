@@ -19,7 +19,8 @@ include:
 
 collections:
   thesistopics:
-    output: false
+    layout: thesistopic
+    output: true
 
 sass:
   sass_dir: _sass

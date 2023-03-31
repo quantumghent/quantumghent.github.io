@@ -1,4 +1,5 @@
 ---
+layout: thesistopic
 title: "Efficient simulation of near-term quantum processors"
 promoter: Frank Verstraete
 supervisor: Lander Burgelman, Lukas Devos

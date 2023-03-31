@@ -33,7 +33,7 @@
     {%- assign contactperson = team | where: "name" , page.contact -%}
     {% assign contactaddress = contactperson[0].email %}
     {% if  contactaddress != '' and contactaddress != null %}
-    Contact: {{ page.contact }} @ {{ contactaddress }}
+    Contact: {{ page.contact }} ({{ contactaddress }})
     {% else %}
     Contact: {{ page.contact }}
     {% endif %}

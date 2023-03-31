@@ -34,7 +34,7 @@ layout: default
             {%- assign contactperson = team | where: "name" , item.contact -%}
             {% assign contactaddress = contactperson[0].email %}
             {% if  contactaddress != '' and contactaddress != null %}
-            Contact: {{ item.contact }} @ <a href="mailto:{{ contactaddress }}">{{ contactaddress }}</a>
+            Contact: {{ item.contact }} (<a href="mailto:{{ contactaddress }}">{{ contactaddress }}</a>)
             {% else %}
             Contact: {{ item.contact }}
             {% endif %}

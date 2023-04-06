@@ -1,5 +1,4 @@
 ---
-layout: thesistopic
 title: "Floquet dynamics of Bose-Einstein condensates: from theory to experiment"
 promoter: Karel Van Acoleyen
 supervisor: Karel Van Acoleyen, Clara Tanghe

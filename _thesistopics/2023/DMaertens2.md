@@ -1,5 +1,4 @@
 ---
-layout: thesistopic
 title: "Decay of the false vacuum"
 promoter: Karel Van Acoleyen
 supervisor: Daan Maertens

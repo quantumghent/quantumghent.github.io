@@ -1,5 +1,4 @@
 ---
-layout: thesistopic
 title: "Improved modelling of twisted bilayer graphene: the effect symmetry breaking terms and an application of the GW approximation"
 promoter: Nick Bultinck
 supervisor: Nick Bultinck

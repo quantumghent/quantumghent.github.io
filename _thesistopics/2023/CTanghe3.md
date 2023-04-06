@@ -1,5 +1,4 @@
 ---
-layout: thesistopic
 title: "Machine learning for Bose-Einstein condensates"
 promoter: Karel Van Acoleyen
 supervisor: Karel Van Acoleyen, Clara Tanghe

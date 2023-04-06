@@ -1,5 +1,4 @@
 ---
-layout: thesistopic
 title: "Quantum computation with defects in topological phases"
 promoter: Jacob Bridgeman, Frank Verstraete
 supervisor: Jacob Bridgeman, Lander Burgelman

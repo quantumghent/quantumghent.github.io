@@ -1,5 +1,4 @@
 ---
-layout: thesistopic
 title: "Low-dimensional spin transport with tensor networks"
 promoter: Jutho Haegeman
 supervisor: Wei Tang

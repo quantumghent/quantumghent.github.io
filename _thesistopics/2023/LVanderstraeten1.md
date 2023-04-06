@@ -1,5 +1,4 @@
 ---
-layout: thesistopic
 title: "Crystal symmetries in tensor networks: simulating the Hubbard model on the triangular lattice"
 promoter: Jutho Haegeman, Veronique Van Speybroeck
 supervisor: Laurens Vanderstraeten

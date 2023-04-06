@@ -1,5 +1,4 @@
 ---
-layout: thesistopic
 title: "Hawking radiation for interacting theories"
 promoter: Karel Van Acoleyen, Nick Bultinck
 supervisor: Daan Maertens

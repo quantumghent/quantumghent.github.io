@@ -1,5 +1,4 @@
 ---
-layout: thesistopic
 title: "Symmetry enriched quantum critical points without conformal symmetry"
 promoter: Frank Verstraete
 supervisor: Rui-Zhen Huang

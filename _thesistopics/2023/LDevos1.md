@@ -1,5 +1,4 @@
 ---
-layout: thesistopic
 title: "Contraction ordering of tensor networks in quantum simulation: lessons from the Google Sycamore experiment"
 promoter: Jutho Haegeman
 supervisor: Lukas Devos

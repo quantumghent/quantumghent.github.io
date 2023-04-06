@@ -1,5 +1,4 @@
 ---
-layout: thesistopic
 title: "Exploiting symmetry and tensor networks to reveal the electronic structure of d2-d8 transition metal complexes"
 promoter: Veronique Van Speybroeck, Jutho Haegeman
 supervisor: Laurens Vanderstraeten

@@ -1,5 +1,4 @@
 ---
-layout: thesistopic
 title: "Quantum control theory for Bose-Einstein condensates"
 promoter: Karel Van Acoleyen, Alain Sarlette
 supervisor: Karel Van Acoleyen, Clara Tanghe

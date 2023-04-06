@@ -1,6 +1,4 @@
 ---
-
-layout: thesistopic
 title: "Tensor renormalisation group for fermions"
 promoter: Jutho Haegeman
 supervisor: Daan Maertens

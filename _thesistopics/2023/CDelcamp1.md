@@ -15,7 +15,7 @@ In the context of quantum lattice models, dualities can be thought of as maps be
 
 These formal concepts were recently made very concrete using the language of <strong>tensor networks</strong>. Amongst other things, tensor networks can be used to translate abstract category theoretic notions into actual lattice operators. In addition to shedding light on seemingly familiar dualities, this had led to new physical discoveries [2]. It has been a long-standing open problem to construct a general framework for relating the spectra of dual theories to each other. This problem was recently solved for the case of one-dimensional quantum lattice models with closed symmetry-twisted boundary conditions [3]. But the case of open boundary conditions remains very much an open question.
 
-<p style="text-align: center;"><img alt="duality operator" src="/images/thesistopics/2023CDelcamp1-1.png" style="max-width:100%"/></p>
+<p style="text-align: center;"><img alt="duality operator" src="/images/thesistopics/2023/CDelcamp1-1.png" style="max-width:100%"/></p>
 
 #### Goal
 

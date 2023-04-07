@@ -19,9 +19,9 @@ The first milestone of creating a BEC in our lab was achieved by starting from r
 This is very time-consuming and the interplay between multiple parameters could be missed. In contrast, machine learning techniques have been proven to give better results than what was found manually in the same systems, yielding larger atom clouds with better fractions of number of condensed atoms over thermal atoms [1,2].
 
 <p align="middle">
-  <img alt="Science chamber" src="/images/thesistopics/2023CTanghe1.png" width="300px" />
-  <img alt="BEC transition" src="/images/thesistopics/2023CTanghe2.gif" width="300px" />
-  <img alt="ML cost example" src="/images/thesistopics/2023CTanghe4.png" style="float:right; width:300px" />
+  <img alt="Science chamber" src="/images/thesistopics/2023/CTanghe1.png" width="300px" />
+  <img alt="BEC transition" src="/images/thesistopics/2023/CTanghe2.gif" width="300px" />
+  <img alt="ML cost example" src="/images/thesistopics/2023/CTanghe4.png" style="float:right; width:300px" />
 </p>
 
 From left to right:

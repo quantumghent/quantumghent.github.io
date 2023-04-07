@@ -23,4 +23,4 @@ The goal of this thesis is to investigate how the inclusion of defects influence
 2. [E. Dennis, A. Kitaev, A. Landahl, and J. Preskill, Topological quantum memory, Journal of Mathematical Physics 43, 4452, arXiv:quant-ph/0110143 (2002)](https://arxiv.org/abs/quant-ph/0110143)
 3. [K. Laubscher, D. Loss, and JR Wootton, Universal quantum computation in the surface code using non-abelian islands, Physical Review A 100, 012338, arXiv:1811.06738 (2019)](https://arxiv.org/abs/1811.06738)
 
-<p style="text-align: center;"><img alt="Defects in top codes" src="/images/thesistopics/2023JBridgeman2-1.png" style="height:200px; width:417px; padding:1rem" /></p>
+<p style="text-align: center;"><img alt="Defects in top codes" src="/images/thesistopics/2023/JBridgeman2-1.png" style="height:200px; width:417px; padding:1rem" /></p>

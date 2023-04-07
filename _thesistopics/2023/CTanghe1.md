@@ -18,9 +18,9 @@ One option to achieve this is via adiabatic evolution: by slowly changing the tr
 However, time is costly in cold atom experiments - the typical BEC lifetime is one second - so other faster strategies for driving the potential are necessary. It is for this type of problem that control theory can make a big difference.
 
 <p align="middle">
-  <img alt="Science chamber" src="/images/thesistopics/2023CTanghe1.png" width="300px" />
-  <img alt="Alice and Bob" src="/images/thesistopics/2023CTanghe5.jpg" width="300px" />
-  <img alt="Split condensate" src="/images/thesistopics/2023CTanghe6.png" width="300px" />
+  <img alt="Science chamber" src="/images/thesistopics/2023/CTanghe1.png" width="300px" />
+  <img alt="Alice and Bob" src="/images/thesistopics/2023/CTanghe5.jpg" width="300px" />
+  <img alt="Split condensate" src="/images/thesistopics/2023/CTanghe6.png" width="300px" />
  </p>
 
 #### Goal

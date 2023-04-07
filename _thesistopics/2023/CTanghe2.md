@@ -25,9 +25,9 @@ Having achieved the first milestone in our lab of creating a BEC, confined purel
 In particular our AOD system, with its high temporal resolution, lends itself perfectly to the case of periodic driving, also known as Floquet dynamics.
 
 <p align="middle">
-  <img alt="Science chamber" src="/images/thesistopics/2023CTanghe1.png" width="300px" />
-  <img alt="BEC transition" src="/images/thesistopics/2023CTanghe2.gif" width="300px" />
-  <img alt="Projected UGent logo" src="/images/thesistopics/2023CTanghe3.jpg" style="float:right; width:300px" />
+  <img alt="Science chamber" src="/images/thesistopics/2023/CTanghe1.png" width="300px" />
+  <img alt="BEC transition" src="/images/thesistopics/2023/CTanghe2.gif" width="300px" />
+  <img alt="Projected UGent logo" src="/images/thesistopics/2023/CTanghe3.jpg" style="float:right; width:300px" />
 </p>
 
 From left to right:

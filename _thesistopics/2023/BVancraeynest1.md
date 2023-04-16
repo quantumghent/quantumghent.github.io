@@ -15,7 +15,7 @@ An advantage of tensor network methods is that all of the relevant symmetries ca
 
 However, this conformal field theory remains highly elusive and is still poorly understood. In this project we will try to close in on the nature of the Haagerup CFT using tensor network methods.
 
-<p><img alt="The H3 Haagerup fusion category" src="/images/thesistopics/2023BVancraeynest1.png" style="float:right; width:300px" /></p>
+<p><img alt="The H3 Haagerup fusion category" src="/images/thesistopics/2023/BVancraeynest1.png" style="float:right; width:300px" /></p>
 
 #### Goal
 

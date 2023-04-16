@@ -19,7 +19,16 @@ include:
 
 collections:
   thesistopics:
-    output: false
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "thesistopics" # a collection in your site, in plural form
+    values:
+      layout: "thesistopic"
+      permalink: /thesistopics/:year/:title
 
 sass:
   sass_dir: _sass

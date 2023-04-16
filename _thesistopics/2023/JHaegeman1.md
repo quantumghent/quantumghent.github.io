@@ -19,10 +19,9 @@ This technique can also be applied to quantum systems with fermionic degrees of 
 
 * Finally, different flavors of (1+1)-dimensional massless Dirac fermions can interact in a particular way that shares several features with quantum chromodynamics. This is known as the Gross-Neveu model. In particular, the Gross-Neveu interaction term is marginally relevant and results in dynamical mass generation. The behaviour of such marginally relevant interactions in tensor-based RG schemes is not well understood, and could be investigated further using the techniques from Ref \[7\].
 
-
-
-
-![A specific tensor-based RG implementation](/images/thesistopics/2023JHaegeman1.png)
+<div align="center">
+![A specific tensor-based RG implementation](/images/thesistopics/2023/JHaegeman1.png)
+</div>
 
 #### Goal
 

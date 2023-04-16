@@ -15,7 +15,7 @@ The main difficulty to practically implement these quantum technologies is the c
 
 The framework of tensor networks finds its origin in the field of quantum information and provides the ideal language to study entanglement. Furthermore it allows for a plethora of numerical tools to perform simulations of quantum mechanical systems. One particular instance of tensor networks are matrix product states (MPS). These MPS form a variational class of quantum states for one dimensional systems. MPS are very succesful in capturing the groundstates of many different spin chains. One way to construct such an MPS is by considering different 'virtual' pairs of maximally entangled particles. Then we can perform local projections to project these pairs to a 'physical' particle level. This construction is called the projected entangled pairs construction. In the case of 1D systems this construction is very reminiscent of a quantum channel made out of quantum repeaters. This is the central starting point of the thesis subject.
 
-<p><img alt="A Quantum Repeater Scheme" src="/images/thesistopics/2023KVervoort1.png" style="float:right; width:500px" /></p>
+<p><img alt="A Quantum Repeater Scheme" src="/images/thesistopics/2023/KVervoort1.png" style="float:right; width:500px" /></p>
 
 #### Goal
 

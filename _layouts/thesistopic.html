@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+{% include thesistopicsheet_head.html %}
+{% assign team = site.data.staff | concat: site.data.postdocs | concat: site.data.phds %}
+
+<body>
+
+  {% include navbar_title.html %}
+
+  <div class="container-fluid">
+  <page size="A3">
+
+  <div class="thesisheader">
+  <h3 class="grouptitle"> THESISONDERWERPEN QUANTUM GROUP </h3>
+  <img class="thesisqr" src="/images/thesistopics/thesisqr.png">
+  </div>
+  
+  <hr class="thesisrule">
+
+  <h1 class="thesistitle"> {{ page.title }} </h1>
+
+  <h4 class="topictitle"> Topic: {{ page.topic }} </h4>
+
+  <h5 class="thesistitle"> Promoter(s): {{ page.promoter }} </h5>
+  <h5 class="thesistitle"> Supervisor(s): {{ page.supervisor }} </h5>
+
+
+  {{ page.content }}
+
+  <hr class="thesisrule">
+
+  <div style="text-align:center">
+    {%- assign contactperson = team | where: "name" , page.contact -%}
+    {% assign contactaddress = contactperson[0].email %}
+    {% if  contactaddress != '' and contactaddress != null %}
+    Contact: {{ page.contact }} ({{ contactaddress }})
+    {% else %}
+    Contact: {{ page.contact }}
+    {% endif %}
+  </div>
+
+  <hr class="thesisrule">
+
+</page>
+</div>
+</body>
+</html>

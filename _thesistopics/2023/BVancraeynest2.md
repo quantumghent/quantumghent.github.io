@@ -1,6 +1,6 @@
 ---
 title: "Spatial symmetries in tensor networks"
-promoter: -Frank Verstraete
+promoter: Frank Verstraete
 supervisor: Bram Vancraeynest
 contact: Bram Vancraeynest-De Cuiper
 topic: "Condensed Matter Theory"

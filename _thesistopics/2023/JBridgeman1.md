@@ -17,7 +17,7 @@ Closely related to stabilizer codes, but with more quantum computational power, 
 
 #### Goal
 
-<p><img alt="topological subsystem codes in 3D" src="/images/thesistopics/2023JBridgeman1-1.gif" style="float:right; height:200px; width:200px" /></p>
+<p><img alt="topological subsystem codes in 3D" src="/images/thesistopics/2023/JBridgeman1-1.gif" style="float:right; height:200px; width:200px" /></p>
 
 One of the reasons stabilizer codes are so well understood is their clear mathematical description. The central goal of this project is to devise an analogous formalism for topological subsystem codes.
 

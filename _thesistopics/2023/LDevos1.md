@@ -13,7 +13,9 @@ Tensor networks are an important tool for dealing with high-dimensional quantum 
 
 The Google Sycamore circuit is a quantum computer consisting of 53 qubits that was used to claim quantum supremacy in 2019, by completing a task that Google claimed would take a state-of-the-art supercomputer 10.000 years to finish \[1\]. Nevertheless, through a tensor network algorithm, it was shown that even on a small computational cluster the results were classically reproducible \[2\]. The success of this experiment demonstrated the potential of tensor networks as a tool for quantum simulation, and highlighted the importance of optimizing contraction orders for efficient and accurate computations.
 
-![Contracting a Tensor Network](/images/thesistopics/2023LDevos1-1.gif)
+<div align="center">
+![Contracting a Tensor Network](/images/thesistopics/2023/LDevos1-1.gif)
+</div>
 
 #### Goal
 

@@ -3,7 +3,7 @@ title: "QuantumGroup@UGent - Seminars"
 layout: textwithmath
 excerpt: "QuantumGroup@UGent -- Seminars."
 sitemap: false
-permalink: /seminars/lunchtalk_2023-04-28_1/
+permalink: /seminars/morningtalk_2023-04-28/
 ---
 
 # Differentiable programming tensor networks for Kitaev magnets

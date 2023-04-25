@@ -3,7 +3,7 @@ title: "QuantumGroup@UGent - Seminars"
 layout: textwithmath
 excerpt: "QuantumGroup@UGent -- Seminars."
 sitemap: false
-permalink: /seminars/lunchtalk_2023-04-28_2/
+permalink: /seminars/lunchtalk_2023-04-28/
 ---
 
 # PEPS optimization with AD: the perils of an easy tool 

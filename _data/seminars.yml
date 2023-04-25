@@ -1,6 +1,14 @@
+- date: "2023-04-28T13:00:00"
+  end: false
+  speaker: "Bram Vanhecke"
+  affiliation: "University of Vienna, Austria"
+  title: "PEPS optimization with AD: the perils of an easy tool"
+  type: "lunchtalk"
+
 - date: "2023-04-28T09:00:00"
   end: false
   speaker: "Xing-Yu Zhang"
+  affiliation: "Chinese Academy of Sciences, Beijing"
   title: "Differentiable programming tensor networks for Kitaev magnets"
   type: "lunchtalk"
 

@@ -11,25 +11,22 @@ layout: default
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
   <script>
+    let eventsArray = [];
+  </script>
+  {% for seminar in site.seminars %}
+  {% assign speaker = seminar.speaker | prepend: ' (' | append: ')' %}
+  {% assign title = seminar.title | append: speaker %}
+  {% assign start = seminar.date %}
+  {% assign end = false %}
+  {% assign url = seminar.url %}
+  <script>
+    var startDate = new Date(Date.parse('{{ start }}'));
+    var endDate = new Date(Date.parse('{{ end }}'));
+    eventsArray.push({title: '{{ title }}', start: startDate, url: '{{ url }}', end: endDate});
+  </script>
+  {% endfor %}
 
-    var eventsArray = [];
-    var files = {{ site.data.seminars | jsonify }};
-    for(var i = 0, len = files.length; i < len; i++){
-      var titleArray =  files[i].title + ' (' + files[i].speaker + ')';
-      var startDay = new Date(Date.parse(files[i].date));
-      var endDay = new Date(Date.parse(files[i].end));
-
-      // some hackings to achieve 1 -> "01" etc (always 2character strings)
-      var pad = "00"
-      var Monthstring = (startDay.getMonth()+1).toString()
-      var Monthstring = pad.substring(0, pad.length - Monthstring.length) + Monthstring
-      var Daystring = startDay.getDate().toString()
-      var Daystring = pad.substring(0, pad.length - Daystring.length) + Daystring
-      var url = "{{ site.url }}{{ site.baseurl }}/seminars/" + files[i].type + "_" 
-      + startDay.getFullYear() + "-" + Monthstring + "-" + Daystring + "/";
-      eventsArray.push({title: titleArray, start: startDay, url: url, end: endDay});
-    }
-
+  <script>
     document.addEventListener('DOMContentLoaded', function () {
       var calendarEl = document.getElementById('calendar');
 
@@ -49,9 +46,9 @@ layout: default
       });
 
       calendar.render();
-    });
-
+    })
   </script>
+
 </head>
 <style>
   #calendar {

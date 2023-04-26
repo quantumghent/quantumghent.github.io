@@ -1,64 +1,64 @@
-- date: January 3, 2023
-  headline: '<a href="https://arxiv.org/abs/2301.01259"> <i> Higher categorical symmetries and gauging in two-dimensional spin systems </i></a><br> Clement Delcamp, Apoorv Tiwari'
-- date: November 7, 2022
+- date: 2022-11-07
   headline: '<a href="https://arxiv.org/abs/2211.03777"> <i> Dualities in one-dimensional quantum lattice models: topological sectors </i></a><br> Laurens Lootens, Clement Delcamp, Frank Verstraete'
-- date: November 3, 2022
+- date: 2023-01-03
+  headline: '<a href="https://arxiv.org/abs/2301.01259"> <i> Higher categorical symmetries and gauging in two-dimensional spin systems </i></a><br> Clement Delcamp, Apoorv Tiwari'
+- date: 2022-11-03
   headline: '<a href="https://arxiv.org/abs/2211.01947"> <i> Invertible bimodule categories and generalized Schur orthogonality </i></a><br> Jacob Bridgeman, Laurens Lootens, Frank Verstraete'
-- date: June 23, 2022
+- date: 2022-06-23
   headline: '<a href="https://arxiv.org/abs/2206.11788"> <i> Partial lifting of degeneracy in the J1−J2−J3 Ising antiferromagnet on the kagome lattice </i></a><br> Jeanne Colbois, Bram Vanhecke, Laurens Vanderstraeten, Andrew Smerald, Frank Verstraete, Frédéric Mila'
-- date: April 13, 2022
+- date: 2022-04-13
   headline:  '<a href="https://arxiv.org/abs/2204.06583"> <i>  Hawking radiation on the lattice as universal (Floquet) quench dynamics </i></a><br> Daan Maertens, Nick Bultinck, Karel Van Acoleyen'
-- date: March 2, 2022
+- date: 2022-03-02
   headline:  '<a href="https://arxiv.org/abs/2203.01337"> <i>  Dynamical quantum phase transitions in spin-S U(1) quantum link models </i></a><br> Maarten Van Damme, Torsten V. Zache, Debasish Banerjee, Philipp Hauke, Jad C. Halimeh'
-- date: February 25, 2022
+- date: 2022-02-25
   headline:  '<a href="https://arxiv.org/abs/2202.12880"> <i>  One-dimensional SPT phases protected by frieze symmetries </i></a><br> Bram Vancraeynest-De Cuiper, Nicolas Dewolf, Jutho Haegeman, Frank Verstraete'
-- date: February 18, 2022
+- date: 2022-02-18
   headline:  '<a href="https://arxiv.org/abs/2202.09279"> <i>  The Haldane gap in the SU(3) [3 0 0] Heisenberg chain </i></a><br> Lukas Devos, Laurens Vanderstraeten, Frank Verstraete'
-- date: February 17, 2022
+- date: 2022-02-17
   headline:  '<a href="https://arxiv.org/abs/2202.08177"> <i>  Generative modeling with projected entangled-pair states </i></a><br> Tom Vieijra, Laurens Vanderstraeten, Frank Verstraete'
-- date: February 16, 2022
+- date: 2022-02-16
   headline:  '<a href="http://arxiv.org/abs/2202.07597"> <i> Contrasting pseudo-criticality in the classical two-dimensional Heisenberg and RP<sup>2</sup> models: zero-temperature phase transition versus finite-temperature crossover </i></a><br> Lander Burgelman, Lukas Devos, Bram Vanhecke, Frank Verstraete, Laurens Vanderstraeten'
-- date: February 15, 2022
+- date: 2022-02-15
   headline:  '<a href="http://arxiv.org/abs/2202.06937"> <i> Matrix quantum groups as matrix product operator representations of Lie groups </i></a><br> Romain Couvreur, Laurens Lootens, Frank Verstraete'
-- date: December 24, 2021
+- date: 2021-12-24
   headline:  '<a href="https://arxiv.org/abs/2112.12757"> <i> Mapping between Morita equivalent string-net states with a constant depth quantum circuit</i></a><br> Laurens Lootens, Bram Vancraeynest-De Cuiper, Norbert Schuch, Frank Verstraete'
-- date: December 17, 2021
+- date: 2021-12-17
   headline:  '<a href="https://arxiv.org/abs/2112.09091"> <i> Category-theoretic recipe for dualities in one-dimensional quantum lattice models</i></a><br> Laurens Lootens, Clement Delcamp, Gerardo Ortiz, Frank Verstraete'
-- date: December 2, 2021
+- date: 2021-12-02
   headline:  '<a href="https://arxiv.org/abs/2112.01507"> <i> Simulating thermal density operators with cluster expansions and tensor networks</i></a><br> Bram Vanhecke, David Devoogdt, Frank Verstraete, Laurens Vanderstraeten'
-- date: November 29, 2021
+- date: 2021-11-29
   headline:  '<a href="https://arxiv.org/abs/2111.14652"> <i> The Chiral Gross-Neveu model on the lattice via a Landau-forbidden phase transition</i></a><br> Gertian Roose, Jutho Haegeman, Karel Van Acoleyen, Laurens Vanderstraeten, Nick Bultinck'
-- date: October 25, 2021
+- date: 2021-10-25
   headline:  '<a href="https://arxiv.org/abs/2110.12726"> <i> Variational contractions of projected entangled-pair states</i></a><br> Laurens Vanderstraeten, Lander Burgelman, Boris Ponsioen, Maarten Van Damme, Bram Vanhecke, Philippe Corboz, Jutho Haegeman, Frank Verstraete'
-- date: October 8, 2021
+- date: 2021-10-08
   headline:  '<a href="https://arxiv.org/abs/2110.03532"> <i> A critical lattice model for a Haagerup conformal field theory</i></a><br> Robijn Vanhove, Laurens Lootens, Maarten Van Damme, Ramona Wolf, Tobias Osborne, Jutho Haegeman, Frank Verstraete'
-- date: September 15, 2021
+- date: 2021-09-15
   headline:  '<a href="https://arxiv.org/abs/2109.07356"> <i> Direct sampling of projected entangled-pair states</i></a><br> Tom Vieijra, Jutho Haegeman, Frank Verstraete, Laurens Vanderstraeten'
-- date: July 21, 2021
+- date: 2021-07-21
   headline:  '<a href="https://arxiv.org/abs/2107.11177"> <i> Topological aspects of the critical three-state Potts model</i></a><br> Robijn Vanhove, Laurens Lootens, Hong-Hao Tu, Frank Verstraete'
-- date: July 12, 2021
+- date: 2021-07-12
   headline:  '<a href="https://arxiv.org/abs/2107.05265"> <i> Variational methods for characterizing matrix product operator symmetries</i></a><br> Anna Francuz, Laurens Lootens, Frank Verstraete, Jacek Dziarmaga'
-- date: April 26, 2021
+- date: 2021-04-26
   headline:  '<a href="https://arxiv.org/abs/2104.10564"> <i> Entanglement scaling for λϕ^4 </i></a><br> B. Vanhecke, F. Verstraete, K. Van Acoleyen'
-- date: March 31, 2021
+- date: 2021-03-31
   headline: Master thesis topics for 2021-2022 are available <a href="studentinfo/thesis.html">here</a>.
-- date: February 22, 2021
+- date: 2021-02-22
   headline:  '<a href="https://arxiv.org/abs/2102.10982"> <i> Efficient MPS methods for extracting spectral information on rings and cylinders </i></a><br> M. Van Damme, R. Vanhove, J. Haegeman, F. Verstraete, L.Vanderstraeten'
-- date: February 8, 2021
+- date: 2021-02-08
   headline: '<a href="https://arxiv.org/abs/2102.03143"> <i> A scaling hypothesis for projected entangled-pair states </i></a><br> B. Vanhecke, J. Hasik, F. Verstraete, L. Vanderstraeten'
-- date: December 9, 2020
+- date: 2020-12-09
   headline: '<a href="https://arxiv.org/abs/2012.04610"> <i> Quantum error correction thresholds for the universal Fibonacci Turaev-Viro code </i></a><br> A. Schotte, G. Zhu, L. Burgelman, F. Verstraete'
-- date: November 25, 2020
+- date: 2020-11-25
   headline: 'New paper: <a href="https://arxiv.org/abs/2011.12127"> <i> Matrix Product States and Projected Entangled Pair States: Concepts, Symmetries, and Theorems </i></a><br> I. Cirac, D. Perez-Garcia, N. Schuch, F. Verstraete'
-- date: October 30, 2020
+- date: 2020-10-30
   headline: 'Karel Van Acoleyen publishes a book on <a href="https://www.lannoo.be/nl/relativiteitstheorie"><i>Relativiteitstheorie</i></a>.'
-- date: October 15, 2020
+- date: 2020-10-15
   headline: 'Karel Van Acoleyen explains why we are certain that the big bang happened at <a href="https://www.universiteitvanvlaanderen.be/college/waarom-zijn-we-zo-zeker-dat-de-big-bang-echt-is-gebeurd">Universiteit van Vlaanderen</a>.'
-- date: October 7, 2020
+- date: 2020-10-07
   headline: 'New preprint: <a href="https://arxiv.org/abs/2010.03441"><i>Lattice regularisation and entanglement structure of the Gross-Neveu model</i></a>'
-- date: October 14, 2019
+- date: 2019-10-14
   headline: 'Start of the Francqui Symposium: <a href="http://mathphy.ugent.be/events/20191015/index.html"><i>Wavefunctions and Entanglement in Quantum Field Theory</i></a>'
-- date: November 22, 2018
+- date: 2018-11-22
   headline: ' Jutho Haegeman is the 2018 <a href="https://baef.be/alumni-award/"> Laureate of the BAEF Alumni Award in Exact Sciences </a>.'
-- date: June 12, 2018
+- date: 2018-06-12
   headline: 'Frank Verstraete is awarded the <a href="http://www.francquifoundation.be/rapport-cherchye-de-rock-vermeulen-2/2018-rapport-frank-verstraete/">Francqui prize</a>.'

@@ -12,6 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Website for the UGent Quantum Group of Jutho Haegeman and Frank Verstraete
 baseurl: ''
 url: ''
+future: true # produce pages for future talks
 
 include:
   - .htaccess
@@ -20,15 +21,24 @@ include:
 collections:
   thesistopics:
     output: true
+  seminars:
+    output: true
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "thesistopics" # a collection in your site, in plural form
     values:
       layout: "thesistopic"
       permalink: /thesistopics/:year/:title
+  - scope:
+      path: ""
+      type: 'seminars'
+    values:
+      layout: 'seminarlay'
+      permalink: /seminars/:path:output_ext
+      abstract: true
+      type: lunchtalk
 
 sass:
   sass_dir: _sass

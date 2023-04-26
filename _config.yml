@@ -13,6 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ''
 url: ''
 future: true # produce pages for future talks
+timezone: Europe/Brussels
 
 include:
   - .htaccess

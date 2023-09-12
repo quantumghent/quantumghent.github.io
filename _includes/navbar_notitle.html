@@ -16,9 +16,16 @@
         <li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
         <li><a href="{{ site.url }}{{ site.baseurl }}/software">Software</a></li>
         <li><a href="{{ site.url }}{{ site.baseurl }}/links">Links</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/studentinfo">Student Info</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/thesistopics.html">Thesis topics</a></li>
-        <li><a href="{{ site.url }}{{ site.baseurl }}/outreach_kwantum.html">Outreach Kwantum</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-expanded="false">
+            Student info
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/studentinfo">Info</a></li>
+            <li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/thesistopics">Thesis topics</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a href="{{ site.url }}{{ site.baseurl }}/outreach">Outreach</a></li>
       </ul>
     </div>
   </div>

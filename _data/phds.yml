@@ -13,11 +13,23 @@
   info: FWO PhD student since 2020
   email: lander.burgelman@ugent.be
 
+- name: Boris De Vos
+  sname: De Vos
+  # photo: 
+  info: PhD student since 2023
+  email: Boris.DeVos@UGent.be
+
 - name: Lukas Devos
   sname: Devos
   photo: FOTOlukasdevos.jpg
   info: PhD student since 2020
   email: lukas.devos@ugent.be
+
+- name: Gleb Fedorovich
+  sname: Fedorovich
+  # photo: 
+  info: PhD student since 2023
+  email: Gleb.Fedorovich@UGent.be
 
 - name: Daan Maertens
   sname: Maertens
@@ -37,6 +49,12 @@
   info: FWO PhD student
   email: laurens.lootens@ugent.be
   scholar: AriTElQAAAAJ
+
+- name: Akshay Shankar
+  sname: Shankar
+  # photo: 
+  info: PhD student since 2023
+  email: Akshay.Shankar@UGent.be
 
 - name: Clara Tanghe
   sname: Tanghe

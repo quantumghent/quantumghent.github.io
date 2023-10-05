@@ -18,15 +18,13 @@
   scholar: -hzf7fIAAAAJ
   site: https://jcbridgeman.github.io/
 
-
-- name: Clement Delcamp
-  sname: Delcamp
-  photo: FOTOclement.jpg
-  orcid: 0000-0003-2337-5772
-  email: clement.delcamp@ugent.be
-  info: FWO PostDoc since 2022
-  scholar: sTnvl0AAAAAJ&view_op=list_works&sortby=pubdate
-  site: https://clementdelcamp.com/
+- name: Nai Chao Hu
+  sname: Hu
+  # photo: 
+  # email: 
+  orcid: 0000-0003-4662-9894
+  info: PostDoc since 2023
+  scholar: JmO3h3sAAAAJ
 
 - name: Rui-Zhen Huang
   sname: Huang
@@ -55,6 +53,15 @@
 #  photo: FOTOromaincouvreur.jpg
 #  email: romain.couvreur@ugent.be
 #  info: PostDoc since 2019
+
+# - name: Clement Delcamp
+#   sname: Delcamp
+#   photo: FOTOclement.jpg
+#   orcid: 0000-0003-2337-5772
+#   email: clement.delcamp@ugent.be
+#   info: FWO PostDoc since 2022
+#   scholar: sTnvl0AAAAAJ&view_op=list_works&sortby=pubdate
+#   site: https://clementdelcamp.com/
 
 #- name: Xiaoyu Dong
 #  photo: FOTOXiaoyu.jpeg

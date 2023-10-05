@@ -15,7 +15,7 @@
 
 - name: Boris De Vos
   sname: De Vos
-  # photo: 
+  photo: FOTOBorisDeVos.jpg
   info: PhD student since 2023
   email: Boris.DeVos@UGent.be
 
@@ -28,6 +28,7 @@
 - name: Gleb Fedorovich
   sname: Fedorovich
   # photo: 
+  orcid: 0000-0002-7664-0384
   info: PhD student since 2023
   email: Gleb.Fedorovich@UGent.be
 
@@ -52,9 +53,12 @@
 
 - name: Akshay Shankar
   sname: Shankar
-  # photo: 
+  photo: IMGAkshay.jpg
+  site: https://20akshay00.github.io/
   info: PhD student since 2023
-  email: Akshay.Shankar@UGent.be
+  email: sakshays.2000@gmail.com
+  github: 20akshay00
+  twitter: 20akshay00
 
 - name: Clara Tanghe
   sname: Tanghe

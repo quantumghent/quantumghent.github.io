@@ -25,5 +25,5 @@ In **_data**\carousel.yml you can choose an **image**, a **caption**, a  **subca
 
 ## Thesis topics
 
-Printable versions of single thesis topic pages are available at https://quantumghent.github.io/thesistopics/YYYY/YYYY, where XXXX is the year the topic was proposed, and YYYY is the **file name** (not topic title!). For example: [quantumghent.github.io/thesistopics/2023/JBridgeman1](https://quantumghent.github.io/thesistopics/2023/JBridgeman1)
+Printable versions of single thesis topic pages are available at https://quantumghent.github.io/thesistopics/YYYY/XXXX, where YYYY is the year the topic was proposed, and XXXX is the **file name** (not topic title!). For example: [quantumghent.github.io/thesistopics/2023/JBridgeman1](https://quantumghent.github.io/thesistopics/2023/JBridgeman1)
 

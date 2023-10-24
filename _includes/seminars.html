@@ -32,7 +32,7 @@
             {{ seminar.date | date: '%B %e, %Y, %l:%M %p (%Z)'}}
            <br>
             {{ title }}
-            <br>{{ seminar.speaker }}, <em>{{ seminar.affiliation }}</em></p>
+            <br>{{ seminar.speaker }}{% if seminar.affiliation %}, <em>{{ seminar.affiliation }}</em>{% endif %}</p>
         {% endfor %}
 
         <h4><a href="{{ site.url }}{{ site.baseurl }}/seminars">... see all seminars</a></h4>

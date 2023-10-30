@@ -21,9 +21,20 @@ To adjust your profile on the *Team* page, go to the **_data** directory, and ch
 
 ## Homepage slideshow
 
-In **_data**\carousel.yml you can choose an **image**, a **caption**, a  **subcaption**, and finally a **link** that the central button will send you to (a paper, a news article, a research topic etc.) Images are taken from the **_images\carouselpic** directory. They are automatically resized to height 300px, so make sure your image has the right dimensions. TODO: 1. 1 adjust font, fontcolor etc.
+In **_data/carousel.yml** you can choose an **image**, a **caption**, a  **subcaption**, and finally a **link** that the central button will send you to (a paper, a news article, a research topic etc.) Images are taken from the **_images\carouselpic** directory. They are automatically resized to height 300px, so make sure your image has the right dimensions. TODO: 1. 1 adjust font, fontcolor etc.
 
 ## Thesis topics
 
 Printable versions of single thesis topic pages are available at https://quantumghent.github.io/thesistopics/YYYY/XXXX, where YYYY is the year the topic was proposed, and XXXX is the **file name** (not topic title!). For example: [quantumghent.github.io/thesistopics/2023/JBridgeman1](https://quantumghent.github.io/thesistopics/2023/JBridgeman1)
 
+## Publications making use of QuantumGroup@UGent software packages
+
+Publications, preprints, theses and packages that use QuantumGent packages can be added to the software page by adding them to **_data/usingPkg.bib**. Be sure to add a **year** field to all non-Package references. 
+
+URLs should not need to be added to publications, as they are automatically added from the DOI. They should be added for thesis type references. **DOI** and **eprint** fields should be added to publications. For example:
+    **doi     = {10.1007/s00220-023-04781-y},
+    eprint  = {2211.01947}**.
+
+Github links can be added using a **github** field, for example: **github = {lkdvos/CategoryData.jl}**.
+
+A set of example references are included at the bottom of **_data/usingPkg.bib**, which can be copied. Be sure to create a unique citation key for each reference added.

@@ -89,3 +89,23 @@ Our group has developed several publicly available (and thus open source) softwa
 * Julia code for the 2018 European Tensor Network School: [Jutho/TNSchool2018](https://github.com/Jutho/TNSchool2018)
 
 * Python code for the 2020 European Tensor Network School: [leburgel/uniformMpsTutorial](https://github.com/leburgel/uniformMpsTutorial)
+
+
+{% capture pubsUsingPkg %}{%  bibliography_count -f usingPkg -q @Article[key!=ExampleArticle]* @Preprint[key!=ExamplePreprint]* @Thesis* @PhdThesis[key!=ExamplePhD]* @MastersThesis[key!=ExampleMasters]* @HonoursThesis* %}{% endcapture %}
+{% assign pubsUsingPkg = pubsUsingPkg | plus: 0 %}
+
+{% capture pkgUsingPkg %}{%  bibliography_count -f usingPkg -q @Package[key!=ExamplePackage]* --group_by none %}{% endcapture %}
+{% assign pkgUsingPkg = pkgUsingPkg | plus: 0 %}
+
+{% if pubsUsingPkg > 0 %}
+## Publications using QuantumGroup@UGent software packages
+
+A partial list of publications and software pacakges that make use of QuantumGroup@UGent packages. If you want to add your publication or package to this list, please contact us.
+
+{% bibliography -f usingPkg -q @Article[key!=ExampleArticle]* @Preprint[key!=ExamplePreprint]* @Thesis* @PhdThesis[key!=ExamplePhD]* @MastersThesis[key!=ExampleMasters]* @HonoursThesis* %}
+
+{% if pkgUsingPkg > 0%}
+### Packages extending ours
+
+{% bibliography -f usingPkg -q @Package[key!=ExamplePackage]* --group_by none %}
+{% endif %}{% endif %}

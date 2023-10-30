@@ -106,12 +106,11 @@
     {%- endcapture -%}
     {%- endif -%}
 
-    {%- if entry.eprint -%}{%- capture arXiv -%}<a href="https://arxiv.org/abs/{{ entry.eprint }}">{{ " arXiv:" }}{{ entry.eprint }}</a>{%- endcapture -%}{%- endif -%}
-    {% if entry.github -%}{%- capture git -%}{{ " github: " }}<a href="https://github.com/{{ entry.github }}">{{ entry.github }}</a>{%- endcapture -%}{%- endif -%}
+    {%- capture arXiv -%}{%- if entry.eprint -%}<a href="https://arxiv.org/abs/{{ entry.eprint }}">{{ " arXiv:" }}{{ entry.eprint }}</a>{%- endif -%}{%- endcapture -%}
+    {%- capture git -%}{% if entry.github -%}{{ " github: " }}<a href="https://github.com/{{ entry.github }}">{{ entry.github }}</a>{%- endif -%}{%- endcapture -%}
     {%- if entry.year -%}{%- capture entryyear -%}{{ " (" }}{{entry.year}}{{ ")" }}{%- endcapture -%}{%- endif -%}
     {% assign journalref_text = journalref | strip_html | strip %}
-    {%- capture periodical -%}{{ journalref }}{%- if journalref_text != "" and entryyear != "" -%}, {%- endif -%}{{ arXiv
-    }}{{ git }}{{ entryyear }}
+    {%- capture periodical -%}{{ journalref }}{%- if arXiv !="" -%}{%- if journalref_text != "" and entryyear != "" -%}, {% endif %}{{ arXiv }}{% endif %}{% if git !="" %}{%- if journalref_text != "" and entryyear != "" -%}, {%- endif -%}{{ git }}{% endif %}{{ entryyear }}
     {%- endcapture -%}
     {%- endif -%}
     <div class="periodical">

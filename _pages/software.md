@@ -1,6 +1,6 @@
 ---
 title: "QuantumGroup@UGent - Software"
-layout: gridlay
+layout: gridlaywithmath
 excerpt: "QuantumGroup@UGent -- Software."
 sitemap: false
 permalink: /software/

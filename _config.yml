@@ -87,8 +87,8 @@ scholar:
   details_layout: bibtex.html
   details_link: Details
 
-  sort_by: year, title, author
-  order: descending, ascending, ascending
+  sort_by: year, eprint, title, author
+  order: descending, ascending, ascending, ascending
 
   group_by: year
   group_order: descending

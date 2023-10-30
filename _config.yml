@@ -44,6 +44,9 @@ defaults:
 sass:
   sass_dir: _sass
 
+plugins:
+  - jekyll-scholar
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
@@ -91,5 +94,3 @@ scholar:
   group_order: descending
 
   query: "@*"
-
-  ignore: [ExampleArticle]

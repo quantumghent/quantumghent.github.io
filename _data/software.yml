@@ -55,6 +55,24 @@
     url: https://github.com/maartenvd/SUNRepresentations.jl
     display: maartenvd/SUNRepresentations.jl
 
+- title: "CategoryData.jl"
+  image: julia.svg
+  language: julia
+  topic: physics
+  description: A package to store and manipulate data for fusion categories, such as the fusion rules, the F-symbols, the R-symbols, etc. The package provides a convenient interface to TensorKit.jl.
+  link:
+    url: https://github.com/lkdvos/CategoryData.jl
+    display: lkdvos/CategoryData.jl
+
+- title: "QWignerSymbols.jl"
+  image: julia.svg
+  language: julia
+  topic: physics
+  description: A package to compute Wigner's 3j and 6j symbols (and related quantities such as Clebsch-Gordan coefficients and Racah coefficients) for the quantum group SU_q(2).
+  link:
+    url: https://github.com/lkdvos/QWignerSymbols.jl
+    display: lkdvos/QWignerSymbols.jl
+
 - title: "TensorOperations.jl"
   image: tensoroperations.svg
   language: julia

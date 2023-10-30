@@ -86,10 +86,11 @@ Our group has developed several publicly available (and thus open source) softwa
 
 ## Notebooks and other software links
 
-* Julia code for the 2018 European Tensor Network School: [Jutho/TNSchool2018](https://github.com/Jutho/TNSchool2018)
+* Julia notebooks for Tensor Network Methods: [quantumghent/TensorTutorials](https://quantumghent.github.io/TensorTutorials/intro.html)
 
 * Python code for the 2020 European Tensor Network School: [leburgel/uniformMpsTutorial](https://github.com/leburgel/uniformMpsTutorial)
 
+* Julia code for the 2018 European Tensor Network School: [Jutho/TNSchool2018](https://github.com/Jutho/TNSchool2018)
 
 {% capture pubsUsingPkg %}{%  bibliography_count -f usingPkg -q @Article[key!=ExampleArticle]* @Preprint[key!=ExamplePreprint]* @Thesis* @PhdThesis[key!=ExamplePhD]* @MastersThesis[key!=ExampleMasters]* @HonoursThesis* %}{% endcapture %}
 {% assign pubsUsingPkg = pubsUsingPkg | plus: 0 %}

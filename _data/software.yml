@@ -56,7 +56,7 @@
     display: maartenvd/SUNRepresentations.jl
 
 - title: "CategoryData.jl"
-  image: julia.svg
+  image: categorydata.svg
   language: julia
   topic: physics
   description: A package to store and manipulate data for fusion categories, such as the fusion rules, the F-symbols, the R-symbols, etc. The package provides a convenient interface to TensorKit.jl.

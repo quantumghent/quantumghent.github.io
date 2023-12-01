@@ -18,6 +18,11 @@
   scholar: -hzf7fIAAAAJ
   site: https://jcbridgeman.github.io/
 
+- name: Dmitry Chernyak
+  sname: Chernyak
+  email: Dmitry.Chernyak@UGent.be
+  info: PostDoc since 2023
+
 - name: Nai Chao Hu
   sname: Hu
   # photo: 
@@ -42,42 +47,15 @@
   info: PostDoc since 2021
   scholar: BSkYq1QAAAAJ
 
-- name: Laurens Vanderstraeten
-  sname: Vanderstraeten
-  photo: FOTOLaurens.jpg
-  email: laurens.vanderstraeten@ugent.be
-  info: FWO PostDoc since 2016
-  scholar: m8wiLSsAAAAJ
+  - name: Quinten Mortier
+  sname: Mortier
+  photo: FOTOQuintenMortier.jpg
+  info: Postdoc since 2023
+  email: quinten.mortier@ugent.be
 
-#- name: Romain Couvreur
-#  photo: FOTOromaincouvreur.jpg
-#  email: romain.couvreur@ugent.be
-#  info: PostDoc since 2019
-
-# - name: Clement Delcamp
-#   sname: Delcamp
-#   photo: FOTOclement.jpg
-#   orcid: 0000-0003-2337-5772
-#   email: clement.delcamp@ugent.be
-#   info: FWO PostDoc since 2022
-#   scholar: sTnvl0AAAAAJ&view_op=list_works&sortby=pubdate
-#   site: https://clementdelcamp.com/
-
-#- name: Xiaoyu Dong
-#  photo: FOTOXiaoyu.jpeg
-#  email: xiaoyu.dong@ugent.be
-#  info: PostDoc since 2019
-#  scholar: M0gdQvsAAAAJ
-
-#- name: Klaas Gunst
-#  photo: FOTOKlaasGunst.jpg
-#  github: klgunst
-#  scholar: HcB8TAcAAAAJ
-#  email: klaasgunst@gmail.com
-#  info: PostDoc since 2020
-
-#- name: Markus Hauru
-#  photo: bb.jpg
-#  email: markus@mhauru.org
-#  info: PostDoc since 2019
-#  github: mhauru
+- name: Laurens Lootens
+  sname: Lootens
+  photo: FOTOLaurensLootens.jpg
+  info: FWO Postdoc since 2023
+  email: laurens.lootens@ugent.be
+  scholar: AriTElQAAAAJ

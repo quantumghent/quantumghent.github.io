@@ -1,7 +1,13 @@
 - date: 2023-11-30
   headline: '<a href="https://arxiv.org/abs/2311.18733"> <i> Matrix Product State Fixed Points of Non-Hermitian Transfer Matrices </i></a><br> Wei Tang, Frank Verstraete, Jutho Haegeman'
+- date: 2023-12-24
+  headline: '<a href="https://arxiv.org/abs/2312.15530"> <i> Bridging Rokhsar-Kivelson Type and Generic Quantum Phase Transitions via Thermofield Double States </i></a><br> Wen-Tao Xu, Rui-Zhen Huang, Guang-Ming Zhang'
+- date: 2023-11-09
+  headline: '<a href="https://arxiv.org/abs/2311.05690"> <i> Measuring the boundary gapless state and criticality via disorder operator </i></a><br> Zenan Liu, Rui-Zhen Huang, Yan-Cheng Wang, Zheng Yan, Dao-Xin Yao'
 - date: 2023-11-02
   headline: '<a href="https://arxiv.org/abs/2311.01439"> <i> Low-depth unitary quantum circuits for dualities in one-dimensional quantum lattice models </i></a><br> Laurens Lootens, Clement Delcamp, Dominic Williamson, Frank Verstraete'
+- date: 2023-09-28
+  headline: '<a href="https://arxiv.org/abs/2309.16089"> <i> Relevant long-range interaction of the entanglement Hamiltonian emerges from a short-range system </i></a><br> Chuhao Li, Rui-Zhen Huang, Yi-Ming Ding, Zi Yang Meng, Yan-Cheng Wang, Zheng Yan'
 - date: 2023-07-16
   headline: '<a href="https://arxiv.org/abs/2307.08083"> <i> Generating function for projected entangled-pair states </i></a><br> Wei-Lin Tu, Laurens Vanderstraeten, Norbert Schuch, Hyun-Yong Lee, Naoki Kawashima, Ji-Yao Chen'
 - date: 2023-06-28

@@ -15,7 +15,7 @@ url: ''
 future: true # produce pages for future talks
 timezone: Europe/Brussels
 
-thesis_topis_year: 2023
+thesis_topis_year: 2024
 
 include:
   - .htaccess

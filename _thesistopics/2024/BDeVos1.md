@@ -15,7 +15,7 @@ Recently, many communities in theoretical physics have come to exploit the conne
 
 An approach rising in popularity is the strange correlator, which provides the critical lattice model with corresponding symmetries from top-down. What is yet to be done is to write down the local observables of the related CFT, known as the **primary operators**, in terms of these topological objects, and to investigate the connection to the TN operators. This is a bottom-up approach which would provide us with the building blocks of more general lattice models. [3,4] It is precisely this bottom-up approach that the student will develop.
 
-<p><img alt="MPO of transfer matrix" src="/images/thesistopics/2024/BDeVos1.pdf" style="float:right; width:300px" /></p>
+<p><img alt="MPO of transfer matrix" src="/images/thesistopics/2024/BDeVos1.png" style="float:right; width:300px" /></p>
 
 #### Goal
 

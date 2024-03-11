@@ -22,6 +22,6 @@ The overall goal of the thesis is to study and explore disordered quantum system
 
 [3] Roberts, et al., [arXiv:1703.01994](https://arxiv.org/abs/1703.01994)
 
-[3] K. Azuma, et al., [arXiv:2107.12937](https://arxiv.org/abs/2107.12937)
+[3] Roberts, et al., [arXiv:2107.12937](https://arxiv.org/abs/2107.12937)
 
 

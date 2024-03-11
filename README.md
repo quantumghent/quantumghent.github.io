@@ -27,6 +27,9 @@ In **_data/carousel.yml** you can choose an **image**, a **caption**, a  **subca
 
 Printable versions of single thesis topic pages are available at https://quantumghent.github.io/thesistopics/YYYY/XXXX, where YYYY is the year the topic was proposed, and XXXX is the **file name** (not topic title!). For example: [quantumghent.github.io/thesistopics/2023/JBridgeman1](https://quantumghent.github.io/thesistopics/2023/JBridgeman1)
 
+* To use mathematics in thesis topics, double \$ signs are required
+
+
 ## Publications making use of QuantumGroup@UGent software packages
 
 Publications, preprints, theses and packages that use QuantumGent packages can be added to the software page by adding them to **_data/usingPkg.bib**. Be sure to add a **year** field to all non-Package references. 

@@ -7,7 +7,7 @@ topic: "Condensed Matter Theory"
 year: "2024"
 ---
 
-##### Context
+#### Context
 
 Topological phases of matter are highly-entangled quantum phases which are characterized by a robust ground state degeneracy and exotic anyonic excitations. Their robustness against local noise makes these topological systems prime candidates for storage and manipulation of quantum information.
 

@@ -1,8 +1,8 @@
 ---
 title: "Boundaries of string-net models"
 promoter: Frank Verstraete
-supervisor: Bram vancraeynest-De Cuiper
-contact: Bram vancraeynest-De Cuiper
+supervisor: Bram Vancraeynest-De Cuiper
+contact: Bram Vancraeynest-De Cuiper
 topic: "Condensed Matter Theory"
 year: "2024"
 ---

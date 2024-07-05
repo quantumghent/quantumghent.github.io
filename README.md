@@ -6,6 +6,21 @@ Forked from the [Allan Lab](http://www.allanlab.org) site. Code released under t
 
 ## Seminars
 
+Seminars are added by adding a file to the **_seminars** directory. The file should be named with the following format: **YYYY-MM-DD-Title.md**. The file should contain the following front matter:
+
+```
+---
+date: "YYYY-MM-DDTHH:MM:SS"
+speaker: SPEAKER NAME
+affiliation: SPEAKER AFFILIATION
+title: "TALK TITLE"
+type: {seminar, jointseminar, colloquium}
+abstract: {true, false}
+---
+```
+If the abstract is set to true, it should be written below the front matter, and will appear on the seminar page.
+If the abstract is set to false, the abstract will not be displayed on the seminar page.
+
 ### Math rendering in .YML files 
 
 Be aware! In order to have math in the calendar and seminars box in the homepage, you need to use \\( ... \\) instead of the usual $$...$$ in the .md files. In general: double all backslashes. This is because in javascript the single backslash is used for commands so this will totally fuck up the page. 
@@ -41,3 +56,9 @@ URLs should not need to be added to publications, as they are automatically adde
 Github links can be added using a **github** field, for example: **github = {lkdvos/CategoryData.jl}**.
 
 A set of example references are included at the bottom of **_data/usingPkg.bib**, which can be copied. Be sure to create a unique citation key for each reference added.
+
+## Events
+
+Events can be added to the `events' tab of the website by adding them to '_data/events_and_conferences.yml'. Format instructions are given at the top of the file.
+
+Past events do not need to be removed, they will automatically be hidden from the website at the end of the month in which they occur.

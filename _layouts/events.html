@@ -1,0 +1,53 @@
+---
+layout: textlay
+---
+
+<body>
+{% assign months = "January,February,March,April,May,June,July,August,September,October,November,December" | split:","  %}
+{% assign todays_date = 'now' | date: '%m-%Y' %}
+{% assign cutoff_date = todays_date | prepend: '01-' | date: '%s' | times:1  %}
+{% assign future_events = "" |  split: "," %}
+{% for event in site.data.events_and_conferences %}
+  {% assign event_date = event.date | date: '%s' | times:1 %}
+  {% if event_date >= cutoff_date %}
+    {% assign  future_events = future_events | push: event %}
+  {% endif %}
+{% endfor %}
+{% assign  future_events = future_events | uniq %}
+<h1>Events and Conferences</h1>
+{% assign events_year = future_events | group_by_exp:"event","event.date | date: '%Y' | times:1" | sort: "name" %}
+<ul>
+  {% for year in events_year | where: year.name >=  %}
+    <h3>{{ year.name }}</h3>
+      {% assign events_month = year.items | group_by_exp:"event","event.date | date: '%m' | plus:-1" | sort: "name" %}
+      {% for month in events_month %}
+        <h4>{{ months[ month.name ] }}</h4>
+        <ul>
+          {% for event in month.items %}
+            <li>
+              <a href={{ event.url }}><b>{{ event.title }}</b></a><br>
+              {{ event.date }}<br>
+              {{ event.location }}<br>
+              {% if event.registration_date or event.talk_submission_date or event.poster_submission_date %}
+                Deadlines:
+                <ul>
+                {% if event.registration_date %} 
+                  <li>Registration: {{ event.registration_date }}</li>
+                {% endif %%}
+                {% if event.talk_submission_date %} 
+                  <li>Talks: {{ event.talk_submission_date }}</li>
+                {% endif %%}
+                {% if event.poster_submission_date %} 
+                  <li>Posters: {{ event.poster_submission_date }}</li>
+                {% endif %}
+                </ul>
+              {% endif %}
+              {% if event.keywords %} <b>{{ event.keywords }}</b> {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+  {% endfor %}
+</ul>
+
+</body>

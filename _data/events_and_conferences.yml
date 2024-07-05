@@ -1,0 +1,45 @@
+# At minimum, all events should have a title, date, location and url.
+#
+# Dates should be "MONTH NAME YEAR" (e.g. "January 2023") if the exact dates are not known, otherwise "DD-MM-YYYY - DD-MM-YYYY".
+#
+# If the event has a submission deadline, include the `talk_submission_date` and/or `poster_submission_date` fields.
+# If the event has a registration deadline, include the `registration_date` field.
+# Example:
+#
+# - title: Quantum Information Processing 2023 (QIP 2023)
+#   date: 04-02-2023 - 10-02-2023
+#   registration_date: 31-12-2024
+#   talk_submission_date: 23-09-2022
+#   poster_submission_date: 01-11-2022
+#   keywords: quantum computing
+#   url: https://qip2023.ugent.be/
+#   location: Ghent, Belgium
+
+- title: Quantum Information Processing 2023 (QIP 2023)
+  date: 04-02-2023 - 10-02-2023
+  registration_date: 31-12-2024
+  talk_submission_date: 23-09-2022
+  poster_submission_date: 01-11-2022
+  keywords: quantum computing
+  url: https://qip2023.ugent.be/
+  location: Ghent, Belgium
+
+- title: Quantum Information Processing 2025 (QIP 2025)
+  date: February 2025
+  talk_submission_date: September 2025
+  poster_submission_date: October 2025
+  keywords: quantum computing
+  url: http://qip2025.duke.edu/
+  location: Raleigh, North Carolina, USA
+
+- title: Julia for numerical problems in quantum and solid-state physics
+  date : 26-11-2024 - 28-11-2024
+  keywords: Julia, solid-state physics
+  url: https://www.cecam.org/workshop-details/julia-for-numerical-problems-in-quantum-and-solid-state-physics-1355
+  location: CECAM, Lausanne, Switzerland
+
+- title: JuliaCon 2024
+  date: 09-07-2024 - 13-07-2024
+  keywords: Julia
+  url: https://juliacon.org/2024/
+  location: Philips Stadion, Eindhoven, Netherlands

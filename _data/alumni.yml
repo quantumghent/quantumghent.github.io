@@ -40,6 +40,12 @@
   scholar: sTnvl0AAAAAJ&view_op=list_works&sortby=pubdate
   site: https://clementdelcamp.com/
 
+- name: Lukas Devos
+  sname: Devos
+  photo: FOTOlukasdevos.jpg
+  info: PhD student
+  email: lukas.devos@ugent.be
+
 - name: Xiaoyu Dong
   sname: Dong
   photo: FOTOXiaoyu.jpeg
@@ -111,9 +117,3 @@
   email: laurens.vanderstraeten@ugent.be
   info: FWO PostDoc 2016&ndash;2023
   scholar: m8wiLSsAAAAJ
-
-- name: Lukas Devos
-  sname: Devos
-  photo: FOTOlukasdevos.jpg
-  info: PhD student
-  email: lukas.devos@ugent.be

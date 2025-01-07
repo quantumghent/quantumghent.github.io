@@ -27,12 +27,6 @@
   info: PhD student since 2023
   email: Boris.DeVos@UGent.be
 
-- name: Lukas Devos
-  sname: Devos
-  photo: FOTOlukasdevos.jpg
-  info: PhD student since 2020
-  email: lukas.devos@ugent.be
-
 - name: Gleb Fedorovich
   sname: Fedorovich
   # photo: 
@@ -136,3 +130,9 @@
 #  photo: bb.jpg
 #  info: PhD student since 2016
 #  email: alexis.schotte@ugent.be
+
+# - name: Lukas Devos
+#   sname: Devos
+#   photo: FOTOlukasdevos.jpg
+#   info: PhD student since 2020
+#   email: lukas.devos@ugent.be

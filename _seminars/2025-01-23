@@ -1,0 +1,11 @@
+---
+date: "2025-01-23T14:00:00"
+speaker: Lennart Fernandes
+affiliation: NY University
+title: "Discrete time crystals in disorder-free lattices: from tensor networks to quantum processors"
+type: seminar
+abstract: true
+---
+
+The crystal structure of solids is a striking example of symmetry breaking, as the formation of a lattice violates spatial translational invariance. One can ask whether a similar periodic structure is possible in the time domain of a many-body quantum state. A fruitful direction for the construction of such 'time crystals' is in periodically driven systems, where discrete time-crystalline (DTC) order occurs when the dynamics spontaneously lock into a frequency different from that of the driving force. 
+In this talk, I will introduce time crystals and discuss recent results (arXiv:2411.00651) on prethermal DTC order stabilized by quasiparticle confinement in periodically driven disorder-free quantum Ising models. Using tensor networks with belief propagation, we show through finite entanglement scaling that decorated lattice structures host exponentially long-lived time crystals in the thermodynamic limit. These time crystals are not only stable to imperfections in the drive, but also exhibit a bipartite rigidity to generic perturbations. We call this state a bipartite time crystal and reveal a rich prethermal phase diagram with multiple regions of time-crystalline order depending delicately on the topology of the lattice. Our results thus uncover a variety of time crystals which may be realized on current digital quantum processors and analog quantum simulators.

@@ -1,0 +1,14 @@
+---
+date: "2025-02-13T15:00:00"
+speaker: Stefano Polla
+affiliation: Leiden
+title: "Error mitigation and circuit division for early-fault-tolerant quantum phase estimation"
+type: seminar
+abstract: true
+---
+
+We propose a framework for designing algorithms for early-fault-tolerant quantum computers by trading between error correction overhead and residual logical noise, and apply it to quantum phase estimation (QPE).
+
+We introduce a new multi-control QPE algorithm robust to depolarizing noise, and further develop the first scheme that extends mitigation of arbitrary noise models beyond expectation values.
+
+We estimate the physical cost of our algorithm applied to the ground state problem of the two-dimensional Hubbard model and various molecular Hamiltonians, identifying the trade-off between physical qubits and computation time.

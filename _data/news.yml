@@ -3,7 +3,11 @@
 - date: 2024-12-02
   headline: '<a href="https://arxiv.org/abs/2411.19034"> <i> Noninvertible Symmetry-Enriched Quantum Critical Point </i></a><br> Linhao Li, Rui-Zhen Huang, Weiguang Cao'  
 - date: 2024-06-08
-  headline: '<a href="https://arxiv.org/abs/2406.05454"> <i> Generating Lattice Non-invertible Symmetries </i></a><br> Weiguang Cao, Linhao Li, Masahito Yamazaki'  
+  headline: '<a href="https://arxiv.org/abs/2406.05454"> <i> Generating Lattice Non-invertible Symmetries </i></a><br> Weiguang Cao, Linhao Li, Masahito Yamazaki'
+- date: 2024-08-12
+  headline: '<a href="https://arxiv.org/abs/2408.06334"> <i> Entanglement and the density matrix renormalisation group in the generalised Landau paradigm </i></a><br> Laurens Lootens, Clement Delcamp, Frank Verstraete' 
+- date: 2024-04-08
+  headline: '<a href="https://arxiv.org/abs/2404.07727"> <i> Local Jordan-Wigner transformations on the torus </i></a><br> Oliver O’Brien, Laurens Lootens, Frank Verstraete' 
 - date: 2024-11-01
   headline: '<a href="https://arxiv.org/abs/2411.01009"> <i> Finite Entanglement Scaling of Disorder Parameter at Quantum Criticality </i></a><br> Wen-Tao Xu, Rui-Zhen Huang'
 - date: 2024-11-19
@@ -18,6 +22,8 @@
   headline: '<a href="https://arxiv.org/abs/2405.10285"> <i> Interacting chiral fermions on the lattice with matrix product operator norms </i></a><br> Jutho Haegeman, Laurens Lootens, Quinten Mortier, Alexander Stottmeister, Atsushi Ueda, Frank Verstraete'
 - date: 2024-10-14
   headline: '<a href="https://arxiv.org/abs/2410.09044"> <i> Systematic construction of stabilizer codes via gauging abelian boundary symmetries </i></a><br> Bram Vancraeynest-De Cuiper, José Garre-Rubio'
+- date: 2024-04-22
+  headline: '<a href="https://arxiv.org/abs/2404.14611"> <i> Fermionic tensor network methods </i></a><br> Quinten Mortier, Lukas Devos, Lander Burgelman, Bram Vanhecke, Nick Bultinck, Frank Verstraete, Jutho Haegeman, Laurens Vanderstraeten'
 - date: 2023-11-30
   headline: '<a href="https://arxiv.org/abs/2311.18733"> <i> Matrix Product State Fixed Points of Non-Hermitian Transfer Matrices </i></a><br> Wei Tang, Frank Verstraete, Jutho Haegeman'
 - date: 2023-12-24

@@ -14,8 +14,11 @@ An extremely powerful and ubiquitous concept in theoretical physics is that of d
 Closely related to the concept of dualities is that of non-invertible symmetries. As their name suggests these symmetries are characterized by the absence of an inverse for some of the symmetry operators, so that the resulting symmetry structure is not anymore described by a group. A systemic way of obtaining such symmetry structures is exactly via the aforementioned duality procedures.
 
 [1] I. Cirac, D. Perez-Garcia, N. Schuch, F. Verstraete - [arxiv:2011.12127](https://arxiv.org/abs/2312.09272)
+
 [2] L. Lootens, C. Delcamp, G. Ortiz, F. Verstraete [2112.09091](https://arxiv.org/abs/2112.09091)
+
 [3] C. Delcamp, A. Tiwari - [arxiv:2301.01259](https://arxiv.org/abs/2301.01259)
+
 [4] B. Vancraeynest-De Cuiper, C. Delcamp [arxiv:2501.16301](https://arxiv.org/abs/2501.16301)
 
 #### Goal
@@ -24,5 +27,7 @@ Recent attention has been devoted to the concept of symmetry-protected topologic
 
 
 [5] C. Fechisin, N. Tantivasadakarn, V. V. Albert - [arxiv:2312.09272](https://arxiv.org/abs/2312.09272)
+
 [6] S. Seifnashri, S.-H. Shao - [arxiv:2404.01369](https://arxiv.org/abs/2404.01369)
+
 [7] K. Inamura, S. Ohyama - [arxiv:2408.15960](https://arxiv.org/abs/2408.15960)

@@ -1,5 +1,5 @@
 ---
-title: "How high is high enough? Finite-Temperature analysis of the Hubbard model to computationally probe high-temperature superconductivity"
+title: "How high is high enough. Finite-Temperature analysis of the Hubbard model to computationally probe high-temperature superconductivity"
 promoter: Jutho Haegeman
 supervisor: Sander De Meyer
 contact: Sander De Meyer

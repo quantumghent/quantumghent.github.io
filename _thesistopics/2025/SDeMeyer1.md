@@ -3,7 +3,7 @@ title: "How high is high enough? Finite-Temperature analysis of the Hubbard mode
 promoter: Jutho Haegeman
 supervisor: Sander De Meyer
 contact: Sander De Meyer
-topic: "Condensed Matter Theory"
+topic: "Computational Quantum Many-Body Physics"
 year: "2025"
 ---
 

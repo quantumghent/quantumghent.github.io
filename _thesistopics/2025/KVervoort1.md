@@ -1,8 +1,8 @@
 ---
 title: "A tensor network perspective on random spin chains."
 promoter: Nick Bultinck
-supervisor: Kevin Vervoort
-contact: Kevin Vervoort, Wei Tang
+supervisor: Kevin Vervoort, Wei Tang
+contact: Kevin Vervoort
 topic: "Condensed Matter Physics"
 year: "2025"
 ---

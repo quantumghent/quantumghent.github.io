@@ -2,7 +2,7 @@
 title: "A tensor network perspective on random spin chains."
 promoter: Nick Bultinck
 supervisor: Kevin Vervoort
-contact: Kevin Vervoort
+contact: Kevin Vervoort, Wei Tang
 topic: "Condensed Matter Physics"
 year: "2025"
 ---
@@ -13,7 +13,7 @@ This master thesis investigates tensor networks and its application to disordere
 
 #### Goal
 
-The overall goal of the thesis is to study and explore quantum repeaters by using tensor networks. The first part of the thesis consists of a literature study on quantum repeaters and quantum entanglement distillation. Secondly the student tries to form a tensor network description of a quantum repeater. For this goal the construction of a MPS from projected entangled pairs will be a good starting point. The student can investigate, by using this tensor network description, which quantum repeater protocols are more optimal. Lastly the student can also investigate the effect of noise and imperfect measurements on the protocols. Depending on the interest of the student one can also look at how to perform entanglement distillation with MPS. Here the student can investigate what measurements are optimal to extract maximally entangled pairs from multiple copies of a MPS.
+The overall goal of the thesis is to study and explore disordered quantum systems through tensor networks. The first part of the thesis consists of a literature study on tensor networks and disordered models. The student will use the tensor network toolbox developed by our group to perform novel simulations of random spin systems. Depending on the interest of the student different research directions can be pursued. One possibility is to use the existing code base to simulate a plethora of random systems and study their phase diagram. A second possibility is to optimize and benchmark the current implementation of the algorithm and extend it with symmetries. This will allow the student to tackle more challenging models like the Heisenberg model, where the exploitation of symmetries will be necessary. Thirdly the student can look into developing an analogue of the algorithm for zero temperature groundstates.
 
 [1] J. I. Cirac, D. Pérez-García, N. Schuch, F. Verstraete, [arXiv:2011.12127](https://arxiv.org/abs/2011.12127)
 

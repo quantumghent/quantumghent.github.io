@@ -14,7 +14,7 @@ However, contracting an infinite tensor network exactly would require infinite c
 
 Recently, a promising new approach has emerged, combining belief propagation with loop series expansions to approximate tensor network contractions [2, 3].
 
-- Effectively compressing and optimizing tensor networks requires reliable methods for fixing the latent degrees of freedom of the tensors, known as the gauge. One such method is called **Belief Propagation**
+- Effectively compressing and optimizing tensor networks requires reliable methods for fixing the latent degrees of freedom of the tensors, known as the gauge. One such method is called **Belief Propagation** [2].
 - **Loop series expansions** build upon belief propagation by expressing the tensor network contraction as a series expansion, making otherwise intractable contractions feasible [4].
 
 <p><img alt="Loop series expansion on a square tensor network" src="/images/thesistopics/2025/VVanthilt1.png" style="float:right; width:350px" /></p>

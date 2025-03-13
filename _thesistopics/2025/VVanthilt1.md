@@ -1,5 +1,5 @@
 ---
-title: Belief it! Tackling Infinite Tensor Networks with Belief Propagation.
+title: "Belief in the Infinite: Tackling Infinite Tensor Networks with Belief Propagation."
 promoter: Jutho Haegeman
 supervisor: Victor Vanthilt
 contact: Victor Vanthilt
@@ -14,7 +14,7 @@ However, contracting an infinite tensor network exactly would require infinite c
 
 Recently, a promising new approach has emerged, combining belief propagation with loop series expansions to approximate tensor network contractions [2, 3].
 
-- **Belief propagation** is a method for optimizing tensor networks by fixing latent degrees of freedom—referred to as the gauge—inherent to these networks.
+- Effectively compressing and optimizing tensor networks requires reliable methods for fixing the latent degrees of freedom of the tensors, known as the gauge. One such method is called **Belief Propagation**
 - **Loop series expansions** build upon belief propagation by expressing the tensor network contraction as a series expansion, making otherwise intractable contractions feasible [4].
 
 <p><img alt="Loop series expansion on a square tensor network" src="/images/thesistopics/2025/VVanthilt1.png" style="float:right; width:350px" /></p>

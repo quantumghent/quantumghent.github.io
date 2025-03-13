@@ -17,7 +17,6 @@ Recently, a promising new approach has emerged, combining belief propagation wit
 - **Belief propagation** is a method for optimizing tensor networks by fixing latent degrees of freedom—referred to as the gauge—inherent to these networks.
 - **Loop series expansions** build upon belief propagation by expressing the tensor network contraction as a series expansion, making otherwise intractable contractions feasible [4].
 
-![[loopseriesexpansion2.png]]
 <p><img alt="Loop series expansion on a square tensor network" src="/images/thesistopics/2025/VVanthilt1.png" style="float:right; width:350px" /></p>
 
 #### Goal

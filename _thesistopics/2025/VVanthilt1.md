@@ -1,5 +1,5 @@
 ---
-title: Can You Belief It? Tackling Infinite Tensor Networks with Belief Propagation.
+title: Can You Belief It%3F Tackling Infinite Tensor Networks with Belief Propagation.
 promoter: Jutho Haegeman
 supervisor: Victor Vanthilt
 contact: Victor Vanthilt

@@ -15,7 +15,7 @@ RG flows can capture various phase transitions. In particular, fixed points of s
 
 CFTs are analytically tractable in two dimensions due to conformal symmetry considerations. For this reason, most of the works in the literature studying critical lattice models do so in two dimensions. However, numerics allow us to access various conformal data in other dimensions, notably in 3D. One such development is the **fuzzy sphere regularisation**, which has proven to detect the fingerprints of CFTs accurately [3], and opens the gateway to realisations of various 3D CFTs. In particular, a possible connection to complex CFTs has been made with the 3-state Potts model in 2+1D [4], where the phase transition is first-order, but shows approximate conformal invariance.
 
-<p><img alt="The fuzzy sphere" src="/images/thesistopics/2025/BDeVos1.pdf" style="float:right; width:300px" /></p>
+<p><img alt="The fuzzy sphere" src="/images/thesistopics/2025/BDeVos1.png" style="float:right; width:300px" /></p>
 
 #### Goal
 

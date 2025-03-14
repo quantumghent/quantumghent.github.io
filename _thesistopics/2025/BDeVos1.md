@@ -3,7 +3,7 @@ title: "Complex conformal field theory on the fuzzy sphere"
 promoter: Frank Verstraete
 supervisor: Boris De Vos, Atsushi Ueda
 contact: Boris De Vos
-topic: "Condensed Matter Theory"
+topic: "Condensed Matter Physics"
 year: "2025"
 ---
 

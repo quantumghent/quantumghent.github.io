@@ -23,9 +23,14 @@ One proposal of implementing a synthetic dimension uses a setup very similar to 
 
 The goal of this project is to develop a general theoretical understanding of a 2D realization of the system discussed above, using a blend of theory and numerics. After a comprehensive introduction to cold atom physics and the quantum Hall effect, we will first examine the non-interacting case. A particularly interesting direction is exploring how the center-of-mass motion reflects the non-trivial topological properties of the band spectrum, as demonstrated in a remarkable experiment on a different system [6]. A key question to address in this context is the state preparation process. With a solid understanding of the non-interacting regime, the student can explore the effects of including weak interactions. The setup inherently gives rise to long-range anisotropic interactions, which are expected to lead to exotic ground-state physics. The field of cold atom physics thrives on the synergy between theory and experiment; therefore, this project is ideal for students with a strong interest in both theoretical and experimental physics, especially those eager to explore exotic quantum phenomena and engage in interdisciplinary physics research.
 
-[1] Zhang et al., (2018) arXiv:1810.09228
-[2] Dalibard, (2015) arXiv:1504.05520
-[3] Price et al., (2016) arXiv:1605.09310
-[4] Oliver et al., (2021) arXiv:2112.10648
-[5] Reid et al., (2024) arXiv:2410.10501
-[6] Aidelsburger et al., (2014) arXiv:1407.4205
+[1] Zhang et al., (2018) [arXiv:1810.09228](https://arxiv.org/abs/1810.09228)
+
+[2] Dalibard, (2015) [arXiv:1504.05520](https://arxiv.org/abs/1504.05520)
+
+[3] Price et al., (2016) [arXiv:1605.09310](https://arxiv.org/abs/1605.09310)
+
+[4] Oliver et al., (2021) [arXiv:2112.10648](https://arxiv.org/abs/2112.10648)
+
+[5] Reid et al., (2024) [arXiv:2410.10501](https://arxiv.org/abs/2410.10501)
+
+[6] Aidelsburger et al., (2014) [arXiv:1407.4205](https://arxiv.org/abs/1407.4205)

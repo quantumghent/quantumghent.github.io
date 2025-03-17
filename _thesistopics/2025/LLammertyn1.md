@@ -1,8 +1,8 @@
 ---
-title: "Quantum Hall Physics in the Synthetic Dimension of a bosonic cold atom system"
+title: "Quantum Hall physics in the synthetic dimension of a bosonic cold atom system"
 promoter: Karel Van Acoleyen
 supervisor: Louis Lammertyn
-contact: Clara Tanghe
+contact: Karel Van Acoleyen
 topic: "Condensed Matter Physics"
 year: "2025"
 ---

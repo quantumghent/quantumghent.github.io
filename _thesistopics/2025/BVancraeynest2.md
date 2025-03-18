@@ -1,32 +1,32 @@
 ---
-title: "Gauging charge conjugation in two dimensions"
-promoter: Frank Verstraete
-supervisor: Anton Martin, Bram Vancraeynest-De Cuiper
-contact: Anton Martin
+title: "Conformal field theory operators on the lattice"
+promoter: Jutho Haegeman, Frank Verstraete
+supervisor: Kevin Vervoort, Victor Vanthilt, Bram Vancraeynest-De Cuiper
+contact: Bram Vancraeynest-De Cuiper
 topic: "Condensed Matter Physics"
 year: "2025"
 ---
 
 #### Context
 
-An extremely powerful and ubiquitous concept in theoretical physics is that of duality, loosely defined as a non-trivial physical equivalence between distinct theories. The existence of a duality is typically rooted in a common mathematical structure underlying seemingly very different theories. One appeal of dualities is that certain computations that are difficult in a given theory may be much easier in a dual theory. In the context of quantum lattice models, dualities have recently been classified and constructed in terms of tensor networks in one spatial dimension [1,2], and progress has been made in (2+1)d [3,4]. This entanglement based approach to dualities has not only allowed for a concrete realization of the operators implementing the dualities explicitly on the lattice but has also led to an understanding of how quantum phases of matter can be converted into each other.
+An intriguing property of a large class of many-body lattice systems is the emerging local scale invariance at their critical points where a phase transition occurs. At these points, it is understood that the low-energy physics can be captured by **conformal field theories** (CFTs). Various challenges arise when it comes to modelling the critical behavior of these strongly correlated systems. One approach to modelling these critical lattice models is via a **tensor network** (TN) representation of their partition function [1]. In our research group we have developed a plethora of numerical algorithms and a numerical toolbox to optimize and renormalize these tensor networks [2].
 
-Closely related to the concept of dualities is that of non-invertible symmetries. As their name suggests these symmetries are characterized by the absence of an inverse for some of the symmetry operators, so that the resulting symmetry structure is not anymore described by a group. A systemic way of obtaining such symmetry structures is exactly via the aforementioned duality procedures.
-
-[1] I. Cirac, D. Perez-Garcia, N. Schuch, F. Verstraete - [arxiv:2011.12127](https://arxiv.org/abs/2312.09272)
-
-[2] L. Lootens, C. Delcamp, G. Ortiz, F. Verstraete - [2112.09091](https://arxiv.org/abs/2112.09091)
-
-[3] C. Delcamp, A. Tiwari - [arxiv:2301.01259](https://arxiv.org/abs/2301.01259)
-
-[4] B. Vancraeynest-De Cuiper, C. Delcamp - [arxiv:2501.16301](https://arxiv.org/abs/2501.16301)
+Through the lens of tensor network renormalization [4,5], ref. [3] proposed a method to extract the local observables of a CFT, known as the **primary operators**. The method relies on a tensor network representation of the (discrete) local rescaling operator on the level of the partition function.
 
 #### Goal
 
-The most well-known instance of a duality is the celebrated Kramers-Wannier duality. Applied to the one‐dimensional quantum transverse-field Ising model, it was found that the theory could be expressed either in terms of spin or domain wall degrees of freedom. These two formulations are related by a non-local mapping and describe the same physical system at different values of the interaction strengths; the ordered phase is mapped to the disordered phase and vice versa. By requiring the duality to leave the system invariant, the exact value of the critical coupling can be identified.
+The goal of this thesis is study the approach of ref. [3] to CFT operators on the lattice, incorporate it in our toolbox and conduct state-of-the art research with the developed code.
 
-The goal of this topic is to further expand the results of [2,3,4] in the two-dimensional setting. Warming up with completely working out the Kramers-Wannier duality in two dimensions in the presence of all boundary conditions, the student will then turn to more exotic dualities involving the gauging of charge conjugation [5,6]. This project is well suited for a student with a keen interest in mathematical physics and entanglement theory.
+The student would first familiarize themselves with the numerical tensor network toolbox developed in our group [2]. They would then reproduce the results of [3,4,5] and benchmark the codebase. Subsequently the student can improve upon the results of in several ways. One avenue which can be pursued would be to compute correlation functions involving the found primary operators. The student could also investigate how the so-called topological symmetries of the conformal models can be incorporated.
 
-[5] P.S. Hsin, R. Kobayashi, C. Zhang - [arxiv:2405.20401](https://arxiv.org/abs/2405.20401)
+The project will be carried out in an international research environment. This project is well-suited for students with a keen interest in mathematical physics and numerical simulations.
 
-[6] T. Jacobson - [arxiv:2406.12075](https://arxiv.org/abs/2406.12075)
+[1] J. I. Cirac, D. Pérez-García, N. Schuch, F. Verstraete, [arXiv:2011.12127](https://arxiv.org/abs/2011.12127)
+
+[2] [Software page](quantumghent.github.io/software/)
+
+[3] G. Evenbly, G. Vidal, [arXiv:1510.00689](https://arxiv.org/abs/1510.00689)
+
+[4] G. Evenbly, G. Vidal, [arXiv:1412.0732](https://arxiv.org/abs/1412.0732)
+
+[5] G. Evenbly, [arXiv:1509.07484](https://arxiv.org/abs/1509.07484)

@@ -3,7 +3,7 @@ title: "Conformal field theory operators on the lattice"
 promoter: Jutho Haegeman, Frank Verstraete
 supervisor: Kevin Vervoort, Victor Vanthilt, Bram Vancraeynest-De Cuiper
 contact: Bram Vancraeynest-De Cuiper
-topic: "Condensed Matter Physics"
+topic: "Computational Quantum Many-Body Physics"
 year: "2025"
 ---
 
@@ -21,12 +21,12 @@ The student would first familiarize themselves with the numerical tensor network
 
 The project will be carried out in an international research environment. This project is well-suited for students with a keen interest in mathematical physics and numerical simulations.
 
-[1] J. I. Cirac, D. Pérez-García, N. Schuch, F. Verstraete, [arXiv:2011.12127](https://arxiv.org/abs/2011.12127)
+[1] J. I. Cirac, D. Pérez-García, N. Schuch, F. Verstraete - [arXiv:2011.12127](https://arxiv.org/abs/2011.12127)
 
 [2] [Software page](quantumghent.github.io/software/)
 
-[3] G. Evenbly, G. Vidal, [arXiv:1510.00689](https://arxiv.org/abs/1510.00689)
+[3] G. Evenbly, G. Vidal - [arXiv:1510.00689](https://arxiv.org/abs/1510.00689)
 
-[4] G. Evenbly, G. Vidal, [arXiv:1412.0732](https://arxiv.org/abs/1412.0732)
+[4] G. Evenbly, G. Vidal - [arXiv:1412.0732](https://arxiv.org/abs/1412.0732)
 
-[5] G. Evenbly, [arXiv:1509.07484](https://arxiv.org/abs/1509.07484)
+[5] G. Evenbly - [arXiv:1509.07484](https://arxiv.org/abs/1509.07484)

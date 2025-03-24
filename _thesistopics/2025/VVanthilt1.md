@@ -1,7 +1,7 @@
 ---
 title: "Belief in the Infinite: Tackling Infinite Tensor Networks with Belief Propagation."
 promoter: Jutho Haegeman
-supervisor: Victor Vanthilt
+supervisor: Victor Vanthilt, Adwait Naravane
 contact: Victor Vanthilt
 topic: Computational Quantum Many-Body Physics
 year: "2025"

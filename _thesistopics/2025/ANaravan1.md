@@ -1,5 +1,5 @@
 ---
-title: "Renormalisation using Tensors, for fermions and Gauge theory"
+title: "Renormalising fermions and gauge fields using tensors"
 promoter: Jutho Haegeman
 supervisor: Adwait Naravane
 contact: Jutho Haegeman
@@ -15,11 +15,11 @@ This technique can also be applied to quantum systems with fermionic degrees of 
 
 <!-- * A more recent formalism to deal with fermions in tensor networks is based on super vector spaces \[10\], but this formalism has not yet been employed in the context of tensor-based RG. It would be interesting to understand whether this formalism provides a greater flexibility in how to implement the sequential coarse graining transformations. -->
 
-* For quantum field theories on a lattice there are different ways to encode the partition function as a tensor network. Extending this formalism to Hamiltonians or actions with both fermionic and dynamical gauge degrees of freedom in (1+1) and (2+1) dimensions is of particular interest as ultimately QCD has both fermions and gauge bosons. How to encode continuous gauge degrees of freedom using Symmetric tensors and efficiently represent and then contract the tensor network for the partition function remains an open question. 
+* For quantum field theories on a lattice there are different ways to encode the partition function as a tensor network. Extending this formalism to Hamiltonians or actions with both fermionic and dynamical gauge degrees of freedom in (1+1) and (2+1) dimensions is of particular interest as ultimately QCD has both fermions and gauge bosons. How to encode continuous gauge degrees of freedom using symmetric tensors and efficiently represent and then contract the tensor network for the partition function remains an open question. 
 
-* There are different numerical Tensor renormalisation schemes that can be used to study these theories from the simplest one proposed by Levin and Nave to more complicated state-of-the-art ones such as Loop-TNR which can capture the RG flow in much better detail. Implementing these algorithms for Fermionic and Gauge degrees of freedom is of particular interest. 
+* There are different numerical tensor renormalisation schemes that can be used to study these theories from the simplest one proposed by Levin and Nave to more complicated state-of-the-art ones such as Loop-TNR which can capture the RG flow in much better detail. Implementing these algorithms for fermionic and gauge degrees of freedom is of particular interest. 
 
-* Finally, calculating observable quantities such as local observables, Wilson Loops and their expectation values with Tensor networks is of great interest as these objects are important for studying the different phases of a lattice field theory. 
+* Finally, calculating observable quantities such as local observables, Wilson Loops and their expectation values with tensor networks is of great interest as these objects are important for studying the different phases of a lattice field theory. 
 
 <div align="center">
 ![A specific tensor-based RG implementation](/images/thesistopics/2023/JHaegeman1.png)
@@ -27,7 +27,7 @@ This technique can also be applied to quantum systems with fermionic degrees of 
 
 #### Goal
 
-The goals of these thesis is to address the points raised above and can depend on the interest of the student. We will start with replicating some of the existing results from fermionic tensor-based RG (TRG) studies, thereby translating the Grassmann number formalism to super vector spaces. We have developed an open-source Julia software package to perform Tensor network renormalisation (TNR) simulations called TNRkit, a part of this project can also be to further develop this software library by adding new TNR schemes. Next, we will look at the different strategies to discretise the Fermionic and gauge degres of freedom to efficiently represent the lattice partition function as a Tensor Network and study different LGTs using the available TNR schemes. Finally, if time permits, we will implement and investigate algorithms to measure observables and study the critical spectra of different models. 
+The goals of these thesis is to address the points raised above and can depend on the interest of the student. We will start with replicating some of the existing results from fermionic tensor-based RG (TRG) studies, thereby translating the Grassmann number formalism to super vector spaces. We have developed an open-source Julia software package to perform Tensor Network Renormalisation (TNR) simulations called TNRKit.jl. A part of this project can also be to further develop this software library by adding novel TNR schemes. Next, we will look at the different strategies to discretise the fermionic and gauge degres of freedom to efficiently represent the lattice partition function as a tensor network and study different LGTs using the available TNR schemes. Finally, if time permits, we will implement and investigate algorithms to measure observables and study the critical spectra of different models. 
 
 \[1\] Kadanoff, L. P. (1966). Scaling laws for Ising models near T c. Physics Physique Fizika, 2(6), 263.
 

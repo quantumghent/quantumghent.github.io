@@ -16,7 +16,7 @@
   topic: physics
   description: A package with tensor network algorithms based on matrix product states and matrix product operators, useful for one-dimensional quantum systems and two-dimensional partition functions. Contains algorithms for ground states and fixed points, excitations, time evolution and thermal states, for finite as well as infinite systems.
   link:
-    url: https://github.com/maartenvd/MPSKit.jl
+    url: https://github.com/QuantumKitHub/MPSKit.jl
     display: maartenvd/MPSKit.jl
 
 - title: "MERAKit.jl"
@@ -34,7 +34,7 @@
   topic: physics
   description: A package with tensor network algorithms based on projected entangled-pair states for both finite and infinite systems. Work in progress...
   link:
-    url: https://github.com/maartenvd/PEPSKit.jl
+    url: https://github.com/QuantumKitHub/PEPSKit.jl
     display: maartenvd/PEPSKit.jl
 
 - title: "WignerSymbols.jl"
@@ -52,7 +52,7 @@
   topic: physics
   description: A package to compute Clebsch-Gordan coefficients for the special unitary group SU(N) of arbitrary dimension N. Recoupling coefficients (known as F-symbols, related to Wigner's 6j symbols) can also be computed, and an interface to TensorKit.jl is provided.
   link:
-    url: https://github.com/maartenvd/SUNRepresentations.jl
+    url: https://github.com/QuantumKitHub/SUNRepresentations.jl
     display: maartenvd/SUNRepresentations.jl
 
 - title: "CategoryData.jl"

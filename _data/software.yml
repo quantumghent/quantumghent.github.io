@@ -19,6 +19,24 @@
     url: https://github.com/QuantumKitHub/MPSKit.jl
     display: QuantumKitHub/MPSKit.jl
 
+- title: "PEPSKit.jl"
+  image: pepskit.svg
+  language: julia
+  topic: physics
+  description: A package with tensor network algorithms based on projected entangled-pair states for both finite and infinite systems.
+  link:
+    url: https://github.com/QuantumKitHub/PEPSKit.jl
+    display: QuantumKitHub/PEPSKit.jl
+
+- title: "TNRKit.jl"
+  image: tnrkit.svg
+  language: julia
+  topic: physics
+  description: TNRKit.jl is a Julia package that aims to implement as many tensor network renormalization (TNR) schemes as possible.
+  link:
+    url: https://github.com/VictorVanthilt/TNRKit.jl
+    display: VictorVanthilt/TNRKit.jl
+
 - title: "MERAKit.jl"
   image: merakit.svg
   language: julia
@@ -27,15 +45,6 @@
   link:
     url: https://github.com/mhauru/MERAKit.jl
     display: mhauru/MERAKit.jl
-
-- title: "PEPSKit.jl"
-  image: pepskit.svg
-  language: julia
-  topic: physics
-  description: A package with tensor network algorithms based on projected entangled-pair states for both finite and infinite systems. Work in progress...
-  link:
-    url: https://github.com/QuantumKitHub/PEPSKit.jl
-    display: QuantumKitHub/PEPSKit.jl
 
 - title: "WignerSymbols.jl"
   image: wignersymbols.svg

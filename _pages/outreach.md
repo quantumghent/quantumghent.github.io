@@ -1,46 +1,55 @@
 ---
 title: "Outreach"
-layout: deafault
-excerpt: "Why Nobody Understands Quantum Physics"
+layout: textwithmath
+excerpt: "Why nobody understands quantum physics"
 sitemap: false
 permalink: /outreach/
 ---
 
-<div style="margin-bottom: 3cm;"></div>
 
 # Why Nobody Understands Quantum Physics
 
-<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover">
+<b> Contact us for more information, we welcome suggestions and ideas for possible collaborative projects. </b>
 
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
+
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        {% assign slide_number = 0 %}
+        {% for image in site.data.outreach-carousel %}
+        {% if slide_number == 0 %}
+            <li data-target="#carousel" data-slide-to="{{ slide_number }}" class="active"></li>
+        {% else %}
+        <li data-target="#carousel" data-slide-to="{{ slide_number }}"></li>
+        {% endif %}
+        {% assign slide_number = slide_number | plus: 1 %}
+        {% endfor %}
+    </ol>
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+    {% assign slide_number = 0 %}
     {% for image in site.data.outreach-carousel %}
-      <li data-target="#carousel" data-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %}active{% endif %}"></li>
-    {% endfor %}
-  </ol>
 
-  <!-- Slides -->
-  <div class="carousel-inner">
-    {% for image in site.data.outreach-carousel %}
-      <div class="carousel-item {% if forloop.first %}active{% endif %}">
-        <img src="{{ '/assets/images/' | relative_url }}{{ image.image }}" class="d-block w-100" alt="{{ image.alt | default: 'Slide ' | append: forloop.index }}">
-      </div>
-    {% endfor %}
-  </div>
+        {% if slide_number == 0 %}
+            <div class="item active">
+        {% else %}
+            <div class="item">
+        {% endif %}
+            <img src="{{ site.url }}{{ site.baseurl }}/images/{{ image.image }}" alt="Slide {{ slide_number }}" />
+        </div>
 
-  <!-- Controls -->
-  <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    {% assign slide_number = slide_number | plus: 1 %}
+    {% endfor %}
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-
 </div>
-
-<br><br>
 
 **Contact the authors:** [fverstraete@gmail.com](mailto:fverstraete@gmail.com) and [celine.broeckaert@gmail.com](mailto:celine.broeckaert@gmail.com)
 

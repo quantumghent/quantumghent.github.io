@@ -16,7 +16,7 @@ permalink: /outreach
     <!-- Menu -->
     <ol class="carousel-indicators">
         {% assign slide_number = 0 %}
-        {% for image in site.data.bec-carousel %}
+        {% for image in site.data.outreach-carousel %}
         {% if slide_number == 0 %}
             <li data-target="#carousel" data-slide-to="{{ slide_number }}" class="active"></li>
         {% else %}

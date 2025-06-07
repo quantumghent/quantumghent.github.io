@@ -52,4 +52,4 @@ permalink: /outreach
 </div>
 
 
-<b> Contact: fverstraete@gmail.com and celine.broeckaert@gmail.com  </b>
+<b> Contact the authors: fverstraete@gmail.com and celine.broeckaert@gmail.com  </b>

@@ -5,7 +5,7 @@ excerpt: "Why Nobody Understands Quantum Physics"
 sitemap: false
 permalink: /outreach
 ---
-
+<p style="margin-bottom:3cm;"> </p>
 <h1> 
     Why Nobody Understands Quantum Physics - and everyone needs to know something about it 
 </h1>
@@ -51,4 +51,9 @@ permalink: /outreach
 </div>
 
 
+
 <b> Contact the authors: fverstraete@gmail.com and celine.broeckaert@gmail.com  </b>
+
+
+<p style="margin-bottom:20cm;"> </p>
+

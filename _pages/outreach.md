@@ -7,8 +7,6 @@ permalink: /outreach/
 ---
 <p style="margin-bottom:3cm;"> </p>
 <h1>  Why Nobody Understands Quantum Physics </h1>
-<h2> (And Everyone Needs To Know Something About It) 
-</h2>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

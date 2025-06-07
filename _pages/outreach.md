@@ -6,10 +6,11 @@ sitemap: false
 permalink: /outreach/
 ---
 
+<div style="margin-bottom: 3cm;"></div>
 
 # Why Nobody Understands Quantum Physics
+# (And Everyone Needs to Know Something About It)
 
-<b> Contact us for more information, we welcome suggestions and ideas for possible collaborative projects. </b>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2000" data-pause="hover" >
@@ -52,5 +53,13 @@ permalink: /outreach/
 </div>
 
 **Contact the authors:** [fverstraete@gmail.com](mailto:fverstraete@gmail.com) and [celine.broeckaert@gmail.com](mailto:celine.broeckaert@gmail.com)
+<p> Prof. Frank Verstraete</p>
+<p>Department of Mathematics and Theoretical Physics</p>
+<p>Centre for Mathematical Sciences, Wilberforce Rd, Cambridge CB3 0WA</p>
+<p>United Kingdom</p>
+
+
+
+
 
 <div style="margin-bottom: 20cm;"></div>

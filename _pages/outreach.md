@@ -7,7 +7,7 @@ permalink: /outreach/
 ---
 <p style="margin-bottom:3cm;"> </p>
 <h1>  Why Nobody Understands Quantum Physics </h1>
-<h2  (And Everyone Needs To Know Something About It)
+<h2> (And Everyone Needs To Know Something About It)
 </h2>
 
 

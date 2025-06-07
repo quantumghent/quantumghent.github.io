@@ -2,7 +2,7 @@
 title: "Outreach"
 layout: textwithmath
 excerpt: "Why Nobody Understands Quantum Physics"
-permalink: /outreach/
+permalink: /outreach
 ---
 
 <div style="margin-bottom: 3cm;"></div>

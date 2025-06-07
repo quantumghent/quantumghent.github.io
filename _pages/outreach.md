@@ -6,10 +6,7 @@ sitemap: false
 permalink: /outreach
 ---
 
-
-# Why Nobody Understands Quantum Physics - and everyone needs to know something about it
-
-
+<h1> Why Nobody Understands Quantum Physics - and everyone needs to know something about it </h1>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

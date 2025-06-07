@@ -1,6 +1,6 @@
 ---
 title: "Outreach"
-layout: textwithmath
+layout: deafault
 excerpt: "Why Nobody Understands Quantum Physics"
 permalink: /outreach/
 ---

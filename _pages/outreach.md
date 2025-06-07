@@ -28,7 +28,7 @@ permalink: /outreach
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
     {% assign slide_number = 0 %}
-    {% for image in site.data.bec-carousel %}
+    {% for image in site.data.outreach-carousel %}
 
         {% if slide_number == 0 %}
             <div class="item active">
@@ -52,4 +52,4 @@ permalink: /outreach
 </div>
 
 
-<b> Contact fverstraete@gmail.com or celine.broeckaert@gmail.com if you want to contact the authors  </b>
+<b> Contact: fverstraete@gmail.com and celine.broeckaert@gmail.com  </b>

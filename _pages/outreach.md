@@ -3,7 +3,7 @@ title: "Outreach"
 layout: textwithmath
 excerpt: "Why Nobody Understands Quantum Physics"
 sitemap: false
-permalink: /outreach
+permalink: /outreach/
 ---
 <p style="margin-bottom:3cm;"> </p>
 <h1> 

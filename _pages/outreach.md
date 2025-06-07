@@ -12,7 +12,7 @@ permalink: /outreach/
 <b> Contact us for more information, we welcome suggestions and ideas for possible collaborative projects. </b>
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         {% assign slide_number = 0 %}

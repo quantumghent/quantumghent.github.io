@@ -1,10 +1,10 @@
 ---
-title: "Outreach"
+title: "QuantumGroup@UGent - BEC Lab"
 layout: textwithmath
-excerpt: "Why Nobody Understands Quantum Physics"
-permalink: /outreach/
+excerpt: "QuantumGroup@UGent -- Bose-Einstein Condensate Laboratory"
+sitemap: false
+permalink: /bec/
 ---
-<h1> Why Nobody Understands Quantum Physics </h1>
 
 
-<p>Contact the authors: [fverstraete@gmail.com](mailto:fverstraete@gmail.com) and [celine.broeckaert@gmail.com](mailto:celine.broeckaert@gmail.com) </p>
+# Bose-Einstein Condensate Laboratory

@@ -8,7 +8,7 @@ permalink: /outreach/
 
 <div style="margin-bottom: 3cm;"></div>
 
-# Why Nobody Understands Quantum Physics (And Everyone Needs to Know Something About It)
+# Why Nobody Understands Quantum Physics          (And Everyone Needs to Know Something About It)
 
 
 

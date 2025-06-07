@@ -2,6 +2,7 @@
 title: "Outreach"
 layout: deafault
 excerpt: "Why Nobody Understands Quantum Physics"
+sitemap: false
 permalink: /outreach/
 ---
 

@@ -14,7 +14,16 @@ permalink: /outreach/
  Originally written in Dutch, it became one of the bestselling popular science books in Belgium ever.  It is now translated in English, French, German, Italian, Spanish, Russian, Korean and Chinese. </p>
 <h1> Why Nobody Understands Quantum Physics</h1>          
 <h2> (And Everyone Needs to Know Something About It)</h2>
-
+<p>
+  Link to Publishers:
+    <a href="https://www.panmacmillan.com/authors/frank-verstraete/why-nobody-understands-quantum-physics/9781035065844">
+        https://www.panmacmillan.com/authors/frank-verstraete/why-nobody-understands-quantum-physics
+    </a></p>
+<p>        
+  <a href="https://www.lannoo.be/en/waarom-niemand-kwantum-begrijpt">
+    https://www.lannoo.be/en/waarom-niemand-kwantum-begrijpt
+  </a>
+</p>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >

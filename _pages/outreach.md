@@ -7,8 +7,8 @@ permalink: /outreach/
 ---
 
 <div style="margin-bottom: 1cm;"></div>
-<h1> Why Nobody Understands Quantum Physics</h1>          
-<h2> (And Everyone Needs to Know Something About It)</h2>
+<h2> Why Nobody Understands Quantum Physics</h2>          
+<h3> (And Everyone Needs to Know Something About It)</h3>
 
 <p>
     A new popular science book explaining quantum physics and its applications. Unlike many others in the genre, this book does not shy away from complex topics, while still remaining accessible to the general reader. By the husband-wife physicist-writer team Frank Verstraete and Céline Broeckaert.</p> 
@@ -66,6 +66,7 @@ permalink: /outreach/
     https://www.lannoo.be/en/waarom-niemand-kwantum-begrijpt
   </a>
 </p>
+<div style="margin-bottom: 1cm;"></div>
 
 
 

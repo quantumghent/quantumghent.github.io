@@ -13,7 +13,7 @@ permalink: /outreach/
 <p>
     A new popular science book explaining quantum physics and its applications. Unlike many others in the genre, this book does not shy away from complex topics, while still remaining accessible to the general reader. By the husband-wife physicist-writer team Frank Verstraete and Céline Broeckaert.</p> 
 <p>
- Originally written in Dutch, it became one of the bestselling popular science books in Belgium ever.  It is now translated in English, French, German, Italian, Spanish, Russian, Korean and Chinese. </p>
+ Originally written in Dutch, it became one of the best selling popular science books in Belgium ever.  It is now translated in English, French, German, Italian, Spanish, Russian, Korean and Chinese. </p>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >

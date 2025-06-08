@@ -15,7 +15,8 @@ permalink: /outreach/
 <h1> Why Nobody Understands Quantum Physics</h1>          
 <h2> (And Everyone Needs to Know Something About It)</h2>
 <p>
-  Link to Publishers:
+  Link to Publishers:</p>
+<p>
     <a href="https://www.panmacmillan.com/authors/frank-verstraete/why-nobody-understands-quantum-physics/9781035065844">
         https://www.panmacmillan.com/authors/frank-verstraete/why-nobody-understands-quantum-physics
     </a></p>

@@ -6,25 +6,14 @@ sitemap: false
 permalink: /outreach/
 ---
 
-<div style="margin-bottom: 3cm;"></div>
-
-<p style="font-size: 30px;">
-    A new popular science book explaining quantum physics and its applications. Unlike many others in the genre, this book does not shy away from complex topics, while still remaining accessible to the general reader. By the husband-wife physicist-writer team Frank Verstraete and Céline Broeckaert.</p> 
-<p style="font-size: 30px;">
- Originally written in Dutch, it became one of the bestselling popular science books in Belgium ever.  It is now translated in English, French, German, Italian, Spanish, Russian, Korean and Chinese. </p>
+<div style="margin-bottom: 1cm;"></div>
 <h1> Why Nobody Understands Quantum Physics</h1>          
 <h2> (And Everyone Needs to Know Something About It)</h2>
-<p>
-  Link to Publishers:</p>
-<p>
-    <a href="https://www.panmacmillan.com/authors/frank-verstraete/why-nobody-understands-quantum-physics/9781035065844">
-        https://www.panmacmillan.com/authors/frank-verstraete/why-nobody-understands-quantum-physics
-    </a></p>
-<p>        
-  <a href="https://www.lannoo.be/en/waarom-niemand-kwantum-begrijpt">
-    https://www.lannoo.be/en/waarom-niemand-kwantum-begrijpt
-  </a>
-</p>
+
+<p style="font-size: 15px;">
+    A new popular science book explaining quantum physics and its applications. Unlike many others in the genre, this book does not shy away from complex topics, while still remaining accessible to the general reader. By the husband-wife physicist-writer team Frank Verstraete and Céline Broeckaert.</p> 
+<p style="font-size: 15px;">
+ Originally written in Dutch, it became one of the bestselling popular science books in Belgium ever.  It is now translated in English, French, German, Italian, Spanish, Russian, Korean and Chinese. </p>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -65,6 +54,20 @@ permalink: /outreach/
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+<p>
+  Link to Publishers:</p>
+<p>
+    <a href="https://www.panmacmillan.com/authors/frank-verstraete/why-nobody-understands-quantum-physics/9781035065844">
+        https://www.panmacmillan.com/authors/frank-verstraete/why-nobody-understands-quantum-physics
+    </a></p>
+<p>        
+  <a href="https://www.lannoo.be/en/waarom-niemand-kwantum-begrijpt">
+    https://www.lannoo.be/en/waarom-niemand-kwantum-begrijpt
+  </a>
+</p>
+
+
 
 **Contact the authors:** [fverstraete@gmail.com](mailto:fverstraete@gmail.com) and [celine.broeckaert@gmail.com](mailto:celine.broeckaert@gmail.com)
 <p> Prof. Frank Verstraete</p>

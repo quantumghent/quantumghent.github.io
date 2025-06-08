@@ -8,11 +8,16 @@ permalink: /outreach/
 
 <div style="margin-bottom: 3cm;"></div>
 
-# Why Nobody Understands Quantum Physics          (And Everyone Needs to Know Something About It)
+<p style="font-size: 30px;">
+    A new popular science book explaining quantum physics and its applications. Unlike many others in the genre, this book does not shy away from complex topics, while still remaining accessible to the general reader. By the husband-wife physicist-writer team Frank Verstraete and Céline Broeckaert.</p> 
+<p style="font-size: 30px;">
+ Originally written in Dutch, it became one of the bestselling popular science books in Belgium ever.  It is now translated in English, French, German, Italian, Spanish, Russian, Korean and Chinese. </p>
+<h1> Why Nobody Understands Quantum Physics</h1>          
+<h2> (And Everyone Needs to Know Something About It)</h2>
 
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         {% assign slide_number = 0 %}

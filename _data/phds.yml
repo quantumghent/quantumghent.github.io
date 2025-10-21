@@ -63,10 +63,11 @@
 
 - name: Victor Vanthilt
   sname: Vanthilt
-  # photo:
+  photo: FotoVictor.png
   info: FWO PhD student since 2024
   email: victor.vanthilt@ugent.be
   github: VictorVanthilt
+  scholar: nzNK1woAAAA
 
 - name: Kevin Vervoort
   sname: Vervoort

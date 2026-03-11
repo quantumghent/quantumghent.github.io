@@ -17,9 +17,9 @@ Capturing this behavior goes beyond the reach of standard descriptions like the 
 
 References: 
 
-[1] [S. Raghavan, A. Smerzi, S. Fantoni, and S. R. Shenoy. Coherent oscillations between two weakly coupled bose-einstein condensates: Josephson effects, π-oscillations, and macroscopic quantum self trapping, 1998.](https://arxiv.org/abs/cond-mat/9706220)
+[1] [S. Raghavan, A. Smerzi, S. Fantoni, and S. R. Shenoy. Coherent oscillations between two weakly coupled bose-einstein condensates: Josephson effects, pi-oscillations, and macroscopic quantum self trapping, 1998.](https://arxiv.org/abs/cond-mat/9706220)
 
-[2] [M A Cazalilla. Bosonizing one-dimensional cold atomic gases. Journal of Physics B: Atomic, Molecular and Optical Physics, 37(7):S1–S47, March 2004.](https://arxiv.org/abs/cond-mat/0307033)
+[2] [M A Cazalilla. Bosonizing one-dimensional cold atomic gases. Journal of Physics B: Atomic, Molecular and Optical Physics, 37(7):S1-S47, March 2004.](https://arxiv.org/abs/cond-mat/0307033)
 
 [3] Thierry Giamarchi. Quantum Physics in One Dimension, volume 121 of International Series of Monographs on Physics. Clarendon Press, Oxford, 2003.
 

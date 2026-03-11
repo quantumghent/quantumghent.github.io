@@ -1,5 +1,5 @@
 ---
-title: "Sync or Swim? Phase-locking in 1D coupled Bose gases"
+title: "Sync or Swim&quest; Phase-locking in 1D coupled Bose gases"
 promoter: Jutho Haegeman, Karel Van Acoleyen
 supervisor: Akshay Shankar
 contact: Akshay Shankar

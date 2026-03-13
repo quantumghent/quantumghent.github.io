@@ -17,8 +17,6 @@ The goal of this thesis is to explore the possibility of simulating a fermionic 
 
 #### References
 
-<p><img alt="Circuit" src="/images/thesistopics/2026/XZhang.png" style="float:right; width:300px" /></p>
-
 [1] Fisher, M.P., Khemani, V., Nahum, A. and Vijay, S., [arXiv:2207.14280](https://arxiv.org/abs/2207.14280)
 
 [2] Skinner B, Ruhman J, Nahum A., [arXiv:1808.05953](https://arxiv.org/abs/1808.05953)
@@ -28,3 +26,5 @@ The goal of this thesis is to explore the possibility of simulating a fermionic 
 [4] Li Y, Chen X, Fisher M.P., [arXiv:1901.08092](https://arxiv.org/abs/1901.08092)
 
 [5] F Assaad, H Evertz, [Computational many-particle physics](https://scholar.google.com/scholar?cluster=9863927204596278835&hl=en&oi=scholarr)
+
+<p><img alt="Fig Circuit" src="/images/thesistopics/2026/XZhang.png" style="float:middle; width:400px" /></p>

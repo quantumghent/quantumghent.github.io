@@ -21,7 +21,7 @@ To investigate the real-time evolution of a quantum state, the evolution operato
 
 $$ O(\Delta t) = e^{-i \Delta t H}$$
 
-Since this is exponentially hard in the system size, approximations are necessary. The traditional approach relies on the Suzuki-Trotter decomposition, but a more recent and accurate alternative is to use cluster expansions (see Figure 2) [3,4]. For both of these methods, the key challenge is to systemetically find accurate representations of this evolution operator at high values of $t$. The cluster expansion method has up until now mostly been used for thermal states in an imaginary-time evolution approach, whereas here real-time evolution would be needed [5].
+Since this is exponentially hard in the system size, approximations are necessary. The traditional approach relies on the Suzuki-Trotter decomposition, but a more recent and accurate alternative is to use cluster expansions (see Figure 2) [3,4]. For both of these methods, the key challenge is to systemetically find accurate representations of this evolution operator at high values of $$ t $$. The cluster expansion method has up until now mostly been used for thermal states in an imaginary-time evolution approach, whereas here real-time evolution would be needed [5].
 
 <p><img alt="Fig. 2: Example of cluster expansions" src="/images/thesistopics/2026/SDeMeyer4.png" style="float:right; width:280px" /></p>
 

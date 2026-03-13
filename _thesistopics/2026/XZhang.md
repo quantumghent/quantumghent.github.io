@@ -22,4 +22,5 @@ The goal of this thesis is to explore the possibility of simulating a fermionic 
 [3] Li Y, Chen X, Fisher M.P., [arXiv:1808.06134](https://arxiv.org/abs/1808.06134)
 [4] Li Y, Chen X, Fisher M.P., [arXiv:1901.08092](https://arxiv.org/abs/1901.08092)
 [5] F Assaad, H Evertz, [Computational many-particle physics](https://scholar.google.com/scholar?cluster=9863927204596278835&hl=en&oi=scholarr)
-<p><img alt="Circuit" src="/images/thesistopics/2026/XZhang.png" style="float:right; width:300px" /></p>
+
+<p><img alt="Circuit" src="/images/thesistopics/2026/XZhang.png" style="float:middle; width:500px" /></p>

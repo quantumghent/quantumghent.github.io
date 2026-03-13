@@ -15,15 +15,15 @@ To study and simulate superconductivity, the Hubbard model was introduced as a m
 
 $$ H = -t \sum_{<i j> \sigma} \left(\hat{c}_{i \sigma}^\dagger \hat{c}_{j \sigma} + h.c.\right) + U \sum_i \hat{n}_i \hat{n}_j $$.
 
-However, solving it remains a significant challenge, leading to the development of numerous computational approaches. Among these, Tensor Networks (TN) have emerged as a powerful tool, explicitly capturing strong correlations without suffering from the sign problem (like Quantum Monte Carlo methods). In particular, the two-dimensional TN variant, Projected Entangled-Pair States (PEPS), is widely used but has been primarily applied to ground-state (0K) calculations and static properties. To get more insight into the Hubbard model, it is crucial to extend these methods to finite-temperature states and their time evolution [2]. This would allow us to accuretly predict the finite-temperature phase diagram of the Hubbard model (Figure 1).
-
 <p><img alt="Fig. 1: Phase diagram of the Hubbard model" src="/images/thesistopics/2026/SDeMeyer3.png" style="float:right; width:350px" /></p>
+
+However, solving it remains a significant challenge, leading to the development of numerous computational approaches. Among these, Tensor Networks (TN) have emerged as a powerful tool, explicitly capturing strong correlations without suffering from the sign problem (like Quantum Monte Carlo methods). In particular, the two-dimensional TN variant, Projected Entangled-Pair States (PEPS), is widely used but has been primarily applied to ground-state (0K) calculations and static properties. To get more insight into the Hubbard model, it is crucial to extend these methods to finite-temperature states and their time evolution [2]. This would allow us to accuretly predict the finite-temperature phase diagram of the Hubbard model (Figure 1).
 
 A key computational challenge in the latter is evaluating the exponential of the Hamiltonian. For finite temperatures, this requires computing the density operator:
 
 $$\rho(\beta) = e^{-\beta H}$$
  
-Since this is exponentially hard in the system size, approximations are necessary. The traditional approach relies on the Suzuki-Trotter decomposition, but a more recent and accurate alternative is to use cluster expansions (see Figure 1) [3,4]. For both of these methods, the key challenge is to systemetically find accurate representations of this thermal state at high values of $\beta$ (low temperatures). 
+Since this is exponentially hard in the system size, approximations are necessary. The traditional approach relies on the Suzuki-Trotter decomposition, but a more recent and accurate alternative is to use cluster expansions (see Figure 1) [3,4]. For both of these methods, the key challenge is to systemetically find accurate representations of this thermal state at high values of $$ \beta $$ (low temperatures). 
 
 <p><img alt="Fig. 2: Example of cluster expansions" src="/images/thesistopics/2026/SDeMeyer4.png" style="float:right; width:280px" /></p>
 

@@ -1,6 +1,5 @@
 ---
-title: "Illuminati(ng) the physics of strongly-correlated materials on the triangular lattice with quantum many-
-body simulations"
+title: "Illuminati(ng) the physics of strongly-correlated materials on the triangular lattice with quantum many-body simulations"
 promoter: Jutho Haegeman, Veronique Van Speybroeck
 supervisor: Sander De Meyer, Gleb Fedorovich, Daan Verraes
 contact: Sander De Meyer 

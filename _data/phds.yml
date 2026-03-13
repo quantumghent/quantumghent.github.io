@@ -7,14 +7,6 @@
 #  github:
 #  twitter:
 
-- name: Lander Burgelman
-  sname: Burgelman
-  photo: FOTOlanderburgelman.jpg
-  info: FWO PhD student since 2020
-  email: lander.burgelman@ugent.be
-  scholar: Jxh79GkAAAAJ
-  github: leburgel
-
 - name: Sander De Meyer
   sname: De Meyer
   info: FWO PhD student since 2024
@@ -33,12 +25,6 @@
   orcid: 0000-0002-7664-0384
   info: FWO PhD student since 2024
   email: Gleb.Fedorovich@UGent.be
-
-- name: Daan Maertens
-  sname: Maertens
-  photo: FOTOdaanmaertens.jpeg
-  info: PhD student since 2020
-  email: daan.maertens@ugent.be
 
 - name: Akshay Shankar
   sname: Shankar
@@ -153,3 +139,9 @@
 #   photo: FOTOlukasdevos.jpg
 #   info: PhD student since 2020
 #   email: lukas.devos@ugent.be
+
+# - name: Daan Maertens
+#   sname: Maertens
+#   photo: FOTOdaanmaertens.jpeg
+#   info: PhD student since 2020
+#   email: daan.maertens@ugent.be

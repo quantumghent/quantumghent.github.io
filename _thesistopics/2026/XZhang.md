@@ -27,4 +27,4 @@ The goal of this thesis is to explore the possibility of simulating a fermionic 
 
 [5] F Assaad, H Evertz, [Computational many-particle physics](https://scholar.google.com/scholar?cluster=9863927204596278835&hl=en&oi=scholarr)
 
-<p><img alt="Fig Circuit" src="/images/thesistopics/2026/XZhang.png" style="float:middle; width:450px" /></p>
+<p><img alt="Fig Circuit" src="/images/thesistopics/2026/XZhang.png" style="float:middle; width:500px" /></p>

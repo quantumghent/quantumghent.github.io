@@ -31,8 +31,7 @@ This thesis will have a major numerical component, requiring programming in the 
 Implement belief propagation for the contraction of infinite 2D tensor networks and validate it against exact analytical results. We will make use of the TensorKit Julia library which makes writing tensor network code a breeze.
 
 2. **Systematic Benchmarking Against TNR Methods**
-Perform a systematic comparison of BP-based contraction against established techniques (e.g. TRG, HOTRG) in terms of accuracy, computational cost, and scaling with bond dimension χ\chi
-χ. Identify regimes where BP is competitive or superior, and where it breaks down.
+Perform a systematic comparison of BP-based contraction against established techniques (e.g. TRG, HOTRG) in terms of accuracy, computational cost, and scaling with bond dimension. Identify regimes where BP is competitive, and where it breaks down.
 
 3. **BP Improvements**
 Implement several improvements on top of BP put forward by [3] and [4].

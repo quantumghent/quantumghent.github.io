@@ -39,7 +39,9 @@ Implement several improvements on top of BP put forward by [3] and [4].
 4. **Exploration**
 Explore novel improvements for BP and/or come up with hybrid TNR/BP methods.
 
+<p><img alt="Loop series expansion on a square tensor network" src="/images/thesistopics/2026/VVanthilt1.png" style="float:right; width:350px" /></p>
 
+#### References
 [1] Bridgeman, J. (2016) [arxiv.org:1603.03039](https://arxiv.org/abs/1603.03039)
 [2] Alkabetz R. [arXiv:2008.04433](https://arxiv.org/abs/2008.04433)
 [3] Evenbly, G. (2024) [arxiv.org:2409.03108](https://arxiv.org/abs/2409.03108)  

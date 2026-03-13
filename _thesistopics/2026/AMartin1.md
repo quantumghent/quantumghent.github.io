@@ -33,9 +33,14 @@ along with the explicit mapping of their conserved charges as defined in [6]. Th
 
 
 #### References
-[1] I. Cirac, D. Perez-Garcia, N. Schuch, F. Verstraete - [arxiv: 2011.12127](https://arxiv.org/pdf/2011.12127)
+[1] I. Cirac, D. Perez-Garcia, N. Schuch, F. Verstraete [arxiv: 2011.12127](https://arxiv.org/pdf/2011.12127)
+
 [2] L. Lootens, C. Delcamp, G. Ortiz, F. Verstraete [arxiv: 2112.09091](https://arxiv.org/pdf/2112.09091)
+
 [3] L. Lootens, C. Delcamp, F. Verstraete [arxiv: 2211.03777](https://arxiv.org/pdf/2211.03777)
+
 [4] B. Vancraeynest-De Cuiper, W. Wiesiolek, F. Verstraete [arxiv: 2512.24390](https://arxiv.org/pdf/2512.24390)
+
 [5] Y. Miao, A. Molnar, N. Jones - [arxiv: 2602.17436](https://arxiv.org/pdf/2602.17436)
+
 [6] P. Fendley, S. Gehrmann, E. Vernier, F. Verstraete - [arxiv: 2511.04674](https://arxiv.org/pdf/2511.04674)

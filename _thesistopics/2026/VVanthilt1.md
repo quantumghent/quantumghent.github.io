@@ -8,6 +8,7 @@ year: "2026"
 ---
 
 #### Context
+
 Many interesting problems in and around physics can be formulated as the contraction of an infinite two-dimensional tensor network [1].
 
 - Partition function of 2d classical models and (1+1)D quantum systems.
@@ -25,6 +26,7 @@ To increase its accuracy, researchers have put forward several improvements. Loo
 These novel methods remain an active field of research with many open questions to be answered and possible improvements to discovered.
 
 #### Goal
+
 This thesis will have a major numerical component, requiring programming in the Julia programming language (no prior knowledge required). It consists of three main objectives:
 
 1. **Implement belief propagation**
@@ -42,8 +44,8 @@ Explore novel improvements for BP and/or come up with hybrid TNR/BP methods.
 <p><img alt="Loop series expansion on a square tensor network" src="/images/thesistopics/2026/VVanthilt1.png" style="float:right; width:350px" /></p>
 
 #### References
-[1] Bridgeman, J. (2016) [arxiv.org:1603.03039](https://arxiv.org/abs/1603.03039)
-[2] Alkabetz R. [arXiv:2008.04433](https://arxiv.org/abs/2008.04433)
-[3] Evenbly, G. (2024) [arxiv.org:2409.03108](https://arxiv.org/abs/2409.03108)  
-[4] Gray J. (2025) [arXiv:2510.05647](https://arxiv.org/abs/2510.05647)
 
+[1] Bridgeman, J. (2016) [arxiv.org:1603.03039](https://arxiv.org/abs/1603.03039)
+[2] Alkabetz R. (2020) [arXiv:2008.04433](https://arxiv.org/abs/2008.04433)
+[3] Evenbly, G. (2024) [arxiv.org:2409.03108](https://arxiv.org/abs/2409.03108)
+[4] Gray J. (2025) [arXiv:2510.05647](https://arxiv.org/abs/2510.05647)

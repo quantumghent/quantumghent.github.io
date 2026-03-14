@@ -30,15 +30,19 @@ These novel methods remain an active field of research with many open questions 
 This thesis will have a major numerical component, requiring programming in the Julia programming language (no prior knowledge required). It consists of three main objectives:
 
 1. **Implement belief propagation**
+
 Implement belief propagation for the contraction of infinite 2D tensor networks and validate it against exact analytical results. We will make use of the TensorKit Julia library which makes writing tensor network code a breeze.
 
 2. **Systematic Benchmarking Against TNR Methods**
+
 Perform a systematic comparison of BP-based contraction against established techniques (e.g. TRG, HOTRG) in terms of accuracy, computational cost, and scaling with bond dimension. Identify regimes where BP is competitive, and where it breaks down.
 
 3. **BP Improvements**
+
 Implement several improvements on top of BP put forward by [3] and [4].
 
 4. **Exploration**
+
 Explore novel improvements for BP and/or come up with hybrid TNR/BP methods.
 
 <p><img alt="Loop series expansion on a square tensor network" src="/images/thesistopics/2026/VVanthilt1.png" style="float:right; width:350px" /></p>
@@ -46,6 +50,9 @@ Explore novel improvements for BP and/or come up with hybrid TNR/BP methods.
 #### References
 
 [1] Bridgeman, J. (2016) [arxiv.org:1603.03039](https://arxiv.org/abs/1603.03039)
+
 [2] Alkabetz R. (2020) [arXiv:2008.04433](https://arxiv.org/abs/2008.04433)
+
 [3] Evenbly, G. (2024) [arxiv.org:2409.03108](https://arxiv.org/abs/2409.03108)
+
 [4] Gray J. (2025) [arXiv:2510.05647](https://arxiv.org/abs/2510.05647)

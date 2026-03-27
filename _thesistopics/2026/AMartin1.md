@@ -3,7 +3,7 @@ title: "Dualities in integrable quantum lattice models"
 promoter: Frank Verstraete
 supervisor: Anton Martin
 contact: Anton Martin
-topic: Condensed matter physics
+topic: Condensed Matter Physics
 year: "2026"
 ---
 

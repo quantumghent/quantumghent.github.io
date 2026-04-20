@@ -2,7 +2,7 @@
 title: "Engineering solitons in Bose-Einstein condensates"
 promoter: Karel Van Acoleyen
 supervisor: Robbert Decruyenaere, Senne Van Wellen
-contact: Robbert Decruyenaere
+contact: Robbert Decruyenaere (robbert.decruyenaere@ugent.be)
 topic: "Bose-Einstein condensate"
 year: "2026"
 ---

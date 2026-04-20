@@ -2,7 +2,7 @@
 title: "A quantum field in the lab"
 promoter: Karel Van Acoleyen
 supervisor: Senne Van Wellen, Robbert Decruyenaere, Kobe Vergaerde
-contact: Senne Van Wellen
+contact: Karel Van Acoleyen
 topic: "Bose-Einstein condensate"
 year: "2026"
 ---

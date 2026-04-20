@@ -2,7 +2,7 @@
 title: "Topological Photons and Synthetic Dimensions: From Quantum Simulation to Photonic Devices"
 promoter: Karel Van Acoleyen, Kasper Van Gasse
 supervisor: Louis Lammertyn
-contact: Karel Van Acoleyen
+contact: Louis Lammertyn (louis.lammertyn@ugent.be)
 topic: "Condensed Matter Physics"
 year: "2026"
 ---

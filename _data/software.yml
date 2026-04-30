@@ -7,8 +7,8 @@
   topic: physics
   description: A package for efficient and large-scale tensor computations, where tensors take a very general definition (inspired from the theory of monoidal categories). Provides support for tensors with arbitrary symmetries (abelian, non-abelian, anyonic and categorical symmetries, a.k.a. fusion categories).
   link:
-    url: https://github.com/Jutho/TensorKit.jl
-    display: Jutho/TensorKit.jl
+    url: https://github.com/QuantumKitHub/TensorKit.jl
+    display: QuantumKitHub/TensorKit.jl
 
 - title: "MPSKit.jl"
   image: mpskit.svg
@@ -34,8 +34,8 @@
   topic: physics
   description: TNRKit.jl is a Julia package that aims to implement as many tensor network renormalization (TNR) schemes as possible.
   link:
-    url: https://github.com/VictorVanthilt/TNRKit.jl
-    display: VictorVanthilt/TNRKit.jl
+    url: https://github.com/QuantumKitHub/TNRKit.jl
+    display: QuantumKitHub/TNRKit.jl
 
 - title: "MERAKit.jl"
   image: merakit.svg
@@ -88,8 +88,8 @@
   topic: general
   description: A package to efficiently contract and permute multidimensional arrays using a convenient syntax based on Einstein's summation convention. Provides an extensible API (used by e.g. TensorKit.jl) and tools to optimize contraction order and to cache storage buffers for temporaries.
   link:
-    url: https://github.com/Jutho/TensorOperations.jl
-    display: Jutho/TensorOperations.jl
+    url: https://github.com/QuantumKitHub/TensorOperations.jl
+    display: QuantumKitHub/TensorOperations.jl
 
 - title: "SparseArrayKit.jl"
   image: sparsearraykit.svg
@@ -124,8 +124,8 @@
   topic: general
   description: An accelorator package to work with strided arrays, i.e. dense arrays whose memory layout has a fixed stride along every dimension. Strided.jl does not make any assumptions about the strides (such as stride 1 along first dimension, or monotonously increasing strides) and provides multithreaded and cache friendly implementations for mapping, reducing, broadcasting such arrays, as well as taking views, reshaping and permuting dimensions.
   link:
-    url: https://github.com/Jutho/Strided.jl
-    display: Jutho/Strided.jl
+    url: https://github.com/QuantumKitHub/Strided.jl
+    display: QuantumKitHub/Strided.jl
 
 - title: "LinearMaps.jl"
   image: julia.svg

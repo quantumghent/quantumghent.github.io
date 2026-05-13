@@ -70,8 +70,8 @@
   topic: physics
   description: A package to store and manipulate data for fusion categories, such as the fusion rules, the F-symbols, the R-symbols, etc. The package provides a convenient interface to TensorKit.jl.
   link:
-    url: https://github.com/lkdvos/CategoryData.jl
-    display: lkdvos/CategoryData.jl
+    url: https://github.com/QuantumKitHub/CategoryData.jl
+    display: QuantumKitHub/CategoryData.jl
 
 - title: "QWignerSymbols.jl"
   image: julia.svg
@@ -79,8 +79,8 @@
   topic: physics
   description: A package to compute Wigner's 3j and 6j symbols (and related quantities such as Clebsch-Gordan coefficients and Racah coefficients) for the quantum group SU_q(2).
   link:
-    url: https://github.com/lkdvos/QWignerSymbols.jl
-    display: lkdvos/QWignerSymbols.jl
+    url: https://github.com/QuantumKitHub/QWignerSymbols.jl
+    display: QuantumKitHub/QWignerSymbols.jl
 
 - title: "TensorOperations.jl"
   image: tensoroperations.svg
@@ -97,8 +97,8 @@
   topic: general
   description: A package for sparse arrays, stored using a "dictionary of keys" format. SparseArrayKit.jl supports basic array operations and provides compatibility with TensorOperations.jl.
   link:
-    url: https://github.com/Jutho/SparseArrayKit.jl
-    display: Jutho/SparseArrayKit.jl
+    url: https://github.com/QuantumKitHub/SparseArrayKit.jl
+    display: QuantumKitHub/SparseArrayKit.jl
 
 - title: "KrylovKit.jl"
   image: krylovkit.svg

@@ -1,5 +1,9 @@
+- date: 2025-09-04
+  headline: '<a href="https://arxiv.org/abs/2609.01724"> <i> Bilinear correlations in Fluctuating Gaussian States with anti-unitary symmetries </i></a><br> Xu Zhang'
 - date: 2026-06-23
   headline: '<a href="https://arxiv.org/abs/2606.23684"> <i> Emergent Andreev Reflection from a Lattice Duality Defect </i></a><br> Atsushi Ueda, Tokiro Numasawa, Boris De Vos, Masataka Watanabe'
+- date: 2025-05-14
+  headline: '<a href="https://arxiv.org/abs/2605.13945"> <i> Quantum Monte Carlo fermion spectroscopy of a non-compact CP1 model </i></a><br> Xu Zhang, Nick Bultinck'
 - date: 2026-04-08
   headline: '<a href="https://arxiv.org/abs/2604.06922"> <i> A Practical Introduction to Tensor Network Renormalization with TNRKit.jl </i></a><br> Victor Vanthilt, Adwait Naravane, Chenqi Meng, Atsushi Ueda'
 - date: 2026-02-25
@@ -12,6 +16,8 @@
   headline: '<a href="https://arxiv.org/abs/2512.24998"> <i> Numerical study of boson mixtures with multi-component continuous matrix product states </i></a><br> Wei Tang, Benoît Tuybens, Jutho Haegeman'
 - date: 2025-12-31
   headline: '<a href="https://arxiv.org/abs/2512.24390"> <i> Les Houches Lecture Notes on Tensor Networks </i></a><br> Bram Vancraeynest-De Cuiper, Weronika Wiesiolek, Frank Verstraete'
+- date: 2025-12-10
+  headline: '<a href="https://arxiv.org/abs/2512.09025"> <i> How a bilayer Nickelate superconducts: a Quantum Monte Carlo study </i></a><br> Xu Zhang'
 - date: 2025-11-12
   headline: '<a href="https://arxiv.org/abs/2511.09546"> <i> Accelerating two-dimensional tensor network optimization by preconditioning </i></a><br> Xing-Yu Zhang, Qi Yang, Philippe Corboz, Jutho Haegeman, Wei Tang'
 - date: 2025-11-10

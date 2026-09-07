@@ -99,6 +99,14 @@
   photo: FOTOVic.jpeg
   info: PhD student since 2025
   email: vic.vanderlinden@ugent.be
+
+- name: Jarid Piceu
+  sname: Piceu
+  # photo: 
+  orcid: 0009-0007-9841-471X
+  info: PhD student since 2026
+  email: Jarid.Piceu@UGent.be
+  github: JaridPiceu
   
 #- name: Tom Vieijra
 #  photo: bb.jpg
